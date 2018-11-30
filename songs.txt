@@ -1,0 +1,282 @@
+<file name=Belgian Wheat>
+/*************************
+ Tritone sample song
+ by Carl Okada
+*************************/
+Key { G }
+
+Chord
+{
+  [ G E7, Am7 D7, Bm7 Em7, F#m7b5 B7 !
+  Em6 E7, A7 Dsus7, B7 Bb7, A7 Ab7 ]
+
+  Em6 E7, A7 Dsus7, G F7, G E7.
+
+  Am7 D7, G E7, Am7 D7, G,
+/* Since this part is in different key, specify 'M7' for accurate analysis */
+  Cm7 F7, BbM7, Em7 A7, Am7 D7.
+
+  G E7, Am7 D7, Bm7 Em7, F#m7b5 B7,
+  Em6 E7, A7 Dsus7, G (E7, Am7 D7)..
+}
+
+Misc
+{
+  Tempo = 115;
+  Repeat = 2;
+}
+</file>
+<file name=Daylight Saving Time>
+/*************************
+ Tritone sample song
+ by Carl Okada
+*************************/
+Key { Am }
+
+Chord
+{
+  Am, Bm7b5 E7b13, Am, A7,
+  Dm7 G7, Dbm7 Gb7, Cm7 F7, Bm7 E7.
+
+  Am, Bm7b5 E7b13, Am, Dm7 G7,
+  C F7#11, Bm7b5 E7, Am (D7#11, Am E7)..
+}
+
+Misc
+{
+  Tempo = 99;
+  Repeat = 3;
+}
+</file>
+<file name=It Happened on the Boat>
+/*************************
+ Tritone sample song
+ by Carl Okada
+*************************/
+Key { Ab }
+
+Chord
+{
+  [ Ab, F7, Bbm7, G7,
+  Cm7, C7, Fm7, Ebm7 Ab7 !
+
+  Db, Dbm7 Gb7, Ab, Gm7b5 C7,
+  Fm6, Bb7, Bbm7, Eb7 ]
+
+  Db, Dbm7 Gb7, Ab Db7, Cm7b5 F7,
+  Bbm7, Eb7, AM7#11, (Bbm7 Eb7)..
+}
+
+Misc
+{
+  Tempo = 170;
+  Repeat = 2;
+}
+</file>
+<file name=The Monsters>
+/*************************
+ Tritone sample song
+ by Carl Okada
+*************************/
+Key { Eb }
+
+Chord
+{
+  Eb, Bbm7 Eb7, Ab, Abm7 Db7,
+  Eb, C7, F7, Fm7 Bb7.
+
+  Eb, Bbm7 Eb7, Ab, Abm7 Db7,
+  Gm7 C7, Fm7 Bb7, Eb, Bbm7 Eb7.
+
+  Am7b5, D7#9b13, Gm7, ,
+  Fm7, Bb7, Gm7 C7, Fm7 Bb7.
+
+  Eb, Bbm7 Eb7, Ab, Abm7 Db7,
+  Gm7 C7, Fm7 Bb7, Eb (C7, Fm7 Bb7)..
+}
+
+Misc
+{
+  Tempo = 80;
+  Repeat = 1;
+}
+</file>
+<file name=Nautumay>
+/*************************
+ Tritone sample song
+ by Carl Okada
+*************************/
+Key { Gm }
+
+Chord
+{
+  [ Cm7, F7, Bb, Eb !
+  Am7b5, D7, Gm, G7 ]
+
+  Am7b5, D7, Gm, .
+
+  Am7b5, D7, Gm, G7,
+  Cm7, F7, BbM7, ,
+  Am7b5, D7, Gm7 C7, Fm7 Bb7,
+  Am7b5, D7, Gm, (G7)..
+}
+
+Misc
+{
+  Tempo = 190;
+  Repeat = 2;
+}
+</file>
+<file name=One Small Leap>
+/*************************
+ Tritone sample song
+ by Carl Okada
+*************************/
+Chord
+{
+  
+  BM7 D7, GM7 Bb7, EbM7, Am7 D7,
+  GM7 Bb7, EbM7 F#7, BM7, Fm7 Bb7,
+  EbM7, Am7 D7, GM7, C#m7 F#7,
+  BM7, Fm7 Bb7, EbM7, (C#m7 F#7)..
+}
+
+Misc
+{
+  Tempo = 220;
+  Repeat = 4;
+}
+</file>
+<file name=Oswego Blues>
+/*************************
+ Tritone sample song
+ by Carl Okada
+*************************/
+Key { F }
+
+Chord
+{
+  F7, Bb7, F7, ,
+  Bb7, , F7, D7,
+  Gm7, C7, F7 (D7, G7 C7)..
+}
+
+Misc
+{
+  Tempo = 130;
+  Repeat = 2;
+}
+</file>
+<file name=Quatro>
+/*************************
+ Tritone sample song
+ by Carl Okada
+*************************/
+Key { C }
+
+Chord
+{
+  [ Eb, , Ebm7, Ab7,
+  Fm9, , Abm7, Db7#11,
+  Eb, F#m7 B7, Fm7, Bb7 !
+  Eb, F#m7 B7, Fm7, Bb7 ]
+
+  Gm7 C7, Fm7 Bb7, Eb (C7, Fm7 Bb7)..
+}
+
+Misc
+{
+  Tempo = 200;
+  Repeat = 2;
+}
+</file>
+<file name=Rhythm Changes>
+/*************************
+ Tritone sample song
+ by Carl Okada
+*************************/
+Key { bb } /* not case sensitive */
+
+Chord
+{
+/* 'Bb' can be written as 'bb', but 'b5' cannot be as 'B5' */
+  [ /* Repeat begins here */
+  bb g7,cm7 f7,dm7 g7,cm7 f7
+  ! /* First time */
+
+/* It is always good to align repeat-branch by 4 bars */
+
+  bb bb7,eb eo,dm7 g7,cm7 f7
+  ] /* Repeat ends here */
+
+  /* Second time */
+  bb bb7,eb eo,cm7 f7,bb.
+
+  d7,,g7,,
+  c7,,f7,.
+
+  bb g7,cm7 f7,dm7 g7,cm7 f7,
+  bb bb7,eb eo,cm7 f7,bb
+  (f7) /* Chords in between parentheses are not played very last time*/
+  .. /* End of song */
+}
+
+Misc
+{
+  Tempo = 270;
+  Repeat = 3;
+}
+</file>
+<file name=A Snail>
+/*************************
+ Tritone sample song
+ by Carl Okada
+*************************/
+Key { Cm }
+
+Chord
+{
+  [ Cm Am7b5, Dm7b5 G7, Cm Am7b5, Dm7b5 G7 !
+  Cm Am7b5, Dm7b5 G7, Cm Am7b5, Dm7b5 G7 ]
+
+  Cm Am7b5, Dm7b5 G7, Cm Am7b5, Fm7 Bb7.
+
+  Eb69, , C7+9, ,
+  Fm7, D7b9, Dm7b5, G7.
+
+  Cm Am7b5, Dm7b5 G7, Cm Am7b5, Dm7b5 G7,
+  Cm Am7b5, Dm7b5 G7, Cm (Am7b5, Dm7b5 G7)..
+}
+
+Misc
+{
+  Tempo = 160;
+  Repeat = 2;
+}
+</file>
+<file name=The White Knight Syndrome>
+/*************************
+ Tritone sample song
+ by Carl Okada
+*************************/
+Misc
+{
+  Tempo  = 160;
+  Repeat  = 2;
+}
+
+Key{bb}
+
+TimeSignature{3/4}
+
+Chord
+{
+  [ Bbmaj7, D+7, Eb, G7,
+  Cm7, G+7, Cm7, F7 !
+  Dm7, Dbo, Cm7, F7,
+  Dm7, Dbo, Cm7, F7 ]
+
+  Fm7, Bb7, Eb, Eo,
+  Dm7, Db7, Cm7, F7..
+}
+</file>
