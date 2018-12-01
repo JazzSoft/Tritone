@@ -1,3 +1,36 @@
+<file name=Auld Lang Syne>
+Key{f}
+Misc
+{
+  Tempo    = 100;
+  Repeat    = 1;
+}
+Chord
+{
+  ,,,.
+
+  f,em7b5 a7,dm dm7 on c,bb bo,
+  f g7,gm7 c7,f gm7 c7,f bo.
+
+  f g7,gm7 c7,f f7,bb bo,
+  f g7,em7b5 a7,dm7 gm7 c7,f (c7)..
+}
+
+Note
+{
+  ,,,///c5,
+
+  fq. eo fq a, gq. fo gq a,
+  fh aq c6, dh rq d,
+  cq. a5o aq f, gq. fo gq a,
+  fq. do dq c, fh rq d6,
+
+  cq. a5o aq f, gq. fo gq d6,
+  cq. a5o aq c6, dh rq d,
+  cq. a5o aq f, gq. fo gq a,
+  fq. do dq c, fh r,
+}
+</file>
 <file name=Belgian Wheat>
 /*************************
  Tritone sample song
@@ -46,6 +79,56 @@ Misc
 {
   Tempo = 99;
   Repeat = 3;
+}
+</file>
+<file name=Green Sleeves>
+Key { G } /* A Dorian scale */
+TimeSignature{3/4}
+Chord
+{
+  ,,,.
+
+  Am, C, Bm7, Em7,
+  Am,, Em7,.
+
+  Am, C, Bm7, Em7,
+  Am, E7, Am,.
+
+  C,, Bm7, Em7,
+  Am,, Em7,.
+
+  C,, Bm7, Em7,
+  Am, E7, Am,..
+}
+
+Note
+{
+  ,,,//a5,
+  c6h dq, eq. f#o eq,
+  dh b5q, gq. ao bq,
+  c6h a5q, aq. go aq,
+  bh gq, eq. ro aq,
+
+  c6h dq, eq. f#o eq,
+  dh b5q, gq. ao bq,
+  c6q. b5o aq, g#q. f#o g#q,
+  ah.,r,
+
+  g6h rq, g f# e,
+  dh b5q, gq. ao bq,
+  c6h a5q, aq. go aq,
+  bh gq, eh rq,
+
+  g6h rq, g f# e,
+  dh b5q, gq. ao bq,
+  c6q. b5o aq, g#q. f#o g#q,
+  ah., r,
+}
+
+Misc
+{
+  Tempo = 120;
+  Repeat = 1;
 }
 </file>
 <file name=It Happened on the Boat>
