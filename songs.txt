@@ -440,3 +440,211 @@ Chord
   Dm7, Db7, Cm7, F7..
 }
 </file>
+<file name=O Christmas Tree>
+Key{ab}
+
+TimeSignature{3/4}
+
+Misc
+{
+  Tempo  = 85;
+  Repeat  = 1;
+}
+
+Chord
+{
+  ,,,.
+
+  ab db7,cm7 f7,bbm7 eb7,ab eb7,
+  ab db7,cm7 f7,bbm7 eb7,ab.
+
+  ebm7 ab13,db,bbm7 eb7,ab gm7-5 c7.
+
+  fm,cm7 f7,bbm7 eb7,ab (eb7)..
+}
+
+Note
+{
+  ,,, rh eb5q,
+
+  abo ab abq. bbo, c6o c cq. co, bb5o c6 dbq g5, bb ab ro eb,
+  abo ab abq. bbo, c6o c cq. co, bb5o c6 dbq g5, bb ab ro eb6,
+
+  ebo c fq. ebo, ebo db dbq. dbo, dbo bb5 eb6q. dbo, dbo c cq eb5,
+
+  abo ab abq. bbo, c6o c cq. co, bb5o c6 dbq g5, bb ab r,
+}
+
+Lyrics
+{
+  |||//
+
+  O | Christmas tree / o | Christmas tree /
+  How | lovely are thy | branches /
+  O | Christmas tree / o | Christmas tree /
+  How | lovely are thy | branches /
+
+  Your | boughs so green in | summertime /
+  Stay | bravely green in | wintertime /
+  O | tannenbaum / o | Christmas tree /
+  How | lovely are thy | branches |
+}
+</file>
+<file name=Hark, The Herald Angels Sing>
+Title
+{
+  Hark! The Herald Angels Sing
+}
+
+Key{f}
+
+Misc
+{
+  Tempo    = 110;
+  Repeat   = 1;
+}
+
+Chord
+{
+  f, f bm7-5 e7, am7 bbmaj7, gm7 c7 f /,
+  f a7, dm dm7, g7, gm7 c7.
+
+  f / / f7, bb am7 gm7 c7, f / / f7, bb am7 cm7 f7,
+  bb am7-5 d7, gm7 bbm7, gm7, c7 f f7,
+  bb am7-5 d7, gm7 bbm7, gm7, c7 f (c7)..
+}
+
+Note
+{
+  c5q f f e, f a a g, c6 c cq. bb5o, aq g a r,
+  c5q f f e, f a a g, c6 g5 gq. fo, eq d c r,
+
+  c6q c c f5, bb a a g, c6q c c f5, bb a a g,
+  d6 d d c, bb5q a bb r, g ao bb c6q. f5o, fq g a r,
+  d6 d d c, bb5q a bb r, g ao bb c6q. f5o, fq g f r,
+}
+
+Lyrics
+{
+  Hark! the herald | angels sing |
+  Glory to the | new-born King! |
+  Peace on earth, and | mercy mild |
+  God and sinners | reconciled |
+
+  Joyful, all ye | nations, rise |
+  Join the triumph | of the skies |
+  With th' angelic | host proclaim |
+  Christ is born in | Bethlehem |
+  Hark! the herald | angels sing |
+  Glory to the | new-born King! |
+}
+</file>
+<file name=Have Yourself A Merry Little Christmas>
+Key{c}
+
+Misc
+{
+  Tempo    = 90;
+  Repeat   = 1;
+}
+
+Chord
+{
+  c am7,dm7 g7,c am7,dm7 g7,
+  c am7,bm7b5 e7,am,dm7 g7,
+  c am7,dm7 g7,c am7,dm7 g7,
+  c am7,bm7b5 e7,am,gm7 c7.
+
+  fmaj7,em7,dm7 g7,cmaj7,
+  f#m7b5 b7,em7 a7,d7#11,dm7 g7.
+
+  c am7,dm7 g7,c am7,dm7 g7,
+  c am7,bm7b5 e7,am,gm7 c7.
+  fmaj7 em7,dm7 g7,c (a7,dm7 g7)..
+}
+
+Note
+{
+  c5q e g c6, g5o f e d cq d, c5q e g c6, g5h rq f,
+  e g c6 e, do c b5 a gq f, eh. rq, rw,
+
+  c5q e g c6, g5o f e d cq d, c5q e g c6, g5h rq f,
+  e g c6 e, do c b5 a g#q b, c6h. rq, rw,
+
+  eq e e do c, b5 c6 dh co b5, a b c6h b5q, bh. rq,
+  c6q c c b5o a, g a bh go a, b c6 dh d5q, gh. rq,
+
+  c5q e g c6, g5o f e d cq d, c5q e g c6, g5h rq f,
+  e g c6 e, fo e d c b5q c6o d, ew, _eh rq e,
+  eq f5 a c6, eo d c b5 aq b, c6w, r,
+}
+
+Lyrics
+{
+  Have yourself a | merry little Christmas |
+  Let your heart be | light |
+  From now on your | troubles will be out of | sight | |
+
+  Have yourself a | merry little Christmas |
+  Make the Yuletide | gay |
+  From now on your | troubles will be miles | away | |
+
+  Here we are as in | olden days / /
+  Happy | golden days of | yore |
+  Faithful friends who are | dear to us / /
+  Gather | near to us once | more |
+
+  Through the years we | all will be | together |
+  If the fates | allow |
+  Hang a shining | star upon the highest | place / /
+  So | have yourself a | merry little Christmas | night |
+}
+</file>
+<file name=White Christmas>
+Key{c}
+
+Misc
+{
+  Tempo    = 140;
+  Repeat   = 1;
+}
+
+Chord
+{
+  c,dm7 c cdim c,dm7,g7 c7,
+  f,f#m7b5 b7,em7 a7,dm7g7,
+  c,c7,f,fm7 bb7,
+  c,a7,d7,g7.
+
+  c,dm7 c cdim c,dm7,g7 c7,
+  f,f#m7b5 b7,em7 a7,dm7g7,
+  c,c7,f,fm7 bb7,
+  c a7,dm7 g7,c (a7, dm7 g7)..
+}
+
+Note
+{
+  e5w, fq e eb e, fw, f#q gh rq,
+  rq a b c6, d c b5 a, gw, rh cq d,
+  eh e, eq ah gq, ch c, cq gh fq,
+  ew, fq e d c, dw, r,
+
+  e5w, fq e eb e, fw, f#q gh rq,
+  rq a b c6, d c b5 a, gw, rh cq d,
+  eh e, eq ah gq, c6w, rh c5q d,
+  eh e, ah b4, c5w, r,
+}
+
+Lyrics
+{
+  I'm | dreaming of a | white | Christmas |
+  / Just like the | ones I used to | know |
+  // Where the | tree- / tops | glisten // and | children | listen
+  // to | hear | sleigh bells in the | snow ||
+
+  I'm | dreaming of a | white | Christmas |
+  / With every | Christmas card I | write |
+  // May your | days / be | merry // and | bright |
+  // And may | all / your | Christmases be | white |
+}
+</file>
