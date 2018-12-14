@@ -9,11 +9,11 @@ Chord
 {
   ,,,.
 
-  f,em7b5 a7,dm dm7 on c,bb bo,
-  f g7,gm7 c7,f gm7 c7,f bo.
+  F, Em7b5 A7, Dm Dm7 on C, Bb Bo,
+  F G7, Gm7 C7, F Gm7 C7, F Bo.
 
-  f g7,gm7 c7,f f7,bb bo,
-  f g7,em7b5 a7,dm7 gm7 c7,f (c7)..
+  F G7, Gm7 C7, F F7, Bb Bo,
+  F G7, Em7b5 A7, Dm7 Gm7 C7, F (C7)..
 }
 
 Note
@@ -29,6 +29,17 @@ Note
   cq. a5o aq c6, dh rq d,
   cq. a5o aq f, gq. fo gq a,
   fq. do dq c, fh r,
+}
+
+Lyrics
+{
+  | | | / / Should |
+  auld acquaintance | be forgot / / and | never / brought to | mind? / Should |
+  auld acquaintance | be forgot / / and | auld / lang|syne? / / For |
+
+  auld lang syne, my | dear, / / For | auld / lang | syne / We'll |
+  take a cup of | kindness yet for |
+  auld / lang | syne!
 }
 </file>
 <file name=Belgian Wheat>
@@ -250,6 +261,34 @@ Misc
   Repeat = 2;
 }
 </file>
+<file name=Pathetique (2nd Movement)>
+Key { Ab }
+
+Chord
+{
+  Ab Eb7 | Ab on C Dbm7 Gb7 | Gm11 /* This is intentional */ C7 Fm / | Eb7 |
+  Db Db7#11 | Cm7-5 F7 | Bbm7 Eb7 | Ebsus7 on Ab Ab F13 ||
+
+  /* John Coltrane changes */
+  Emaj7 Bbm7 Eb13 | Ab Dm9 G13 | Cmaj7 C7 Fm / | Emaj7#11 / / Eb7 -9 |
+  Dm7-5 G7#9-13 | Cm9 F7 | Bm9 E13 Bbm7 Eb7 | Emaj7#11 Ab (Eb7) |||
+}
+
+Note
+{
+  C6h Bb5 | Eb6h. Dbq | C Eb Ab Bb | Ebh. Eq |
+  Fh Bb5q. C6s Db | Ebh A5 | Db6h Co Bb5 Ab G | Bbh Ab |
+
+  Bh C6q Bb5 | Eb6h Eq D | G G Ab Bb | Ebh. Eq |
+  Fh Bb5q. C6s Db | Ebh A5 | Db6h Co Bb5 Ab G | Bbh Ab |
+}
+
+Misc
+{
+  Tempo = 90;
+  Repeat = 0;
+}
+</file>
 <file name=Quatro>
 /*************************
  Tritone sample song
@@ -335,6 +374,44 @@ Misc
 {
   Tempo = 160;
   Repeat = 2;
+}
+</file>
+<file name=Twinkle Twinkle Little Star>
+Key { Bb }
+
+Chord
+{
+  Bb / Fm7 Bb7, Eb A7 Dm7 G7,
+  Ebm7 Ab7 Dm-5 G7, Cm7 F7 Bb /,
+
+  Bb Dm7-5 G7 /, Cm7 F7,
+  Bb G7 Cm7 /, Am7-5 D7,
+
+  Gm6 D7, Em7-5 A7 Dm7 G7,
+  Ebm7 Ab7 Dm-5 G7, C7 F7 Bb (F7)..
+}
+
+Note
+{
+  Bb5q Bb F6 F, G G Fh, Ebq Eb D D, C C Bb5h,
+  F6q F Eb Eb, D D Ch, F6q F Eb Eb, D D Ch,
+  Bb5q Bb F6 F, G G Fh, Ebq Eb D D, C C Bb5h,
+}
+
+Lyrics
+{
+  Twinkle, twinkle | little star |
+  How I wonder | what you are |
+  Up above the | world so high |
+  Like a diamond | in the sky |
+  Twinkle, twinkle | little star |
+  How I wonder | what you are |
+}
+
+Misc
+{
+  Tempo = 90;
+  Repeat = 1;
 }
 </file>
 <file name=The White Knight Syndrome>
