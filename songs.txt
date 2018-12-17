@@ -18,16 +18,16 @@ Chord
 
 Note
 {
-  ,,,///c5,
+  ,,,///c4,
 
   fq. eo fq a, gq. fo gq a,
-  fh aq c6, dh rq d,
-  cq. a5o aq f, gq. fo gq a,
-  fq. do dq c, fh rq d6,
+  fh aq c5, dh rq d,
+  cq. a4o aq f, gq. fo gq a,
+  fq. do dq c, fh rq d5,
 
-  cq. a5o aq f, gq. fo gq d6,
-  cq. a5o aq c6, dh rq d,
-  cq. a5o aq f, gq. fo gq a,
+  cq. a4o aq f, gq. fo gq d5,
+  cq. a4o aq c5, dh rq d,
+  cq. a4o aq f, gq. fo gq a,
   fq. do dq c, fh r,
 }
 
@@ -114,25 +114,25 @@ Chord
 
 Note
 {
-  ,,,//a5,
-  c6h dq, eq. f#o eq,
-  dh b5q, gq. ao bq,
-  c6h a5q, aq. go aq,
+  ,,,//a4,
+  c5h dq, eq. f#o eq,
+  dh b4q, gq. ao bq,
+  c5h a4q, aq. go aq,
   bh gq, eq. ro aq,
 
-  c6h dq, eq. f#o eq,
-  dh b5q, gq. ao bq,
-  c6q. b5o aq, g#q. f#o g#q,
+  c5h dq, eq. f#o eq,
+  dh b4q, gq. ao bq,
+  c5q. b4o aq, g#q. f#o g#q,
   ah.,r,
 
-  g6h rq, g f# e,
-  dh b5q, gq. ao bq,
-  c6h a5q, aq. go aq,
+  g5h rq, g f# e,
+  dh b4q, gq. ao bq,
+  c5h a4q, aq. go aq,
   bh gq, eh rq,
 
-  g6h rq, g f# e,
-  dh b5q, gq. ao bq,
-  c6q. b5o aq, g#q. f#o g#q,
+  g5h rq, g f# e,
+  dh b4q, gq. ao bq,
+  c5q. b4o aq, g#q. f#o g#q,
   ah., r,
 }
 
@@ -140,6 +140,20 @@ Misc
 {
   Tempo = 120;
   Repeat = 1;
+}
+
+Lyrics
+{
+  ||||
+  Alas my | love you | do me | wrong |
+  To cast me | off | discourteously | |
+  And I have | loved you | well so | long
+  Delighting | in your | company | |
+
+  Green- | sleeves was | my | delight |
+  Green- | sleeves my | heart of | gold |
+  Green- | sleeves was | my heart of | joy |
+  And who but my | lady Green- | sleeves | |
 }
 </file>
 <file name=It Happened on the Boat>
@@ -276,11 +290,11 @@ Chord
 
 Note
 {
-  C6h Bb5 | Eb6h. Dbq | C Eb Ab Bb | Ebh. Eq |
-  Fh Bb5q. C6s Db | Ebh A5 | Db6h Co Bb5 Ab G | Bbh Ab |
+  C5h Bb4 | Eb5h. Dbq | C Eb Ab Bb | Ebh. Eq |
+  Fh Bb4q. C5s Db | Ebh A4 | Db5h Co Bb4 Ab G | Bbh Ab |
 
-  Bh C6q Bb5 | Eb6h Eq D | G G Ab Bb | Ebh. Eq |
-  Fh Bb5q. C6s Db | Ebh A5 | Db6h Co Bb5 Ab G | Bbh Ab |
+  Bh C5q Bb4 | Eb5h Eq D | G G Ab Bb | Ebh. Eq |
+  Fh Bb4q. C5s Db | Ebh A4 | Db5h Co Bb4 Ab G | Bbh Ab |
 }
 
 Misc
@@ -393,9 +407,9 @@ Chord
 
 Note
 {
-  Bb5q Bb F6 F, G G Fh, Ebq Eb D D, C C Bb5h,
-  F6q F Eb Eb, D D Ch, F6q F Eb Eb, D D Ch,
-  Bb5q Bb F6 F, G G Fh, Ebq Eb D D, C C Bb5h,
+  Bb4q Bb F5 F, G G Fh, Ebq Eb D D, C C Bb4h,
+  F5q F Eb Eb, D D Ch, F5q F Eb Eb, D D Ch,
+  Bb4q Bb F5 F, G G Fh, Ebq Eb D D, C C Bb4h,
 }
 
 Lyrics
@@ -465,14 +479,14 @@ Chord
 
 Note
 {
-  ,,, rh eb5q,
+  ,,, rh eb4q,
 
-  abo ab abq. bbo, c6o c cq. co, bb5o c6 dbq g5, bb ab ro eb,
-  abo ab abq. bbo, c6o c cq. co, bb5o c6 dbq g5, bb ab ro eb6,
+  abo ab abq. bbo, c5o c cq. co, bb4o c5 dbq g4, bb ab ro eb,
+  abo ab abq. bbo, c5o c cq. co, bb4o c5 dbq g4, bb ab ro eb5,
 
-  ebo c fq. ebo, ebo db dbq. dbo, dbo bb5 eb6q. dbo, dbo c cq eb5,
+  ebo c fq. ebo, ebo db dbq. dbo, dbo bb4 eb5q. dbo, dbo c cq eb4,
 
-  abo ab abq. bbo, c6o c cq. co, bb5o c6 dbq g5, bb ab r,
+  abo ab abq. bbo, c5o c cq. co, bb4o c5 dbq g4, bb ab r,
 }
 
 Lyrics
@@ -516,12 +530,12 @@ Chord
 
 Note
 {
-  c5q f f e, f a a g, c6 c cq. bb5o, aq g a r,
-  c5q f f e, f a a g, c6 g5 gq. fo, eq d c r,
+  c4q f f e, f a a g, c5 c cq. bb4o, aq g a r,
+  c4q f f e, f a a g, c5 g4 gq. fo, eq d c r,
 
-  c6q c c f5, bb a a g, c6q c c f5, bb a a g,
-  d6 d d c, bb5q a bb r, g ao bb c6q. f5o, fq g a r,
-  d6 d d c, bb5q a bb r, g ao bb c6q. f5o, fq g f r,
+  c5q c c f4, bb a a g, c5q c c f4, bb a a g,
+  d5 d d c, bb4q a bb r, g ao bb c5q. f4o, fq g a r,
+  d5 d d c, bb4q a bb r, g ao bb c5q. f4o, fq g f r,
 }
 
 Lyrics
@@ -565,18 +579,18 @@ Chord
 
 Note
 {
-  c5q e g c6, g5o f e d cq d, c5q e g c6, g5h rq f,
-  e g c6 e, do c b5 a gq f, eh. rq, rw,
+  c4q e g c5, g4o f e d cq d, cq e g c5, g4h rq f,
+  e g c5 e, do c b4 a gq f, eh. rq, rw,
 
-  c5q e g c6, g5o f e d cq d, c5q e g c6, g5h rq f,
-  e g c6 e, do c b5 a g#q b, c6h. rq, rw,
+  cq e g c5, g4o f e d cq d, cq e g c5, g4h rq f,
+  e g c5 e, do c b4 a g#q b, c5h. rq, rw,
 
-  eq e e do c, b5 c6 dh co b5, a b c6h b5q, bh. rq,
-  c6q c c b5o a, g a bh go a, b c6 dh d5q, gh. rq,
+  eq e e do c, b4 c5 dh co b4, a b c5h b4q, bh. rq,
+  c5q c c b4o a, g a bh go a, b c5 dh d4q, gh. rq,
 
-  c5q e g c6, g5o f e d cq d, c5q e g c6, g5h rq f,
-  e g c6 e, fo e d c b5q c6o d, ew, _eh rq e,
-  eq f5 a c6, eo d c b5 aq b, c6w, r,
+  cq e g c5, g4o f e d cq d, cq e g c5, g4h rq f,
+  e g c5 e, fo e d c b4q c5o d, ew, _eh rq e,
+  eq f4 a c5, eo d c b4 aq b, c5w, r,
 }
 
 Lyrics
@@ -624,15 +638,15 @@ Chord
 
 Note
 {
-  e5w, fq e eb e, fw, f#q gh rq,
-  rq a b c6, d c b5 a, gw, rh cq d,
+  e4w, fq e eb e, fw, f#q gh rq,
+  rq a b c5, d c b4 a, gw, rh cq d,
   eh e, eq ah gq, ch c, cq gh fq,
   ew, fq e d c, dw, r,
 
-  e5w, fq e eb e, fw, f#q gh rq,
-  rq a b c6, d c b5 a, gw, rh cq d,
-  eh e, eq ah gq, c6w, rh c5q d,
-  eh e, ah b4, c5w, r,
+  e4w, fq e eb e, fw, f#q gh rq,
+  rq a b c5, d c b4 a, gw, rh cq d,
+  eh e, eq ah gq, c5w, rh c4q d,
+  eh e, ah b3, c4w, r,
 }
 
 Lyrics
