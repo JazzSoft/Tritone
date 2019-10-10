@@ -18912,292 +18912,97 @@ Misc
   MusicBy = "Tito Puente";
 }
 </file>
-<file name=P.S. I Love You>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=P.Y.T. (Pretty Young Thing)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
 <file name=Pannonica>
 Key { C }
 
 Chord
 {
-  
-}
+  [ Cmaj7 | Ebm7 Ab7 | Dm7 Bb7 | Ebmaj7 A7#11 |
+  Ab7 Db7 | Gbmaj7 F7#5 | Ebm7 Ab7 G7 | Dbmaj7 ]
 
-Note
-{
-  
-}
+  Gm7 C7 | Cm7 F7 | Gb7 | Bmaj7 |
+  Dm7 G7b13 | Cmaj7 Gm7 C7 | Bm7 E7 | A7 D7.
 
-Lyrics
-{
-  
+  Cmaj7 | Ebm7 Ab7 | Dm7 Bb7 | Ebmaj7 A7#11 |
+  Ab7 Db7 | Gbmaj7 F7#5 | Ebm7 Ab7 G7 | D7 Dm7 G7 | Dbmaj7..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Papa Lips (Mintzer)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Paper Doll>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Parisian Thoroughfare>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Part Time Lover>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Partido Alto (Bertrami)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Thelonious Monk";
 }
 </file>
 <file name=The Party's Over>
-Key { C }
+Key { Eb }
 
 Chord
 {
-  
-}
+  Ebmaj7 Cm7 | Fm7 Bb7 | | |
+  Ebmaj7 | Abmaj7 | Gm7 | C7 |
+  Fm7 | Abm6 Db9 | Ebmaj7 | Eb6 |
+  Dm7 | G7 | C7 F7 | Bb7.
 
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  Ebmaj7 Cm7 | Fm7 Bb7 | | |
+  Ebmaj7 | | Bbm7 | Eb7 |
+  Abmaj7 | Bb7 | Gm7b5 | C7 |
+  Fm7 | Bb7 | Ebmaj7 | Cm7 |
+  Fm7 | Bb7 | Eb6 | Fm7 Bb7..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Styne-Comden-Green";
 }
 </file>
 <file name=Passion Dance>
-Key { C }
+Key { F }
 
 Chord
 {
-  
-}
+  [ Fsus7 | | | |
+  Fsus7 | | | ]
 
-Note
-{
-  
-}
+  Bb7b13sus4 | | | |
+  Bb7b13sus4 | | | .
 
-Lyrics
-{
-  
+  Eb-11 on Bb | | | |
+  Eb-11 on Bb | | Db on Cb C7#9 | C7#9..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Passion Flower>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "McCoy Tyner";
 }
 </file>
 <file name=Passport>
-Key { C }
+Key { Bb }
 
 Chord
 {
-  
-}
+  Bbmaj7 G7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+  Fm7 Bb7 | Eb7 Ab7 | Dm7 G7 | Cm7 F7 .
 
-Note
-{
-  
-}
+  Bbmaj7 G7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+  Fm7 Bb7 | Eb7 Ab7 | Cm7 F7 | Bb6 .
 
-Lyrics
-{
-  
+  D7 | | G7 | |
+  C7 | | F7 | .
+
+  Bbmaj7 G7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+  Fm7 Bb7 | Eb7 Ab7 | Cm7 F7 | Bb6 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Charlie Parker";
 }
 </file>
 <file name=Pathetique (2nd Movement)>
@@ -19229,99 +19034,46 @@ Misc
 }
 </file>
 <file name=Peace>
-Key { C }
+Key { Bb }
 
 Chord
 {
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  Am7b5 D7b9 | Gm7 C7 | Bmaj7 Cm7b5 F7 | Bbmaj7 |
+  Bm7 E7 | Amaj7 F#m7 | Ebm7b5 Ab7 | Dbmaj7 |
+  C7 B7#11 | Bbmaj7..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Peel Me A Grape>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Peep>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Horace Silver";
 }
 </file>
 <file name=Peggy's Blue Skylight>
-Key { C }
+Key { Db }
 
 Chord
 {
-  
-}
+  [ Gm7b5 | C7 | F-maj7 | |
+  Bbm7 | Eb+ | Abmaj7 | D7 |
+  Dsus7 | C7#9 | B7 | Bb7 !
+  Ebm7 | Ab7 | Dbmaj7 | Gbm7b5 ]
 
-Note
-{
-  
-}
+  Ebm7 | Ab7 | Dbmaj7 | .
 
-Lyrics
-{
-  
+  Abm7 | Db7 | Gm7 C7 | Fmaj7 |
+  Fm7 | Bb7 | Ebmaj7 | Abmaj7 D7 .
+
+  Dbsus7 | C7#9 | B13 | Bb7 |
+  Ebm7 | Ab7 | Dbmaj7 | ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Charles Mingus";
 }
 </file>
 <file name=Pennies From Heaven>
@@ -19329,14 +19081,22 @@ Key { C }
 
 Chord
 {
-  
+  C6 Fmaj7 | Em7 Ebo7 | Dm7 | G7 |
+  C6 Fmaj7 | Em7 Ebo7 | Dm7 | G7 |
+  Gm7 | C7 | Fmaj7 | |
+  D7 | | G7 | .
+
+  C6 Fmaj7 | Em7 Ebo7 | Dm7 | G7 |
+  Gm7 | C7 | Fmaj7 | |
+  Dm7 | Bb7#11 | Em7 | A7 |
+  Dm7 | G7 | C6 (A7 | Dm7 G7) ..
 }
 
 Note
 {
   
 }
-
+/*
 Lyrics
 {
   Every time it rains, it rains pennies from heaven
@@ -19357,83 +19117,59 @@ If you want the things you love you must have showers
 (So when you hear it thunder) Don't run under a tree
 There'll be pennies from heaven for you and for me
 }
-
+*/
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Arthur Johnston";
 }
 </file>
 <file name=Pent up House>
-Key { C }
+Key { G }
 
 Chord
 {
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  Am7 | D7 | Gmaj7 | |
+  Am7 | D7 | Gmaj7 | |
+  Dm7 | G7 | Cm7 | F7 |
+  Am7 | D7 | Gmaj7 | ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Penthouse Serenade>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Sonny Rollins";
 }
 </file>
 <file name=People>
-Key { C }
+Key { Bb }
 
 Chord
 {
-  
-}
+  Bbmaj7 Gm7 | Cm7 F7 | Bbmaj7 Gm7 | Cm7 F7b9 |
+  Eb on Bb | Bbmaj7 | Am7 | D7 .
 
-Note
-{
-  
-}
+  G-maj7 | | C7#11 | |
+  Gm7b5 C7 | Fmaj7 F6 | G on B Bbm6 | F on A Abo7 |
+  Gm7 | C7 | E on F F6 / / | Cm7 F7 .
 
-Lyrics
-{
-  
+  Bbmaj7 Gm7 | Cm7 F7 | Bbmaj7 Gm7 | Cm7 F7b9 |
+  Eb on Bb | Bbmaj7 | Fm7 | Bb7 .
+
+  Ebmaj7 | / Ebm7 | Bb6 | Fm7 Bb7b9 |
+  Ebmaj7 | / F7 on Eb | Bb on D | Em7b5 A7 |
+  Bb on D Gm7 | Cm7 F7 | Bbmaj7 | / / Fm7 Bb7 |
+  Ebmaj7 | Ab9#11 | Eb on F | Cm7 Cm7 on F |
+  Bb6 | (Cm7 F7) ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Jule Styne";
 }
 </file>
 <file name=People Will Say We're In Love>
@@ -19441,23 +19177,25 @@ Key { C }
 
 Chord
 {
-  
-}
+  [ C6 | | Cmaj7 | Dm7 G7 |
+  C6 | C6 Ebo7 | G7 on D | G7 |
+  C6 | Am7 | D7 | !
+  Dm7 | G7b9 | C6 C#o7 | Dm7 G7 ]
 
-Note
-{
-  
-}
+  Dm7 | G7b9 | C6 F7 | C6 .
 
-Lyrics
-{
-  
+  Cm7 F7 | Cm7 F7b9 | Bbmaj7 | |
+  Bm7b5 E7 | A7 | D7 | G7 .
+
+  C6 | Am7 | D7 | |
+  Dm7 | Db7 | C6 | ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Richard Rodgers";
 }
 </file>
 <file name=Perdido>
@@ -19490,7 +19228,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 Perdido, I look for my heart it's perdido
@@ -19516,29 +19254,26 @@ Perdido oeoeoeoe Perdido oeoeoeoe Perdido
 That's when my heart departed
 It's perdido
 }
+*/
 </file>
 <file name=Perhaps>
 Key { C }
 
 Chord
 {
-  
-}
+  C7 | | | |
+  F7 | | C7 | Em7 Ab7b9 .
 
-Note
-{
-  
-}
+  Dm7 | G7 | C7 | Dm7 G7 .
 
-Lyrics
-{
-  
+  Dm7 G7 | C7 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Charlie Parker";
 }
 </file>
 <file name=Peri's Scope>
@@ -19579,220 +19314,87 @@ Misc
   Repeat = 2;
 }
 </file>
-<file name=Petite Fleur>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Petits Machins>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
 <file name=Pfrancing (No Blues)>
-Key { C }
+Key { F }
 
 Chord
 {
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  F7 | Bb7 | F7 | Cm7 F7 |
+  Bb7 | Bo7 | F7 | Am7 D7 |
+  Gm7 | C7 | F7 (D7 | Gm7 C7) ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Miles Davis";
 }
 </file>
 <file name=Phase Dance>
-Key { C }
+Key { Bm }
 
 Chord
 {
-  
-}
+  [ B-9 | | | |
+  Bbmaj7#11 | | | ]
 
-Note
-{
-  
-}
+  Gmaj7 on A | | | |
+  G69 | | | .
 
-Lyrics
-{
-  
+  B-9 | | | |
+  Bbmaj9#11 | | | ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Picadillo (a la Puente)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Pat Metheny";
 }
 </file>
 <file name=Pick Yourself Up>
-Key { C }
+Key { F }
 
 Chord
 {
-  
-}
+  Gm7 C7 | Fmaj7 Bbmaj7 | Em7b5 A7b9 | Dm7 G7 |
+  Csus7 C7 | Am7 D7b9 | Gm7 C7 | Fmaj7 .
 
-Note
-{
-  
-}
+  Am7 D7 | Gmaj7 Cmaj7 | F#m7b5 B7b9 | Em7 A7 |
+  Dsus7 D7 | Bm7 E7b9 | Am7 D7 | Gmaj7 .
 
-Lyrics
-{
-  
+  Abmaj7 | | Ebm7 | Ab7 |
+  Cmaj7 | | Am7 D7 | Gm7 C7 .
+
+  Gm7 C7 | Fmaj7 Bbmaj7 | Em7b5 A7b9 | Dm7 G7 |
+  Csus7 C7 | Am7 D7b9 | Gm7 C7 | F6 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Jerome Kern";
 }
 </file>
 <file name=Pinocchio>
-Key { C }
+Key { Ebm }
 
 Chord
 {
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  Ebm69 | / A-9 | Dbm69 | / A-9 |
+  Dmaj7#5 | | G-maj7 | |
+  Gm6 | Ebmaj7 B-maj7 | Ebm69 | |
+  Db9sus4 | E9sus4 | B7#9#5 | Gb13 |
+  F#-maj7 |..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Pithecanthropus Erectus>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Plaza Real>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Wayne Shorter";
 }
 </file>
 <file name=Plum>
@@ -19832,27 +19434,28 @@ Lyrics
 }
 </file>
 <file name=Poinciana (Song Of The Tree)>
-Key { C }
+Key { D }
 
 Chord
 {
-  
-}
+  [ Asus7 | | | |
+  Asus7 | | D6 | ][
 
-Note
-{
-  
-}
+  D6 | | Am on D | |
+  Gm7 | Em7b5 A7b9 | D6 | ]
 
-Lyrics
-{
-  
+  Gm7 | | Amaj7 | |
+  Gm7 | | Asus7 |.
+
+  D6 | | Am on D | |
+  Gm7 | Em7b5 A7b9 | D6 | Asus7..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Nat Simon";
 }
 </file>
 <file name=Polka Dots And Moonbeams>
@@ -19884,7 +19487,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 A country dance was being held in a garden
@@ -19904,125 +19507,77 @@ I know the meaning of the words "Ever after"
 And I'll always see polka dots and moonbeams
 When I kiss the pug-nosed dream
 }
+*/
 </file>
 <file name=Poor Butterfly>
-Key { C }
+Key { Ab }
 
 Chord
 {
-  
-}
+  Bbm7 | Ebsus7 Eb7b9 | Abo7 | Abmaj7 |
+  C7#9#5 | | F7 | Cm7 F7.
 
-Note
-{
-  
-}
+  Bbm7 | Eb7 | Gm7b5 C7b13 | Fm7 |
+  Bb7 | | Bbm7 on Eb | Cm7b5 F7b9.
 
-Lyrics
-{
-  
+  Bbm7 | Ebsus7 Eb7b9 | Abo7 | Abmaj7 |
+  C7#9#5 | | F7 | Cm7 F7.
+
+  Bbm7 | Dbm7 Gb7 | Cm7 Db7#11 | Cm7 Bo7 |
+  Bbm7 | Eb7 | Ab6 Db7 | Cm7 F7..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Raymon Hubbell";
 }
 </file>
 <file name=Portrait of Jennie>
-Key { C }
+Key { Eb }
 
 Chord
 {
-  
-}
+  Ebmaj7 | Bbm7 Eb7 | Abmaj7 | Abm7 Db7 |
+  Gm7 Cm7 | Fm7 Bb7 | Gm7 Cm7 | Fm7 Bb7 .
 
-Note
-{
-  
-}
+  Ebmaj7 | Bbm7 Eb7 | Abmaj7 | Abm7 Db7 |
+  Gm7 Cm7 | Fm7 Bb7 | Eb6 | Am7 D7.
 
-Lyrics
-{
-  
+  Gmaj7 | Cm7 F7 | Bbmaj7 | Dm7b5 G7b9 |
+  Cm7 | F7 | Fm7 | Bb7.
+
+  Ebmaj7 | Bbm7 Eb7 | Abmaj7 | Abm7 Db7 |
+  Gm7 Cm7 | Fm7 Bb7 | Fm7 Bb7b9 | Eb6 Fm7..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Portrait Of Tracy>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Burdge-Robinson";
 }
 </file>
 <file name=Portsmouth Figurations>
-Key { C }
+Key { Em }
 
 Chord
 {
-  
-}
+  Em | Cmaj7 Bm7 | Am7 Fmaj7 | Em7 .
 
-Note
-{
-  
-}
+  Em7 | | | |
+  Am7 | | | |
+  Gmaj7 | Cmaj7 | Bm7 | Am7 | Fmaj7.
 
-Lyrics
-{
-  
+  Em7 | Cmaj7 Bm7 | Am7 Fmaj7 | Em7 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Power Play (Gomez & Ledgerwood)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Steve Swallow";
 }
 </file>
 <file name=Prelude to a Kiss>
@@ -20054,7 +19609,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 If you hear
@@ -20086,197 +19641,48 @@ For the tenderness within your eyes
 My love is a prelude that never dies
 A prelude to a kiss
 }
-</file>
-<file name=Pretend>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
+*/
 </file>
 <file name=A Pretty Girl Is Like A Melody>
-Key { C }
+Key { G }
 
 Chord
 {
-  
-}
+  A7 Bb13 | A7 | A-9 | D7 |
+  F# on G G | | Gmaj9 | |
+  Dm7 G7 | C6 | F9 | Gmaj7 |
+  A7 | | D9 | C9 B7.
 
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  A7 Bb13 | A7 | A-9 | D7 |
+  F# on G G | Dm7 G7 | Cmaj7 E7 on B | Am7 |
+  C#m7 F#7 | B7 | Bm7 E7 | Am7 |
+  Am7 Eb13 | D7 | G6 | Am7 D7..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Irving Berlin";
 }
 </file>
 <file name=Prince of Darkness>
-Key { C }
+Key { Cm }
 
 Chord
 {
-  
-}
+  Cm7 | | G-9 | |
+  Bbm7 | | G-9 |.
 
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  Gbmaj7 | | Bbmaj7#5 | Fm7 Bb7 |
+  Fm7 Bb7 | Dm7 | G7#11..
 }
 
 Misc
 {
-  Tempo = 150;
+  Tempo = 130;
   Repeat = 2;
-}
-</file>
-<file name=Prisoner Of Love>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Promenade (Zeitlin)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Promise>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Promise, The (Coltrane)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Punjab>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Wayne Shorter";
 }
 </file>
 <file name=Pure Imagination>
@@ -20342,99 +19748,45 @@ Progression
 }
 </file>
 <file name=Pursuance>
-Key { C }
+Key { Bbm }
 
 Chord
 {
-  
-}
+  Bb-9 | | | |
+  Ab-9 | | Bb-9 | |
+  Gb9 | F7#9 | Bb-9 |.
 
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  Bb-9 | | | |
+  Ab-9 | | Bb-9 | |
+  Gb9 | F7#9 | Bb-9 |..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "John Coltrane";
 }
 </file>
 <file name=Pussy Cat Dues>
-Key { C }
+Key { D }
 
 Chord
 {
-  
-}
+Intro:
+  D7 Bb on F | | | .
 
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+Theme:
+  D7 Bb7 | | | D7 Ab7 |
+  G7 | C7 | D7 Bb7 | D7 B7 |
+  Em7 A7 | Fm7 Bb7 | Eb Eb7 Ab Ao | Eb7..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Put It Where You Want It>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Put On A Happy Face>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Charles Mingus";
 }
 </file>
 <file name=Quatro>
@@ -20485,171 +19837,95 @@ Misc
 }
 </file>
 <file name=Quicksilver>
-Key { C }
+Key { Ab }
 
 Chord
 {
-  
-}
+  [ Ab | | Gm7 | C7 |
+  Fm7 | | Bb7 | A7 |
+  Ab | / / Cm7 Bm7 | Bbm7 | Eb7 !
+  Ab | | Gm7 | C7 ]
 
-Note
-{
-  
-}
+  Ab | Bbm7 Abo | Ab | Gm7 C7.
 
-Lyrics
-{
-  
+  Fm7 | | C7b9 | Fm7 |
+  Gm7 | C7 | Db7 | C7.
+
+  Fm7 | | C7b9 | Fm7 |
+  Bb7 | | Bbm7 | Eb .
+
+  Ab | | Gm7 | C7 |
+  Fm7 | | F7 | |
+  Bbm7 | | | Eb7 |
+  Ab | Bbm7 Abo | Ab | C7..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Quiet Girl>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Horace Silver";
 }
 </file>
 <file name=Quiet Nights of Quiet Stars (Corcovado)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
+Key{am}
 
 Misc
 {
-  Tempo = 150;
-  Repeat = 2;
+  Tempo  = 150;
+  Repeat  = 4;
+  MusicBy  = "";
+  WordsBy  = "";
+}
+
+Chord
+{
+LabelA:
+  am6,,abo,,
+  gm7,csus7,fo fM7,.
+  fm7,bb7,em7,a7b13,
+  d7,,dm7,e7.
+
+LabelB:
+  am6,,abo,,
+  gm7,csus7,fo fM7,.
+  fm7,fm6,em7,a7,
+  dm7,g7b9,em7,a7@
+  dm7,g7.
+
+Ending:
+  dm7,g7,c6..
+}
+
+Progression
+{
+  Theme Structure = A B;
 }
 </file>
 <file name=Quiet Now>
-Key { C }
+Key { Am }
 
 Chord
 {
-  
-}
+  Am7 Fmaj7 | E7 Am7 | Dm7 G7 Cmaj7 | Bb7#11 A7#5 |
+  Dm7b5 on Ab G7 E7 | Am7 D7#11 | Ebmaj7 Abmaj7 | Db9.
 
-Note
-{
-  
-}
+  Bm7 Gmaj7 | F#7 Bm7 | Em7 A7 Dmaj7 | C7#11 B7#5 |
+  Em7b5 on Bb A7 F#7 | Bm7 E7#11 | F#m7 Bm7 Em7 A7 | Am7 D7#11.
 
-Lyrics
-{
-  
+  Gmaj7 C9 | Bm7 Bb7 | Abmaj7 Db7 | Cm7 B7 |
+  A7 D7 | C#m7 C7 | F#-9 on B | E7.
+
+  Am7 Fmaj7 | E7 Am7 | Dm7 G7 Cmaj7 | Bb7#11 A7#5 |
+  Dm7b5 on Ab G7 E7 | Am7 D7#11 | Em7 Am7 Dm7 Gsus4 | Em7 Am7 Fmaj Bbmaj |
+  Em7 Ebmaj Abmaj Dbmaj | Cmaj9..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=A Quiet Place>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Quintessence>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Quizás, Quizás, Quizás (Perhaps, Perhaps, Perhaps)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Denny Zeitlin";
 }
 </file>
 <file name=Rain Waltz (Hersch)>
