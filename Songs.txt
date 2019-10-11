@@ -19812,30 +19812,6 @@ Misc
   Repeat = 2;
 }
 </file>
-<file name=Question & Answer>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
 <file name=Quicksilver>
 Key { Ab }
 
@@ -19928,148 +19904,22 @@ Misc
   MusicBy = "Denny Zeitlin";
 }
 </file>
-<file name=Rain Waltz (Hersch)>
+<file name=Re Person I Knew>
 Key { C }
 
 Chord
 {
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  C69 | C+ | F#+ on C | Bbmaj7 on C |
+  Fm7 on C | | C-9 | |
+  F-maj7 on C | C-11 | Fm7 on C | Bbmaj7#5 on C |
+  F-maj7 on C | Bbmaj7 on C | Fm7 on C | Db on C..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=The Rainbow Connection>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Ran Kan Kan>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Rapture (Land)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Re: Person I Knew>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Reach Out And I'll Be There>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Bill Evans";
 }
 </file>
 <file name=Recado Bossa Nova>
@@ -20112,7 +19962,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 No strings have pearls in a velvet glove
@@ -20138,20 +19988,31 @@ Whatever fate may befall all I know
 Is that the gift of love is the greatest gift of all
 What a ball, that's all
 }
+*/
 </file>
 <file name=Recipe for Love>
-Key { C }
+Key { Eb }
 
 Chord
 {
-  
+  Eb | Edim | Fm7 | Bb |
+  Eb | Dm7b5 G7 Cm | F7 | Bb7 .
+
+  Eb | Edim | Fm7 | Bb |
+  Eb | Dm7b5 G7 Cm | F7 Bb7 | Eb Eb7 .
+
+  Ab Abm | Eb | Dm7b5 G7 | Cm Eb7 |
+  Ab Abm | Eb | Cm7 F7 | Fm7 Bb7 .
+
+  Eb | Edim | Fm7 | Bb |
+  Eb | Dm7b5 G7 Cm | F7 Bb7 | Eb (Bb7) ..
 }
 
 Note
 {
   
 }
-
+/*
 Lyrics
 {
   A little bit of me and a whole lot of you
@@ -20171,7 +20032,7 @@ I didn't get it from a magical and culinary elf
 No, a little birdie told me you can't make it by yourself
 And that's the recipe for making love
 }
-
+*/
 Misc
 {
   Tempo = 150;
@@ -20214,267 +20075,67 @@ Lyrics
 }
 </file>
 <file name=Red Clay>
-Key { C }
+Key { Cm }
 
 Chord
 {
-  
-}
+  C-11 | Bb-11 | Dbsus7 Ebsus7 | Fsus7 Gsus7 |
+  C-11 | Bb-11 | Dbsus7 Ebsus7 | Fsus7 Gsus7 .
 
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  Cm7 | Bbm7 Eb7 | Abmaj7 | Dm7b5 G7b9 |
+  Cm7 | Bbm7 Eb7 | Abmaj7 | Dm7b5 G7b9 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Freddie Hubbard";
 }
 </file>
 <file name=Red Cross>
-Key { C }
+Key { Bb }
 
 Chord
 {
-  
-}
+  [ Bb | | | |
+  Bb | B | Bb | ]
 
-Note
-{
-  
-}
+  D7 | | G7 | |
+  C7 | | F7 |
 
-Lyrics
-{
-  
+  [ Bb | | | |
+  Bb | B | Bb ]
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=The Red One>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Red Top>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Reflections>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Reflections In D>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Charlie Parker";
 }
 </file>
 <file name=Reincarnation of a Lovebird>
-Key { C }
+Key { F#m }
 
 Chord
 {
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  F#m Dmaj7 | G#7 C#7#5 | F#m D9#11 | G#7 Db7#5 |
+  F#m D7#9 | Bm7 Eb13 | G#7#9#5 Db7#5 | F#m G#m7b5 |
+  F#m Dmaj7 | G#7 C#7 | F#m7 D9#11 | G#7 C#7#5 |
+  F#m D7#9 | Bm7 Ebmaj7 | G#7 C#7#9#5 | F#m |
+  F#m7 B7 | F#m7 B7 | Emaj7 A9#11 | Emaj7 A9#11 |
+  Am7 D7 | Gmaj7 C7 Bm7b5 Bb7 | Am7 D7b9 | G#7 C#7 |
+  F#m Dmaj7 | G#7 C#7 | F#m D9#11 | G#7 C#7#5 |
+  F#m D7#9 | Bm7 Eb13 | G#7#9#5 C#7#5 | F#m G#m7b5 C#7 |
+  Bm7 Ebmaj7 | G#7 C#7#9#5 | F#- | ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Remember Hymn (Abercrombie)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Remember Rockefeller At Attica>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Respect>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Revelation>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Charles Mingus";
 }
 </file>
 <file name=Rhythm Changes>
@@ -20515,171 +20176,27 @@ Misc
 }
 </file>
 <file name=Rhythm-a-ning>
-Key { C }
+Key { Bb }
 
 Chord
 {
-  
-}
+  [ Bb G7 | Cm7 F7 | Bb G7 | Cm7 F7 !
+  Bb7 Bb7 on D | Eb7 Eo7 | Bb7 on F G7 | Cm7 F7 ]
 
-Note
-{
-  
-}
+  Bb7 Bb7 on D | Eb7 Eo7 | Bb7 | .
 
-Lyrics
-{
-  
+  D7 | | G7 | |
+  C7 | | F7 |.
+
+  Bb G7 | Cm7 F7 | Bb G7 | Cm7 F7 |
+  Bb7 Bb7 on D | Eb7 Eo7 | Bb7 (G7 | Cm7 F7) ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Ridin' High>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Rifftide>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Right As Rain>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Ring Dem Bells>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Ritual>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=River People>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Thelonious Monk";
 }
 </file>
 <file name=Road Song>
@@ -20715,172 +20232,58 @@ Lyrics
 
 }
 </file>
-<file name=Robbins Nest>
+<file name=Robbin's Nest>
 Key { C }
 
 Chord
 {
-  
-}
+  [ C6 | | Ab7 | !
+  Em7 Ebo7 | Dm7 G7 | C6 Ebo7 | Dm7 G7 ]
 
-Note
-{
-  
-}
+  Em7 Ebo7 | Dm7 G7 | C6 | .
 
-Lyrics
-{
-  
+  E7b9 | | A7b9 | |
+  D7b9 | | G7#5 G7 | Dm7 G7 .
+
+  C6 | | Ab7 | |
+  Em7 Ebo7 | Dm7 G7 | C6 (A7 | Dm7 G7) ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Rockin' Chair>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Rockin' In Rhythm>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Romance Without Finance>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Thompson-Jacquet";
 }
 </file>
 <file name=Room 608>
-Key { C }
+Key { Bb }
 
 Chord
 {
-  
-}
+Intro:
+  Eb on F | Dm7 on F | Cm7 on F | F7b5 |
+  D7#9 Db7#9 | C7#9 B7 | Bbmaj9 | F7 .
 
-Note
-{
-  
-}
+Theme:
+  Bb G7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+  Fm7 Bb7 | Eb6 Eo | Bb G7 | Cm7 F7 .
 
-Lyrics
-{
-  
+  Bb G7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+  Fm7 Bb7 | Eb6 Eo | Bb | .
+
+  Fm7 | Bb7#9 | Ebmaj | |
+  Abm7 | Db7#9 | Gbmaj | F7#9 .
+
+  Bb G7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+  Fm7 Bb7 | Eb6 Eo | Bb (G7 | Cm7 F7) ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Rose Room>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Rosetta>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Horace Silver";
 }
 </file>
 <file name=Rosewood>
@@ -20888,23 +20291,23 @@ Key { C }
 
 Chord
 {
-  
-}
+  [ Am7 Gm7 | | Dm7 Cm7 Bbmaj7 | Abmaj7 ]
 
-Note
-{
-  
-}
+  Bbmaj7 | | Bbm7 | Eb7 A7#11 |
+  Abmaj7 | | |
 
-Lyrics
-{
-  
+  [ Dm7 Cm7 | | Fm7 Eb7 | Emaj7#11 ]
+
+  Abm7 Gbm7 | | Am7 Gm7 | |
+  Gm7 on C | | | |
+  | | | Cmaj7 Bbmaj7 | Am7 Ab on Bb..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Woody Shaw";
 }
 </file>
 <file name='Round Midnight>
@@ -20941,7 +20344,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 It begins to tell 'round midnight
@@ -20973,37 +20376,16 @@ For your returning
 Let our love be safe and sound
 When old midnight comes around
 }
-</file>
-<file name=Round Trip>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
+*/
 </file>
 <file name=Route 66>
-Key { C }
+Key { G }
 
 Chord
 {
-  
+  G7 | C7 | G7 | |
+  C7 | | G7 | E7 |
+  Am7 | D7 | G7 (E7 | Am7 D7) ..
 }
 
 Note
@@ -21023,123 +20405,27 @@ Misc
 }
 </file>
 <file name=Rubberneck>
-Key { C }
+Key { Dm }
 
 Chord
 {
-  
-}
+  [ Dm | Bb7 A7 | A7 | Dm7 !
+  Dm | Bb7 A7 | A7 | / Dm ]
 
-Note
-{
-  
-}
+  Dm | Bb7 A7 | A7 Dm | .
 
-Lyrics
-{
-  
+  Gm7 | C7 | Fmaj7 | |
+  A7 | Dm | Bb7 | A7 .
+
+  Dm | Bb7 A7 | A7 | Dm7 |
+  Dm | Bb7 A7 | A7 | / / D- ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Ruby>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Ruby, My Dear>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Rush Hour>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Russian Lullaby>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Frank Rosolino";
 }
 </file>
 <file name=S Wonderful>
@@ -21176,7 +20462,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 Don't mind telling you, in my humble fash
@@ -21204,221 +20490,80 @@ That you should care for
 That you should care for
 That you should care for me
 }
-</file>
-<file name=S'posin'>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=S.O.S.>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Sack Of Woe>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Safari>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
+*/
 </file>
 <file name=The Saga of Harrison Crabfeathers>
-Key { C }
+Key { Em }
+
+TimeSignature { 3/4 }
 
 Chord
 {
-  
-}
+  Em7 | | | |
+  Cmaj7#11 | | | |
+  Am7 | | | |
+  Em7 | | | .
 
-Note
-{
-  
-}
+  Dm7 | | | |
+  Bbmaj7#11 | | | |
+  Gm7 | | | |
+  Dm7 | | | .
 
-Lyrics
-{
-  
+  Abmaj7#11 | | | |
+  | | | .
+
+  Cm7 | | | |
+  Abmaj7#11 | | | |
+  Fm7 | | | |
+  Cm7 | | | ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Sail Away>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Sailing At Night (Grusin)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Steve Kuhn";
 }
 </file>
 <file name=Saint James Infirmary>
-Key { C }
+Key { Dm }
 
 Chord
 {
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  Dm A7 on E | Dm on F A7 on E | Dm Em7b5 | A7 Em7 on B Em7b5 on C A7 on C# .
+  Dm A7 on C# | Dm on C G on B | Bb7 A7 | D- ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Joe Primrose";
 }
 </file>
 <file name=Salt Peanuts>
-Key { C }
+Key { Bb }
 
 Chord
 {
-  
-}
+  Bbmaj7 G7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+  Fm7 Bb7 | Eb7 Ab7 | Dm7 G7 | Cm7 F7 .
 
-Note
-{
-  
-}
+  Bbmaj7 G7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+  Fm7 Bb7 | Eb7 Ab7 | Cm7 F7 | Bb6 .
 
-Lyrics
-{
-  
+  D7 | | G7 | |
+  C7 | | F7 | .
+
+  Bbmaj7 G7 | Cm7 F7 | Dm7 G7 | Cm7 F7 |
+  Fm7 Bb7 | Eb7 Ab7 | Cm7 F7 | Bb6 (F7) ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Dizzy Gillespie";
 }
 </file>
 <file name=Samba De Orfeu>
@@ -21452,7 +20597,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 My wish for you, sweet happy life
@@ -21474,29 +20619,23 @@ And if a wish can make it be
 I wish you spend everyday of your happy life with me, sweet
 happy life, sweet happy life.
 }
+*/
 </file>
 <file name=Sandu>
-Key { C }
+Key { Eb }
 
 Chord
 {
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  Eb7 | Ab7 | Eb7 | |
+  Ab7 | | Eb7 | Gm7 C7 |
+  Fm7 | Bb7 | Eb7 (C7 | Fm7 Bb7) ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Clifford Brown";
 }
 </file>
 <file name=Santa Claus Is Coming To Town>
@@ -21537,7 +20676,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 You better watch out, you better not cry
@@ -21581,37 +20720,7 @@ Santa Claus is comin'
 You mean, the big fat man with the long white beard
 He's comin' to town
 }
-</file>
-<file name=Santa Claus Is Coming To Town (Simplified)>
-Key{eb}
-
-Misc
-{
-  Tempo  = 75;
-  Repeat  = 2;
-  MusicBy  = "";
-  WordsBy  = "";
-}
-
-Chord
-{
-LabelA:
-  |:eb c7,fm7 bb7,eb c7,fm7 bb7,
-  eb cm7,fm7 bb7,gm7 c7,fm7 bb7:|
-
-LabelB:
-  bbm7 eb7,ab,bbm7 eb7,ab,
-  f7 d7,gm,f7,bb7.
-
-LabelC:
-  eb c7,fm7 bb7,eb c7,fm7 bb7,
-  eb cm7,fm7 bb7,gm7 (c7,fm7 bb7)..
-}
-
-Progression
-{
-  Theme Structure = A B C;
-}
+*/
 </file>
 <file name=Satin Doll>
 Title
@@ -21647,7 +20756,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 Cigarette holder which wigs me
@@ -21663,142 +20772,9 @@ Telephone numbers well you know
 Doing my rhumbas with uno
 And that's my satin doll
 }
-</file>
-<file name=Save The Bones For Henry Jones>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Save Your Love For Me>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
+*/
 </file>
 <file name=Saving All My Love For You>
-Misc
-{
-  Tempo  = 130;
-  Repeat  = 3;
-  MusicBy  = "";
-  WordsBy  = "";
-}
-
-Key{bb}
-
-Chord
-{
-LabelA:
-  <bb,gm7,cm7,f7,
-  bb,gm7,cm7,f7 d7,
-  gm,c7,gm,c7,
-  gm,em7b5,am7b5,d7!
-  eb dm7,cm7 f7,bb gm7,cm7 f7>
-
-  eb dm7,cm7 f7,bb,.
-
-LabelB:
-  am7b5,d7,gm,,
-  cm7,f7,bb,.
-
-  em79,a7913,dM7,bm79,
-  gm7,c7,cm7,f7.
-
-LabelC:
-  bb,gm7,cm7,f7,
-  bb,gm7,cm7,f7 d7,
-  gm,c7,gm,c7,
-  gm,em7b5,am7b5,d7@
-  eb dm7,cm7 f7,bb gm7,cm7 f7.
-
-Ending:
-  eb dm7,cm7 f7,eb dm7,cm7 f7,
-  eb dm7,cm7 f7
-  <bb,gm7,cm7,f7>
-  bb|||
-}
-
-Progression
-{
-  Theme Structure = A B C;
-}
-
-Note
-{
-
-}
-
-Lyrics
-{
-A few stolen moments is all that we share
-You've got your family and they need you there
-Though I've tried to resist being last on your list
-But no other man's gonna do
-So I'm saving all my love for you
-It's not very easy living all alone
-My friends try and tell me find a man of my own
-But each time I try I just break down and cry
-'Cause I'd rather be home feeling blue
-So I'm saving all my love for you
-You used to tell me we'd run away together
-Love gives you the right to be free
-You said be patient just wait a little longer
-But that's just an old fantasy
-I've got to get ready just a few minutes more
-Gonna get that old feeling when you walk through that door
-'Cause tonight is the night for feeling alright
-We'll be making love the whole night through
-So I'm saving all my love for you
-Yes, I'm saving all my love
-Yes, I'm saving all my love for you
-No other woman is gonna love you more
-'Cause tonight is the night that I'm feeling alright
-We'll be making love the whole night through
-So I'm saving all my love
-Yeah, I'm saving all my lovin'
-Yes, I'm saving all my love for you
-For you
-For you
-}
-</file>
-<file name=Saving All My Love For You (ballad)>
 Misc
 {
   Tempo  = 80;
@@ -21847,7 +20823,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 A few stolen moments is all that we share
@@ -21880,101 +20856,31 @@ Yes, I'm saving all my love for you
 For you
 For you
 }
-</file>
-<file name=Say It (Over And Over Again)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Say It Isn't So>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Say It With Music>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
+*/
 </file>
 <file name=Scotch and Soda>
-Key { C }
+Key { Eb }
 
 Chord
 {
-  
-}
+  Abmaj7 | Db7 | Eb6 | Gm7 C7 |
+  F7 | Fm7 Bb7 | G7 | .
 
-Note
-{
-  
-}
+  Abmaj7 | Db7 | Eb6 | Gm7 C7 |
+  F7 | Fm7 Bb7 | Eb6 | Bbm7 Eb7 .
 
-Lyrics
-{
-  
+  Abmaj7 | | Eb6 on G Fm7 | Eb6 |
+  F7 | | Bb7 | Fm7 Bb7 .
+
+  Abmaj7 | Db7 | Eb6 | Gm7 C7 |
+  F7 | Fm7 Bb7 | Eb6 | ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Dave Guard";
 }
 </file>
 <file name=Scrapple From The Apple>
@@ -22021,75 +20927,31 @@ Lyrics
 }
 </file>
 <file name=Sea Journey>
-Key { C }
+Key { Am }
 
 Chord
 {
-  
-}
+  A-b6 | Am | A-b6 | Am |
+  A-b6 | Am | A-b6 | Am .
 
-Note
-{
-  
-}
+  D-11 E-11 | A-11 | | Gsus7 |
+  F#m7b5 | | Fmaj7 | |
+  Esus7 | E7b9 .
 
-Lyrics
-{
-  
+  A-b6 | Am | A-b6 | Am |
+  A-b6 | Am | A-b6 | Am .
+
+  Dm7 Cmaj7#5 | Fmaj7 E7#9 | Fmaj7 | |
+  E7#9 | | Fmaj7 | |
+  Em7 | A7 | Dmaj7 C#m7 | Bm7b5 E7b9 |
+  A-b6 | Am | A-b6 | Am ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Search For Peace>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=The Second Time Around>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Chick Corea";
 }
 </file>
 <file name=Secret Love>
@@ -22121,7 +20983,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 Once I had a secret love that lived within the heart of me,
@@ -22131,149 +20993,29 @@ Just how wonderful you are and why I'm so in love with you.
 Now I shout it from the highest hill, even told the golden daffodils,
 And now my heart's an open door, and my secret love's no secret any more.
 }
-</file>
-<file name=Seems Like Old Times>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Segment>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
+*/
 </file>
 <file name=Self-Portrait In Three Colors>
-Key { C }
+Key { Ab }
 
 Chord
 {
-  
-}
+Intro:
+  Ebmaj7 on Bb | / / E on B D on B .
 
-Note
-{
-  
-}
+Theme:
+  Bbm7 Eb7 | Abm7 Db7 | Gbmaj7 Bmaj7 | Cm7 F+ |
+  Ebm7 Absus7 | Emaj7 .
 
-Lyrics
-{
-  
+  Ebmaj7 A7 | Emaj7 | Ebmaj7 Gm7 | C7 |
+  Fm7 | Bb7 | Fm7 Bb+ | Ebmaj7 (Dbmaj7 | Cm7b5 Bmaj7) ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Senor Blues>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Sentimental Journey>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Sentimental Me>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Charles Mingus";
 }
 </file>
 <file name=September In The Rain>
@@ -22297,7 +21039,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 The leaves of brown came tumblin' down, remember
@@ -22314,149 +21056,123 @@ Though spring is here, to me it's still September
 That September in the rain
 That September in the rain
 }
+*/
 </file>
 <file name=September Song>
-Key { C }
+Key { Bb }
 
 Chord
 {
-  
-}
+  [ Eb7 | | Bbmaj7 Cm7 | Dm7 Gm7 |
+  Csus7 C7 | Fsus7 F7 | Bbmaj7 Fsus7 | Bbmaj7 ]
 
-Note
-{
-  
-}
+  Ebm6 | | Eo7 | |
+  Ebm6 | | Eo7 | Bbmaj7 on F .
 
-Lyrics
-{
-  
+  Eb7 | | Bbmaj7 Cm7 | Dm7 Gm7 |
+  Csus7 C7 | Fsus7 F7 | Bbmaj7 Fsus7 | Bbmaj7 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Kurt Weill";
 }
 </file>
 <file name=Serenade To A Soul Sister>
-Key { C }
+Key { Ebm }
+
+TimeSignature { 3/4 }
 
 Chord
 {
-  
-}
+  [ Ebm7 | E7#9 | Ebm7 | E7#9 |
+  Ebm7 | E7#9 | Ebm7 | E7#9 Ebm7 |
+  Ab13 | A13 | Ab13 | Bb7#5 |
+  Ebm7 | E7#9 | Ebm7 | E7#9 Ebm7 .
 
-Note
-{
-  
-}
+  B13 | C13 B13 | Bb7#5 | B13 Bb7#5 !
+  Ebm7 | E7#9 | Ebm7 | E7#9 ]
 
-Lyrics
-{
-  
+  Ebm7 | E7#9 | Ebm7 | E7#9 .
+
+  Ebm7 | E7#9 Ebm7 | B13 | C13 B13 |
+  Bb7#5 | B13 Bb7#5 | Eb | Ab |
+  Bb7#5 | Eb7#9 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Serenata>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Horace Silver";
 }
 </file>
 <file name=Serene>
-Key { C }
+Key { Eb }
 
 Chord
 {
-  
-}
+  Ebmaj7 | Ab7#11 | Db7 | Eb7 |
+  Ab7 | D7b5 | Ebmaj7 | Dbm7 Gb7 |
+  Fm7b5 | Bb7b5 Bm7 E7 | Ab7#11 | .
 
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  Ab7#11 Gbmaj7 | F7#9 A9 | A9 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Eric Dolphy";
 }
 </file>
 <file name=Seven Come Eleven>
-Key { C }
+Key { Ab }
 
 Chord
 {
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  [ Ab6 | | | |
+  Ab6 | | | ]
+  G7 | | C7 | |
+  F7 | | Bb7 | Eb7 .
+  Ab6 | | | |
+  Ab6 | | | ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Goodman-Christian";
 }
 </file>
 <file name=Seven Steps to Heaven>
-Key { C }
+Key { F }
 
 Chord
 {
-  
-}
+Intro:
+  F13 | Eb13 | F13 | Eb13 |
+  F13 | Eb13 | F13 |
 
-Note
-{
-  
-}
+Theme:
+  [ Fmaj7 Bb7 | Em7b5 A7 | Dm7 Ab7 | G7 |
+  Gm7 | C7 | Eb6 E6 | F6 ]
 
-Lyrics
-{
-  
+  Cmaj7 | Dm7 | Em7 | Fm7 Bb7 |
+  Ebmaj7 | Abm7 Db7 | Gbmaj7 | Gm7 C7.
+
+  Fmaj7 Bb7 | Em7b5 A7 | Dm7 Ab7 | G7 |
+  Gm7 | C7 | Eb6 E6 | F6..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Victor Feldman";
 }
 </file>
 <file name=The Shadow Of Your Smile>
@@ -22492,7 +21208,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 One day we walked along the sand
@@ -22520,149 +21236,28 @@ All the joy that love can bring
 I will be remembering
 The shadow of your smile
 }
-</file>
-<file name=Shaker Song>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Shawnuff>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Shine>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Shoo Fly Pie And Apple Pan Dowdy>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Shutterbug>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
+*/
 </file>
 <file name=Sidewinder>
-Key { C }
+Key { Eb }
 
 Chord
 {
-  
-}
+  D7 Eb7 | D7 Eb7 | D7 Eb7 | D7 Eb7 |
+  D7 Eb7 | D7 Eb7 | D7 Eb7 | D7 Eb7 |
 
-Note
-{
-  
-}
+  G7 Ab7 | G7 Ab7 | G7 Ab7 | G7 Ab7 |
+  D7 Eb7 | D7 Eb7 | D7 Eb7 | Gm7b5 C7b9 |
 
-Lyrics
-{
-  
+  Fm7 Bb7 | Fm7 Bb7 | Fm7 Bb7 | Fm7 Bb7 |
+  D7 Eb7 | D7 Eb7 | Eb7 | D7 Eb7 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Lee Morgan";
 }
 </file>
 <file name=Silent Night>
@@ -22706,7 +21301,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 Silent night, holy night
@@ -22729,317 +21324,126 @@ Christ, Christ, the Savior is born
 Christ, Christ, the Savior
 Christ, Christ, the Savior is born
 }
-</file>
-<file name=Silver Hollow>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Silver's Serenade>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
+*/
 </file>
 <file name=Simone>
-Key { C }
+Key { Dm }
+
+TimeSignature { 3/4 }
 
 Chord
 {
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  Dm7 | Em7 on A | Dm7 | Eb7#11 |
+  Dm7 | Em7 on A | Am7 | D7 |
+  Gm7 | Am7 | Bbm7 | Eb7 |
+  Dm7 | Em7 | Fmaj7 | F#m7 |
+  Fm7 | Bb7 | Em7 | A7 |
+  Dm7 | Em7 on A | Dm7 | (Eb7#11) ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Simple Samba>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Since We Met>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Frank Foster";
 }
 </file>
 <file name=Sing Me Softly Of The Blues>
-Key { C }
+Key { Bb }
 
 Chord
 {
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  F7 Bb7b9 | B7b9 F7 | Esus7 | / / E7 / |
+  A7 | D7 | A7 | D7 |
+  C7 Gb7 | F7 | Bb7b9 F7 | Esus7 |
+  A7#9 | D7#9 | B7 F7 | E7 Bb7 |
+  A7 G7 | F7 E7 | A7 D7 | F7 E7 A7 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Sing, You Sinners>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=The Single Petal Of A Rose>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Carla Bley";
 }
 </file>
 <file name=Sippin' At Bells>
-Key { C }
+Key { F }
 
 Chord
 {
-  
-}
+  Fmaj7 | Fm7 Bb7 | Am7 Gm7 | F#m7 B7 |
+  Bbmaj7 | Bbm7 Eb7 | Am7 | Abm7 Db7 |
+  Gm7 C7 | C#m7 F#7 | Am7 Ab7 | Dbmaj7 Gb7 ]
 
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  Gm7 C7 | C#m7 F#7 | Am7 Ab7 | Dbmaj7 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Sirabhorn>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Miles Davis";
 }
 </file>
 <file name=Sister Sadie>
-Key { C }
+Key { G }
 
 Chord
 {
-  
-}
+  [ G7 | | | |
+  G7 | | | ]
 
-Note
-{
-  
-}
+  C7 | | G7 | |
+  C7 | Bb7 | A7 | Ab7 .
 
-Lyrics
-{
-  
+  G7 | | | |
+  G7 | | | ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Horace Silver";
 }
 </file>
 <file name=Skating in Central Park>
 Key { C }
 
+TimeSignature { 3/4 }
+
 Chord
 {
-  
-}
+  [ C on G | G7b9 | Cmaj7 on G | |
+  Fmaj7 on G | G7#5 | Cmaj7 on G | C7b5 on Gb |
+  Fmaj7 | B7 | Em7 | A7 !
+  Dm7 | G7 | F on A Bbm6 | G7 on B ]
 
-Note
-{
-  
-}
+  Dm7 | G7 | Cmaj7 | C7b5 .
 
-Lyrics
-{
-  
+  Fm7 | F-maj7 on E | Fm7 on Eb | Dm7b5 |
+  Ebmaj7 | Bb6 on D | Cm7 | Bbm6 |
+  Cm6 | Cm6 on Bb | Am7b5 | D7b9 |
+  Fm7 | F-maj7 on E | Dm7b5 | G7#5 .
+
+  C on G | G7b9 | Cmaj7 on G | |
+  Fmaj7 on G | G7#5 | Cmaj7 on G | C7b5 on Gb |
+  Fmaj7 | B7 | Em7 | A7 |
+  Dm7 | G7 | Cmaj7 | G7b9 .
+
+  Cmaj7 on G | C7b9 on Gb | Fmaj7 | C E |
+  D-9 | G7 | Em7 | Am7 |
+  D7 | F#o7 | C on G | C+ on G# |
+  Am7 G6 | Fm7 Ebmaj7 | Dbmaj7#11 | |
+  Cmaj7#5 | Db on C | Bb on C | B on C C | Cmaj9..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Skippy-Ing (Zeitlin)>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "John Lewis";
 }
 </file>
 <file name=Skylark>
@@ -23071,7 +21475,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 Skylark
@@ -23099,173 +21503,61 @@ But my heart is riding on your wings
 So if you see them anywhere
 Won't you lead me there?
 }
-</file>
-<file name=Skyliner>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
+*/
 </file>
 <file name=A Sleepin' Bee>
-Key { C }
+Key { Ab }
 
 Chord
 {
-  
-}
+  Abmaj7 Ebsus7 | Abmaj7 Ebsus7 | Abmaj7 D7 | Dbmaj7 Gbsus7 |
+  Abmaj7 Db7 | C7 F7 | Bbm7 E7 | Eb7 Db7 .
 
-Note
-{
-  
-}
+  C9 C7b9 | F13 F7b13 | Bb13 Bb7b13 | Eb9 Eb7b9 |
+  Ab13 Ab7b13 | Db7 | Bbm7 Cm7 Db6 Do | Ebsus7 Eb7 .
 
-Lyrics
-{
-  
+  Abmaj7 Ebsus7 | Abmaj7 Ebsus7 | Abmaj7 D7 | Dbmaj7 Gbsus7 |
+  Abmaj7 Db7 | C7 F7 | Bbm7 E7 | Eb7 Db7 .
+
+  C9 C7b9 | F13 F7b13 | Bb13 Bb7b13 | Eb9 Eb7b9 |
+  Abmaj7 Dbmaj7 | C7 F7 | Bb7 Eb7 | C7 F7 |
+  Bb7 | Ebsus7 Eb7 | Ab6 Bmaj7 | Emaj7 Amaj7 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Harold Arlen";
 }
 </file>
 <file name=Slipped Disc>
-Key { C }
+Key { Ab }
 
 Chord
 {
-  
-}
+  [ Bb7 Eb7 | Abmaj7 Bo7 | Bbm7 Eb7 | Ab6 F7 !
+  Bb7 Eb7 | Abmaj7 Bo7 | Bbm7 Eb7 | Ab6 F7 ]
 
-Note
-{
-  
-}
+  Bb7 Eb7 | Abmaj7 Bo7 | Bbm7 Eb7 | Ab6 .
 
-Lyrics
-{
-  
+  C7 | Fm6 | | |
+  Bb7 | Eb7 | | .
+
+  Bb7 Eb7 | Abmaj7 Bo7 | Bbm7 Eb7 | Ab6 F7 |
+  Bb7 Eb7 | Abmaj7 Bo7 | Bbm7 Eb7 | Ab6 .
+
+  [ Db Do7 | Ab on Eb Ab7 | | |
+  Db Do7 | Ab on Eb F7 | Bb7 | Eb7 ]
+
+  Bb7 Eb7 | Ab6..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Small Day Tomorrow>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Small Fry>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Small World>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
-<file name=Smile Please>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Benny Goodman";
 }
 </file>
 <file name=Smoke Gets In Your Eyes>
@@ -23295,7 +21587,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 They asked me how I knew
@@ -23318,30 +21610,7 @@ When a lovely flame dies
 Smoke gets in your eyes
 Smoke gets in your eyes
 }
-</file>
-<file name=Smoke Rings>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
+*/
 </file>
 <file name=A Snail>
 /*************************
@@ -23459,7 +21728,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 Strange, dear, but true, dear,
@@ -23484,6 +21753,7 @@ So in love,
 So in love
 So in love with you, my love, am I.
 }
+*/
 </file>
 <file name=So Many Stars>
 Key{db}
@@ -23516,7 +21786,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 The dawn is filled with dreams
@@ -23555,29 +21825,28 @@ Which one to choose, which way to go, how can I tell
 How will I know, out of, oh, so many stars
 So many stars...so many stars... oh, so many stars
 }
+*/
 </file>
 <file name=So Nice (Summer Samba)>
-Key { C }
+Key { F }
 
 Chord
 {
-  
-}
+  Fmaj7 | | Bm7 | E7 |
+  Bbmaj7 | | Eb7 | .
 
-Note
-{
-  
-}
+  Am7 | D7b9 | Gm7 | Em7b5 |
 
-Lyrics
-{
-  
+  A7#5 | Dm7 | G7 | Gm7 |
+  Db7 C7 | C7b9 | Fmaj7 | Eb7 |
+  Fmaj7 | C7#9 | ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "Antonio-Carlos Jobim";
 }
 </file>
 <file name=So What>
@@ -23618,30 +21887,6 @@ Lyrics
 
 }
 </file>
-<file name=Soft Lights And Sweet Music>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
-}
-</file>
 <file name=Softly, As In A Morning Sunrise>
 Misc
 {
@@ -23671,7 +21916,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 Softly as in a morning sunrise
@@ -23707,6 +21952,7 @@ Softly as it fades away
 Softly as it fades away
 Softly as it fades away
 }
+*/
 </file>
 <file name=Solar>
 Misc
@@ -23765,7 +22011,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 In my solitude
@@ -23798,13 +22044,24 @@ I'm afraid
 Dear Lord above
 Send me back my love
 }
+*/
 </file>
 <file name=Some Day My Prince Will Come>
-Key { C }
+Key { Bb }
+
+TimeSignature{3/4}
 
 Chord
 {
-  
+  Bb | D7 | Eb | G7 |
+  Cm7 | G7 | Cm7 | F7 |
+  Bb | C#dim | Cm7 | F7 |
+  Bb | C#dim | Cm7 | F7 .
+
+  Bb | D7 | Eb | G7 |
+  Cm7 | G7 | Cm7 | F7 |
+  Bb | Bb7 | Eb | Edim |
+  Dm7 on F | C#dim on F | Cm7 on F | F7 .
 }
 
 Note
@@ -23824,75 +22081,45 @@ Misc
 }
 </file>
 <file name=Some Other Blues>
-Key { C }
+Key { F }
 
 Chord
 {
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
+  F7 | Bbsus7 | F7 | B7 |
+  Bb7 | Eb7 | Ab7 | Db7 |
+  C7 | | F7 | C7 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+  MusicBy = "John Coltrane";
 }
 </file>
-<file name=Some Other Spring>
+<file name=Some Other Time>
 Key { C }
 
 Chord
 {
-  
-}
+  Cmaj7 Gsus7 | Cmaj7 Gsus7 | Cmaj7 Gsus7 | Cmaj Cmaj on G F#m7b5 Fm7 |
+  Em7 A7b9 | Dm7 Gsus7 | Cmaj7 Gsus7 | .
 
-Note
-{
-  
-}
+  Cmaj7 Gsus7 | | | Cmaj Cmaj on G F#m7b5 Fm7 |
+  Em7 A7b9 | Dm7 Gsus7 | Cmaj7 Gsus7 | Cmaj7 Eb7#9 .
 
-Lyrics
-{
-  
+  Abmaj7 Eb7b9 | Abmaj7 Eb7b9 | Abmaj7 Eb7b9 | Abmaj7 Eb7b9 |
+  Abmaj7 G7b13 | Cmaj Em7 Am7 A7 | Ab7#11 | Dm7 G13 .
+
+  Cmaj7 Gsus7 | Cmaj7 Gsus7 | Cmaj7 Gsus7 | Cmaj Cmaj on G F#m7b5 Fm7 |
+  Em7 A7b9 | Dm7 Gsus7 | Cmaj7 Gsus7 | Cmaj7 Gsus7 ..
 }
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
-}
-</file>
-<file name=Some Skunk Funk>
-Key { C }
-
-Chord
-{
-  
-}
-
-Note
-{
-  
-}
-
-Lyrics
-{
-  
-}
-
-Misc
-{
-  Tempo = 150;
-  Repeat = 2;
+  MusicBy = "Leonard Bernstein";
 }
 </file>
 <file name=Somebody Loves Me>
@@ -23974,7 +22201,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 Some day my prince will come
@@ -24006,6 +22233,7 @@ I'll find my love some day
 Some day when my dreams come true
 Oh, please make my dreams come true
 }
+*/
 </file>
 <file name=Someone To Light Up My Life (Se Todos Fossem Iguais A Voce)>
 Key { C }
@@ -24060,7 +22288,7 @@ Note
 {
 
 }
-
+/*
 Lyrics
 {
 There's a saying old, says that love is blind
@@ -24087,8 +22315,8 @@ Won't you tell him please to put on some speed
 Follow my lead, oh, how I need
 Someone to watch over me
 Someone to watch over me
-
 }
+*/
 </file>
 <file name=Something Wonderful>
 Key { C }
