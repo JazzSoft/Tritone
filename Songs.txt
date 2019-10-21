@@ -26312,6 +26312,7 @@ Misc
   Repeat = 2;
   MusicBy = "Wes Montgomery";
 }
+</file>
 <file name=What A Difference A Day Made>
 Key { Eb }
 
@@ -26358,6 +26359,7 @@ Misc
   Repeat = 2;
   MusicBy = "Duke Ellington";
 }
+</file>
 <file name=What Are You Doing The Rest Of Your Life?>
 Key { Am }
 
