@@ -3637,7 +3637,7 @@ Chord
 {
   Gm7 | C7 | F Bb7 | Am7 D7 |
   Gm7 | C7 | Cm7 | F7 |
-  Bb | Bbm7 Eb7 | F | |
+  Bb | Bbm7 Eb7 | Dm | |
   G7 | C7 | F | D7 .
 
   Gm7 | C7 | F Bb7 | Am7 D7 |
@@ -3683,6 +3683,25 @@ Down with sighs and down with cupid
 Brother let's stuff that dove
 Down with love
 */
+}
+
+Note
+{
+  d4q c d r | d c f g | aw | rw |
+  dq c d r | d c f g | aw | rw |
+  gq f g f | g ab g f | dw | rw |
+  dq c d c | a f d c | fw | rw |
+
+  dq c d r | d c f g | aw | rw |
+  dq c d r | d c f g | aw | rw |
+  gq f g f | g ab g f | dw | rw |
+  dq c d c | a f d c | fw | rh fq f |
+
+  dw | rh fq f | cw | rh cq d |
+  fq f f d | f d f d | gw | rw |
+
+  dq c d c | d c f g | ah aq g | a g f d |
+  bb3q c4 d f | gh a | fw | rw |
 }
 
 Misc
