@@ -3630,6 +3630,67 @@ Note
   ab,
 }
 </file>
+<file name=Down with Love>
+Key { F }
+
+Chord
+{
+  Gm7 | C7 | F Bb7 | Am7 D7 |
+  Gm7 | C7 | Cm7 | F7 |
+  Bb | Bbm7 Eb7 | F | |
+  G7 | C7 | F | D7 .
+
+  Gm7 | C7 | F Bb7 | Am7 D7 |
+  Gm7 | C7 | Cm7 | F7 |
+  Bb | Bbm7 Eb7 | F | D7 |
+  Gm7 | C7 | F | F7 .
+
+  Bm7b5 | E7 | Am7 | D7 |
+  G7 | | C7 | D7 .
+
+  Gm7 | C7 | Am7 | D7 |
+  Gm7 | C7 | F | (D7) ..
+}
+
+Lyrics
+{
+  Down with love | the flowers and rice and | shoes | |
+  Down with love | the root of all midnight | blues | |
+  Down with things | that give you that well-known | pain | |
+  Take that moon | wrap it in cellophane | | |
+
+  Down with love | let's liquidate all its | friends | |
+  Moon and June and | roses and rainbow's | ends | |
+  Down with songs | that moan about night | and day | |
+  Down with love yes | take it away, | away | / / Take it |
+
+  away | / / Take it | away | / / Give it |
+  back to the birds and | bees and the Viennese | | |
+
+  Down with eyes | romantic and stupid | Down with sighs and | down with cupid |
+  Brother let's stuff that | dove / Down | with love | |
+
+/*
+Down with love let's liquidate all its friends
+The moons the Junes the roses and rainbow's ends
+Down with songs that moan about night and day
+Down with love yes take it away, away
+Far away
+So very, very far away
+Give it back to the birds and the bees and especially the Viennese
+Down with eyes romantic and stupid
+Down with sighs and down with cupid
+Brother let's stuff that dove
+Down with love
+*/
+}
+
+Misc
+{
+  Tempo = 284;
+  Repeat = 2;
+}
+</file>
 <file name=Doxy>
 Key { Bb }
 
@@ -3683,6 +3744,7 @@ Chord
   cmaj7,cm7,bm7,bbo,
   am7,d7, g (e7,am7 d7) ..
 }
+
 Lyrics
 {
   East of the sun | / / / and | west of the moon | |
@@ -5727,7 +5789,11 @@ Key{f}
 Misc
 {
   Tempo = 140;
-  Rhythm = “bossa”;
+}
+
+Rhythm
+{
+  bossa
 }
 
 Chord
