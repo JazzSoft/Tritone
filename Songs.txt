@@ -44,7 +44,7 @@ Misc
   Repeat = 2;
   MusicBy = "Mongo Santamaria";
 }
-/*
+
 Lyrics
 {
   Dream of | a land | my soul is | from |
@@ -52,6 +52,7 @@ Lyrics
   Shades of | delight | cocoa | hue |
   Rich as | the night, | afro | blue |
 
+/*
   Elegant boy, beautiful girl |
   Dancing for joy, delicate whirl |
   Shades of delight cocoa hue |
@@ -72,8 +73,8 @@ Lyrics
   They gently sway then slip away to some secluded place |
   Shades of delight cocoa hue |
   Rich as the night afro blue |
-}
 */
+}
 </file>
 <file name=Agua de Beber>
 Misc
@@ -83,6 +84,8 @@ Misc
   MusicBy  = "";
   WordsBy  = "";
 }
+
+Rhythm{bossa}
 
 Key{cm}
 
@@ -198,17 +201,20 @@ Misc
 
 Chord
 {
-  |: dm7 on g, g7 on g g7, cmaj7, fmaj7,
+  dm7 on g, g7 on g g7, cmaj7, fmaj7,
   bm7b5, e7, am7, eb7,
-  dm7, g7, em7, am7 !
-  dm7, g7, em7 a7, dm7 g7 :|
+  dm7, g7, em7, am7,
+  dm7, g7, em7 a7, dm7 g7.
 
-  dm7, g7, cmaj7, am7||
+  dm7 on g, g7 on g g7, cmaj7, fmaj7,
+  bm7b5, e7, am7, eb7,
+  dm7, g7, em7, am7,
+  dm7, g7, cmaj7, am7.
 
   d7, g7, em7, am7,
   dm7, g7, cmaj7, fmaj7,
   f#m7, b7b9, em7, a7,
-  dm7 a7, dm7 a7, dm7 ab7, g7 ||
+  dm7 a7, dm7 a7, dm7 ab7, g7.
 
   dm7, g7, cmaj7, fmaj7,
   bm7b5, e7, am7, eb7,
@@ -216,55 +222,53 @@ Chord
   dm7, g7, cmaj7, (a7)..
 }
 
-/*
 Lyrics
 {
-  Alice | in | Wonder- | land |
-How do you get to Wonderland?
-Over the hill or under land?
-Or just behind the tree?
+  Alice | in | Wonderland | |
+  How do you | get to| Wonderland? | |
+  Over the | hill or | under | land? |
+  Or just | behind the | tree? | |
 
-When clouds go rolling by
-They roll away and leave the sky
-Where is the land beyond the eye
-That people cannot see
+  When | clouds go | rolling | by |
+  They roll | away and | leave the | sky |
+  Where is the | land | beyond the | eye |
+  That people | cannot | see | |
 
-And where do stars go?
-Where is the crescent moon?
-They must be somewhere
-In the sunny afternoon
+  And where | do | stars | go? |
+  Where is the | crescent | moon? | |
+  They | must | be | somewhere |
+  In the | sunny | afternoon | |
 
-Alice in Wonderland
-Where is the path to Wonderland?
-Over the hill or here or there?
-I really wonder where?
+  Alice | in | Wonderland | |
+  Where is the | path to | Wonderland? | |
+  Over the | hill or | here or | there? |
+  I really | wonder | where? | |
 
-And where do stars go?
-Where is the crescent moon?
-They must be somewhere
-In the sunny afternoon
+  And where do stars go?
+  Where is the crescent moon?
+  They must be somewhere
+  In the sunny afternoon
 
-Alice in Wonderland
-Where is the path to Wonderland?
-Over the hill or here or there?
-I really wonder where?
+  Alice in Wonderland
+  Where is the path to Wonderland?
+  Over the hill or here or there?
+  I really wonder where?
 
-Say where do stars go?
-Where is the crescent moon?
-They must be somewhere
-In the crazy afternoon
+  Say where do stars go?
+  Where is the crescent moon?
+  They must be somewhere
+  In the crazy afternoon
 
-Alice in Wonderland
-Where is the path to Wonderland?
-Over the hill or here or there?
-I wonder where?
+  Alice in Wonderland
+  Where is the path to Wonderland?
+  Over the hill or here or there?
+  I wonder where?
 
-Tell me where
-Where is that faraway land
-That the eye can't see
-Show me the way to Wonderland
+  Tell me where
+  Where is that faraway land
+  That the eye can't see
+  Show me the way to Wonderland
 }
-*/
 </file>
 <file name=All Blues>
 Key{g}
@@ -448,26 +452,23 @@ Intro:
   abmaj7,am7b5 d7b9,gm7,c7b9,
   fm7 c7,fm7 bb7, eb6,..
 }
-/*
+
 Lyrics
 {
-  |  |  |
-  I love the | looks // of | you //
-The | lure // of | you
-The sweet of you
-The pure of you
-The eyes, the arms, the mouth of you
-The east, west, north, and the south of you
-I'd love to gain complete control of you
-And handle even the heart and soul of you
-So love at least a small percent of me, do
-For I love all of you
-I'd love to gain complete control of you
-And handle even the heart and soul of you
-So love at least a small percent of me, do
-For I love all of you
+  |  |  | / I love the |
+
+  looks // of | you // The | lure // of | you // The |
+  sweet // of | you // The | pure // of | you // The |
+
+  eyes // the | arms // the | mouth // of | you // The |
+  east / west | north / and the | south // of | you / I'd love to |
+
+  gain | complete | control // of | you // And |
+  handle | even the heart and | soul // of | you |
+
+  So love at least | a small percent of | me | do // For |
+  I / love | all / of | you | |
 }
-*/
 </file>
 <file name=All The Things You Are>
 Key{ab}
@@ -507,27 +508,26 @@ Ending:
   Db7,,C7,,
   Db7,,C7,|||
 }
-/*
+
 Lyrics
 {
-  ||||||||
+  | | | |
+  | | | |
 
   You | are the | promised kiss of | springtime |
-That makes the lonely winter seem long
-You are the breathless hush of evening
-That trembles on the brink of a lovely song
-You are the angel glow that lights a star
-The dearest things I know are what you are
-Some day my happy arms will hold you
-And some day I'll know that moment divine
-When all the things you are, are mine
-You are the angel glow that lights a star
-The dearest things I know are what you are
-Some day my happy arms will hold you
-And some day I'll know that moment divine
-When all the things you are, are mine
+  That makes the | lonely winter seem | long | |
+
+  You | are the | breathless hush of | evening |
+  That trembles | on the brink of | a lovely song | / You are the |
+
+  angel glow | that lights a | star | / The dearest |
+  things I know | are what you | are | |
+
+  Some | day my | happy arms will | hold you / And |
+  some | day I'll | know that moment | divine/  When |
+  all the things you | are // are | mine | |
 }
-*/
+
 Progression
 {
   ThemeStructure=ABCD;
@@ -746,6 +746,8 @@ Progression
 <file name=Anticalypso>
 Key{f}
 
+Rhythm{bossa}
+
 Misc
 {
   Tempo  = 220;
@@ -812,6 +814,8 @@ What have you done to my heart
 <file name=Armando's Rumba>
 Key{cm}
 
+Rhythm{bossa}
+
 Misc
 {
   Tempo  = 230;
@@ -845,33 +849,36 @@ Misc
 
 Lyrics
 {
-  ////|////|////|///You|
+  | | | /// You|
 
-  must remember this / / / | A kiss is just a kiss, / / / | a sigh is just a sigh. / / / | / / / The |
-  fundamental things apply / / / | / As ~ time ~ goes | by. / / / | / / / And |
+  must remember this // A | kiss is just a kiss // a | sigh is just a sigh | /// The |
+  fundamental things | apply / As time goes | by | /// And |
 
-  when two lovers woo / / / | They still say, "I love you." / / / | On that you can rely / / / | / / / No |
-  matter what the future brings / / / | / As ~ time ~ goes | by. / / / | / / / / |
+  when two lovers woo // They | still say "I love you." On | that you can rely | /// No |
+  matter what the future | brings / As time goes | by | |
 
-  Moonlight and love songs / / / | Never out of date. / / / | Hearts full of passion / / / | Jealousy and hate. / / / |
-  Woman needs man / / ~ And | man must have his mate / / / | That no one can / / / | deny. / / It's |
+  Moonlight and love songs | Never out of date | Hearts full of passion | Jealousy and hate |
+  Woman needs man / And | man must have his mate | That no one can | deny // It's |
 
-  still the same old story / / / | A fight for love and glory / / / | A case of / do ~ or | die. / / The |
-  world will always welcome / / / | lovers / / As | time / goes / | by. / / / |
+  still the same old story // A | fight for love and glory // A | case of do // or | die // The |
+  world will always welcome | lovers // As | time / goes | by |
 }
 
 Chord
 {
-  <fm7 bb7,gm7 c7 fm7 bb7,ebmaj7 fm7,f#o7 gm7b5 c7!
-  f7,fm7 bb7,db7#11 c7,b7 bb7 c7>
+  ,,,.
 
-  f7,fm7 bb7,ebmaj7,bbm7 eb7||
+  fm7 bb7,gm7 c7 fm7 bb7,ebmaj7 fm7,f#o7 gm7b5 c7,
+  f7,fm7 bb7,db7#11 c7,b7 bb7 c7.
+
+  fm7 bb7,gm7 c7 fm7 bb7,ebmaj7 fm7,f#o7 gm7b5 c7,
+  f7,fm7 bb7,ebmaj7,bbm7 eb7.
 
   abmaj7,c7,fm,am7b5 d7,
-  gm7 g7,cm7 f7,fm7,bb7||
+  gm7 g7,cm7 f7,fm7,bb7.
 
   fm7 bb7,fm7 abm7 db7,eb6 ab7#11,gm7 c7,
-  f7 d7 on f#,gm7b5 c7,fm7 bb7,eb6 (gm7b5 c7)|||
+  f7 d7 on f#,gm7b5 c7,fm7 bb7,eb6 (gm7b5 c7)..
 }
 </file>
 <file name=Au Privave>
@@ -1312,6 +1319,8 @@ Lyrics
 <file name=Besame Mucho>
 Key{dm}
 
+Rhythm{bossa}
+
 Misc
 {
   Tempo  = 130;
@@ -1322,18 +1331,18 @@ Misc
 
 Chord
 {
-  dm7,/d7,gm7,,
-  gm7 d7b9,em7b5 a7b9,dm7 a7,dm7,
-  d7,,gm7,,
-  dm7,e7b9 a7,dm7,/ d7||
+  dm,/d7b13,gm,,
+  gm d7b13,em7b5 a7b13,dm a7b13,dm,
+  d7b13,,gm,,
+  dm,e7b9 a7b13,dm,/ d7b13.
 
-  gm7,dm7,em7b5 a7,dm7 d7,
-  gm7,dm7,e7 bb7,a7||
+  gm,dm,em7b5 a7b13,dm d7b13,
+  gm,dm,e7 bb7, a7b13.
 
-  dm7,/d7,gm7,,
-  gm7 d7b9,em7b5 a7b9,dm7 a7,dm7,
-  d7,,gm7,,
-  dm7,e7b9 a7,dm7,(em7b5 a7)..
+  dm,/d7b13,gm,,
+  gm d7b13,em7b5 a7b9,dm a7b13,dm,
+  d7b13,,gm,,
+  dm,e7b9 a7b13,dm,(em7b5 a7b13)..
 }
 
 Lyrics
@@ -1518,12 +1527,16 @@ Misc
 Chord
 {
 Intro:
-  C7 Db7,C7 Db7,C7 Db7,C7 Db7
+  C7 Db7,C7 Db7,C7 Db7,C7 Db7.
 
 LabelA:
-  |:C7 Db7,C7 Db7,C7 Db7,C7,
+  C7 Db7,C7 Db7,C7 Db7,C7,
   F7,,C7 Db7,C7 A7,
-  Dm7,G7,C7,:|
+  Dm7,G7,C7,.
+
+  C7 Db7,C7 Db7,C7 Db7,C7,
+  F7,,C7 Db7,C7 A7,
+  Dm7,G7,C7,.
 
 LabelB:
   Dm7b5 G7,Cm,Dm7b5 G7,Cmaj7,
@@ -1532,48 +1545,46 @@ LabelB:
 LabelC:
   C7 Db7,C7 Db7,C7 Db7,C7 Db7,
   F7,,Cmaj7 Dm7,Em7 A7,
-  Dm7,G7,C7 (Db7,C7 Db7)|||
+  Dm7,G7,C7 (Db7,C7 Db7)..
 }
 
 Progression
 {
   Theme Structure = A B C;
 }
-/*
+
 Lyrics
 {
-  I'm feeling mighty lonesome
-Haven't slept a wink
-I walk the floor and watch the door
-And in between I drink
-Black coffee
-Love's a hand-me-down brew
-I'll never know a Sunday
-In this weekday room
-I'm talking to the shadows
-One o'clock to four
-And Lord, how slow the moments go
-When all I do is pour
-Black coffee
-Since the blues caught my eye
-I'm hanging out on Monday
-My Sunday dream's too dry
-Now, a man is born to go a-loving
-A woman's born to weep and fret
-And stay at home and tend her oven
-And drown her past regrets
-In coffee and cigarettes
-I'm moody all the morning
-Mourning all the night
-And in between, it's nicotine
-And not much hard to fight
-Coffee
-Feeling low as the ground
-It's driving me crazy
-This waiting for my baby
-To maybe come around
+  | | | /// I'm |
+
+  feeling mighty lonesome | Haven't slept a wink // I | walk the floor and watch the door // And | in between I drink |
+
+  Black coffee | Love's a hand-me-down | brew | |
+
+  I'll never know a Sunday | In this weekday room | | |
+
+  I'm talking to the shadows | One o'clock to four | And Lord, how slow the moments go | When all I do is pour |
+
+  Black coffee | Since the blues caught | my eye | |
+
+  I'm hanging out on Monday | My Sunday dream's too dry | |
+
+  Now, a man is born to go a-loving | 
+  A woman's born to weep and fret |
+  And stay at home and tend her oven |
+  And drown her past regrets |
+
+  In coffee and cigarettes |
+  I'm moody all the morning |
+  Mourning all the night |
+  And in between, it's nicotine |
+  And not much hard to fight |
+  Coffee |
+  Feeling low as the ground |
+  It's driving me crazy |
+  This waiting for my baby |
+  To maybe come around |
 }
-*/
 </file>
 <file name=Black Nile>
 Key{dm}
@@ -1608,6 +1619,8 @@ Theme:
 </file>
 <file name=Black Orpheus>
 Key{gm}
+
+Rhythm{bossa}
 
 Misc
 {
@@ -1694,6 +1707,8 @@ Don't blame it on my heart, blame it on my youth.
 </file>
 <file name=Blue Bossa>
 Key{cm}
+
+Rhythm{bossa}
 
 Misc
 {
@@ -1972,11 +1987,9 @@ Note
 }
 </file>
 <file name=Brazil>
-Title
-{
-}
-
 Key{f}
+
+Rhythm{bossa}
 
 Misc
 {
@@ -2233,6 +2246,8 @@ Misc
 
 Key{f}
 
+Rhythm{bossa}
+
 Chord
 {
 LabelA:
@@ -2369,6 +2384,8 @@ Mine
 <file name=Cantelope Island>
 Key { Fm }
 
+Rhythm{bossa}
+
 Chord
 {
   Fm7,,,,
@@ -2385,6 +2402,8 @@ Misc
 </file>
 <file name=Caravan>
 Key { Fm }
+
+Rhythm{bossa}
 
 Chord
 {
@@ -2454,6 +2473,8 @@ Theme:
 <file name=Ceora>
 Key{ab}
 
+Rhythm{bossa}
+
 Misc
 {
   Tempo  = 150;
@@ -2487,6 +2508,8 @@ Misc
 }
 
 Key{cm}
+
+Rhythm{bossa}
 
 Chord
 {
@@ -2686,6 +2709,8 @@ A Child is born
 </file>
 <file name=Christmas Eve>
 Key{f}
+
+Rhythm{bossa}
 
 Misc
 {
@@ -3063,6 +3088,8 @@ Chord
 </file>
 <file name=Corcovado>
 Key{am}
+
+Rhythm{bossa}
 
 Misc
 {
@@ -4119,31 +4146,6 @@ Misc
   MusicBy = "Sonny Stitt";
 }
 </file>
-<file name=Everything I Love>
-Key { F }
-
-Chord
-{
-  Fmaj7 | B7#11 | Bbmaj7 | Am7 D7 |
-  Gm7 | C7 | Am7 D7 | Gm7 C7 |
-
-  F6 | Ab7 | Gm7 | Am7 D7 |
-  Bbm7 | Eb7 | Abmaj7 | Gm7 C7 .
-
-  Fmaj7 | B7#11 | Bbmaj7 | Am7 D7 |
-  Bm7b5 | E7b9 | A7 | |
-
-  Dm7 Dbm7 | Cm7 F7 | Bbmaj7 D7#5 | Gm7 G#o7 |
-  Am7 D7 | Gm7 C7 | F6 (D7 | Gm7 C7) ..
-}
-
-Misc
-{
-  Tempo = 210;
-  Repeat = 2;
-  MusicBy = "Cole Porter";
-}
-</file>
 <file name=Every Time We Say Good Bye>
 Misc
 {
@@ -4284,6 +4286,31 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Burton Lane";
+}
+</file>
+<file name=Everything I Love>
+Key { F }
+
+Chord
+{
+  Fmaj7 | B7#11 | Bbmaj7 | Am7 D7 |
+  Gm7 | C7 | Am7 D7 | Gm7 C7 |
+
+  F6 | Ab7 | Gm7 | Am7 D7 |
+  Bbm7 | Eb7 | Abmaj7 | Gm7 C7 .
+
+  Fmaj7 | B7#11 | Bbmaj7 | Am7 D7 |
+  Bm7b5 | E7b9 | A7 | |
+
+  Dm7 Dbm7 | Cm7 F7 | Bbmaj7 D7#5 | Gm7 G#o7 |
+  Am7 D7 | Gm7 C7 | F6 (D7 | Gm7 C7) ..
+}
+
+Misc
+{
+  Tempo = 210;
+  Repeat = 2;
+  MusicBy = "Cole Porter";
 }
 </file>
 <file name=Exactly Like You>
@@ -4528,6 +4555,8 @@ Misc
 </file>
 <file name=Feel Like Makin' Love>
 Key { Eb }
+
+Rhythm{bossa}
 
 Chord
 {
@@ -5720,6 +5749,8 @@ Lyrics
 <file name=The Gift! (Recado Bossa Nova)>
 Key { Gm }
 
+Rhythm{bossa}
+
 Chord
 {
   Gm | | D7b9 | |
@@ -6234,6 +6265,21 @@ Title
 }
 
 Key{eb}
+
+Rhythm
+{
+  bossa | bossa | bossa | bossa |
+  bossa | bossa | bossa | bossa |
+
+  swing | swing | swing | swing |
+  swing | swing | swing | swing |
+
+  bossa | bossa | bossa | bossa |
+  bossa | bossa | bossa | bossa |
+
+  swing | swing | swing | swing |
+  swing | swing | swing | swing
+}
 
 Misc
 {
@@ -16548,7 +16594,6 @@ Misc
   Repeat = 2;
   MusicBy = "George Gershwin";
 }
-
 </file>
 <file name=My Old Flame>
 Misc
@@ -16772,7 +16817,6 @@ Misc
   Repeat = 2;
   MusicBy = "John Coltrane";
 }
-</file>
 </file>
 <file name=Nancy>
 Key{eb}
@@ -17567,6 +17611,8 @@ Misc
 }
 
 Key{cm}
+
+Rhythm{bossa}
 
 Chord
 {
@@ -21716,12 +21762,14 @@ Title
 Misc
 {
   Tempo  = 180;
-  Repeat  = 0;
+  Repeat  = 2;
   MusicBy  = "";
   WordsBy  = "";
 }
 
 Key{f}
+
+Rhythm{bossa}
 
 Chord
 {
@@ -25129,7 +25177,6 @@ Misc
   Repeat = 2;
   MusicBy = "Jimmy Heath";
 }
-
 </file>
 <file name=Till There Was You>
 Key { Eb }
