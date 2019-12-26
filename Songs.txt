@@ -2403,7 +2403,28 @@ Misc
 <file name=Caravan>
 Key { Fm }
 
-Rhythm{bossa}
+Rhythm
+{
+  bossa | | | |
+  | | | |
+  | | | |
+  | | | |
+
+  | | | |
+  | | | |
+  | | | |
+  | | | |
+
+  Swing | | | |
+  | | | |
+  | | | |
+  | | | |
+
+  bossa | | | |
+  | | | |
+  | | | |
+  | | | |
+}
 
 Chord
 {
@@ -3504,6 +3525,8 @@ Title
   Dindi
 }
 
+Rhythm{bossa}
+
 Lyrics
 {
 /*
@@ -4416,6 +4439,8 @@ Misc
 </file>
 <file name=Falling Grace>
 Key { Ab }
+
+Rhythm{bossa}
 
 Chord
 {
@@ -5515,6 +5540,8 @@ Misc
 
 Key{am}
 
+Rhythm{bossa}
+
 Chord
 {
   |:am,,bm7b5,e7,
@@ -6268,17 +6295,17 @@ Key{eb}
 
 Rhythm
 {
-  bossa | bossa | bossa | bossa |
-  bossa | bossa | bossa | bossa |
+  bossa | | | |
+  | | | |
 
-  swing | swing | swing | swing |
-  swing | swing | swing | swing |
+  swing | | | |
+ | | | |
 
-  bossa | bossa | bossa | bossa |
-  bossa | bossa | bossa | bossa |
+  bossa | | | |
+  | | | |
 
-  swing | swing | swing | swing |
-  swing | swing | swing | swing
+  swing | | | |
+  | | | |
 }
 
 Misc
@@ -6455,7 +6482,7 @@ Chord
   f7,,fm7,bb7!
   gm7,c7,fm7,bb7:|
 
-  fm7,abm7 db7,eb (c7,fM7 bb7)..
+  fm7,abm7 db7,eb (c7,fm7 bb7)..
 }
 
 Note
@@ -6576,7 +6603,7 @@ Chord
 Note
 {
   ,,,rh c4q,
-  d c f, eh fq, d c g, fh fq,
+  d c f, eh cq, d c g, fh cq,
   c5 a4 f, e d bb, a f g, fh rq
 }
 
@@ -7352,29 +7379,62 @@ Misc
 <file name=How Deep Is Your Love>
 Key { Eb }
 
+Rhythm{bossa}
+
 Chord
 {
-  eb g7, cm c7, fm7, bb7,
-  gm7, cm7, fm7, bb7 eb7.
+  , , , .
 
-  ab, gm7, fm7, db7,
-  eb, bb7.
+  Eb G7, Cm C7, Fm7, Bb7,
+  Gm7, Cm7, Fm7, Bb7 Eb7.
 
-  eb,, ab, db7,
-  gm7b5,,,c7,
+  Ab, Gm7, Fm7, Db7,
+  Eb, Bb7.
+
+  Eb,, Ab, Db7,
+  Gm7b5,,,C7,
+  Fm7, Bb7.
+
+  Eb G7, Cm C7, Fm7, Bb7,
+  Gm7, Cm7, Fm7, Bb7 Eb7.
+
+  Ab, Gm7, Fm7, Db7,
+  Eb, Bb7.
+
+  Eb,, Ab, Db7,
+  Gm7b5,,,C7,
+  Fm7, Bb7..
 }
 
 Note
 {
   
 }
-/*
+
 Lyrics
 {
-  I know your eyes in the morning sun
-I feel you touch me in the pouring rain
-And the moment that you wander far from me
-I want to feel you in my arms again
+  | | | / / I know your |
+  eyes in the morning | sun / I feel you | touch me in the pouring | rain / And the |
+  moment that you wander | far from me / I want to | feel you in my arms | again / And you |
+
+  come to me on a | summer breeze Keep me | warm in your love, then you | softly leave And it's |
+  me you need to show | How deep is your love? |
+
+  How deep is your love? | How deep is your love? | I really mean to | learn / 'Cause we're |
+  living in a world of | fools / Breaking us | down / when they | all should let us |
+  be / We belong | to you and me |
+
+  I believe in | you / You know the | door to my very | soul / You're the |
+  light in my deepest | darkest hour You're my | savior when I | fall / And you |
+
+  may not think I | care for you When you | know down inside that I | really do And it's |
+  me you need to show | How deep is your love? |
+
+  How deep is your love? | How deep is your love? | I really mean to | learn / 'Cause we're |
+  living in a world of | fools / Breaking us | down when they | all should let us |
+  be / We belong | to you and me |
+
+/*
 And you come to me on a summer breeze
 Keep me warm in your love, then you softly leave
 And it's me you need to show
@@ -7384,28 +7444,6 @@ I really mean to learn
 'Cause we're living in a world of fools
 Breaking us down when they all should let us be
 We belong to you and me
-I believe in you
-You know the door to my very soul
-You're the light in my deepest, darkest hour
-You're my savior when I fall
-And you may not think I care for you
-When you know down inside that I really do
-And it's me you need to show
-How deep is your love, how deep is your love
-How deep is your love?
-I really mean to learn
-'Cause we're living in a world of fools
-Breaking us down when they all should let us be
-We belong to you and me
-And you come to me on a summer breeze
-Keep me warm in your love, then you softly leave
-And it's me you need to show
-How deep is your love, how deep is your love
-How deep is your love?
-I really mean to learn
-'Cause we're living in a world of fools
-Breaking us down when they all should let us be
-We belong to you and me
 How deep is your love, how deep is your love
 I really mean to learn
 'Cause we're living in a world of fools
@@ -7416,8 +7454,9 @@ I really mean to learn
 'Cause we're living in a world of fools
 Breaking us down when they all should let us be
 We belong to you and me
-}
 */
+}
+
 Misc
 {
   Tempo = 150;
@@ -8241,6 +8280,8 @@ Note
 <file name=I Just Call To Say I Love You>
 Key{c}
 
+Rhythm{bossa}
+
 Misc
 {
   Tempo  = 130;
@@ -8754,6 +8795,8 @@ Misc
 <file name=I Wish You Love>
 Key { Eb }
 
+Rhythm{bossa}
+
 Chord
 {
   Fm7 | Bb7 | Ebmaj7 Ab7 | Gm7 Gbo7 |
@@ -8979,6 +9022,24 @@ Misc
 }
 
 Key{g}
+
+Rhythm
+{
+  bossa | | | |
+  | | | |
+  swing | | | |
+  | | | |
+
+  | | | |
+  | | | |
+  | | | |
+  | | | |
+
+  bossa | | | |
+  | | | |
+  swing | | | |
+  | | | |
+}
 
 Chord
 {
@@ -9408,6 +9469,8 @@ Misc
 }
 
 Key{f}
+
+Rhythm{bossa}
 
 Chord
 {
@@ -11691,6 +11754,8 @@ Misc
 <file name=The Jive Samba>
 Key { G }
 
+Rhythm{bossa}
+
 Chord
 {
   G7 | | | |
@@ -11965,6 +12030,8 @@ For the joy spring
 <file name=Joyce's Samba>
 Key { C }
 
+Rhythm{bossa}
+
 Chord
 {
   Cmaj7 | Co | Am7 | D7 |
@@ -12129,10 +12196,14 @@ Misc
 
 Chord
 {
-  [bbmaj7, , bbm7, eb7,
-  fmaj7, , abm7, db7 !
+  bbmaj7, , bbm7, eb7,
+  fmaj7, , abm7, db7,
+
   gm7, c7, fmaj7, dm7,
-  g7, , gm7, c7 f7]
+  g7, , gm7, c7 f7.
+
+  bbmaj7, , bbm7, eb7,
+  fmaj7, , abm7, db7,
 
   gm7, c7, em7b5 a7, dm7,
   gm7, c7, f, (cm7 f7)..
@@ -12142,23 +12213,21 @@ Note
 {
 
 }
-/*
+
 Lyrics
 {
-Just friends, lovers no more
-Just friends, but not like before
-To think of what we've been and not to kiss again
-Seems like pretending it isn't the ending
-Two friends drifting apart
-Two friends, but one broken heart
-We loved, we laughed, we cried, suddenly love died
-The story ended, but we're just friends
-Two friends drifting apart
-Two friends but one broken heart
-We loved, we laughed, we cried, suddenly love died
-The story ended, but we're just friends
+  Just friends | / lovers no | more | |
+  Just friends | / but not like | before | |
+
+  To think of what we've | been / and | not to kiss | again /
+  Seems like | pretending | / it isn't the | ending | |
+
+  Two friends | / drifting | apart | |
+  Two friends | / but one broken | heart | |
+
+  We loved, we laughed | we cried | suddenly love | died
+  The story | ended | but we're just | friends | |
 }
-*/
 </file>
 <file name=Just In Time>
 Misc
@@ -12282,83 +12351,129 @@ So squeeze me but please don't tease me
 Misc
 {
   Tempo  = 130;
-  Repeat  = 2;
-  MusicBy  = "";
-  WordsBy  = "";
+  Repeat  = 0;
+  MusicBy  = "Billy Joel";
+  WordsBy  = "Billy Joel";
 }
 
 Key{c}
 
+Rhythm{bossa}
+
 Chord
 {
-LabelA:
   c fm,c,c fm,c g7.
 
-LabelB:
   c,f#m7b5,fM7,gm7 c7,
   fM7,fm6,c,gm7 c7,
   fM7,fm6,c,am,
   d7#11,,gsus7,.
 
-LabelC:
   c,f#m7b5,fM7,gm7 c7,
   fM7,fm6,c,gm7 c7,
   fM7,fm6,c,am,
   dm7,g7.
 
-LabelD:
+  c fm,c,c fm,c g7.
+
+  c,f#m7b5,fM7,gm7 c7,
+  fM7,fm6,c,gm7 c7,
+  fM7,fm6,c,am,
+  d7#11,,gsus7,.
+
+  c,f#m7b5,fM7,gm7 c7,
+  fM7,fm6,c,gm7 c7,
+  fM7,fm6,c,am,
+  dm7,g7.
+
   c fm,c,c fm,c c7.
 
-LabelE:
   f,g7,em7,a7,
   dm7,g7,c,c7.
 
-LabelF:
   fm7,bb7,gm7,c7,
   fm7,bb7,dm7,g7.
 
-Ending:
-  C|||
-}
+  c,f#m7b5,fM7,gm7 c7,
+  fM7,fm6,c,gm7 c7,
+  fM7,fm6,c,am,
+  dm7,g7.
 
-Progression
-{
-  A B C A B C D E F C A B C F C A Ending
+  c fm,c,c fm,c g7.
+
+  c,f#m7b5,fM7,gm7 c7,
+  fM7,fm6,c,gm7 c7,
+  fM7,fm6,c,am,
+  d7#11,,gsus7,.
+
+  c,f#m7b5,fM7,gm7 c7,
+  fM7,fm6,c,gm7 c7,
+  fM7,fm6,c,am,
+  dm7,g7.
+
+  fm7,bb7,gm7,c7,
+  fm7,bb7,dm7,g7.
+
+  c,f#m7b5,fM7,gm7 c7,
+  fM7,fm6,c,gm7 c7,
+  fM7,fm6,c,am,
+  d7#11,,gsus7,.
+
+  c,f#m7b5,fM7,gm7 c7,
+  fM7,fm6,c,gm7 c7,
+  fM7,fm6,c,am,
+  dm7,g7.
+
+  c fm,c,c fm,c g7,
+  C..
 }
 
 Note
 {
 
 }
-/*
+
 Lyrics
 {
-Don't go changing to try and please me
-You never let me down before
-Don't imagine you're too familiar
-And I don't see you anymore
-I wouldn't leave you in times of trouble
-We never could have come this far
-I took the good times; I'll take the bad times
-I'll take you just the way you are
-Don't go trying some new fashion
-Don't change the color of your hair
-You always have my unspoken passion
-Although I might not seem to care
-I don't want clever conversation
-I never want to work that hard
-I just want someone that I can talk to
-I want you just the way you are
-I need to know that you will always be
-The same old someone that I knew
-What will it take till you believe in me
-The way that I believe in you?
-I said I love you and that's forever
-And this I promise from the heart
-I could not love you any better
-I love you just the way you are
+  | | | |
+
+  / Don't go | changing | / to try and | please me |
+  / You never | let me down | before | |
+  / Don't | imagine | / you're too | familiar |
+  / And I don't | see you anymore | | |
+
+  / I wouldn't | leave you | / in times of | trouble|
+  / We never | could have come this | far | |
+  / I took the | good times | / I'll take the | bad times |
+  / I'll take you just | the way you are |
+
+  | | | |
+
+  / Don't go | trying | / some new | fashion |
+  / Don't change the | color of your | hair | |
+  / You always | have my | / unspoken | passion |
+  / Although I | might not seem to | care | |
+
+  / I don't want | clever | / conversation | |
+  / I never | want to work that | hard | |
+  / I just want | someone | / that I can | talk to |
+  / I want you just | the way you are |
+
+  | | | |
+
+  / I need to know | that you will | always | be |
+  / The same old | someone that I | knew | |
+  / What will it | take till you | believe in | me |
+  / The way that | I believe in | you? | |
+
+  / I said I | love you | / and that's | forever|
+  / And this I | promise from the | heart | |
+  / I could not | love you | / any | better |
+  / I love you just | the way you are |
+
+  | | | |
+
 }
-*/
 </file>
 <file name=Just You, Just Me>
 Key { C }
@@ -13443,6 +13558,8 @@ Misc
 }
 
 Key{g}
+
+Rhythm{bossa}
 
 Chord
 {
@@ -14765,11 +14882,6 @@ Misc
 }
 </file>
 <file name=Meditation>
-Title
-{
-  Meditation
-}
-
 Lyrics
 {
 }
@@ -14783,6 +14895,8 @@ Misc
 }
 
 Key{c}
+
+Rhythm{bossa}
 
 Chord
 {
@@ -14963,6 +15077,8 @@ Misc
 </file>
 <file name=Mercy, Mercy, Mercy>
 Key { Bb }
+
+Rhythm{bossa}
 
 Chord
 {
@@ -15256,7 +15372,7 @@ Chord
 
 Misc
 {
-  Tempo = 150;
+  Tempo = 220;
   Repeat = 2;
   MusicBy = "Gigi Gryce";
 }
@@ -15419,7 +15535,7 @@ Chord
 
   gm7 c7#9,fm7 bb7||
   eb69 on bb,fm7 on bb,gm7 on bb,fm7 on bb,
-  eb69 fm7,gm7 fm7,eb,fm7 bb7|||
+  eb69 fm7,gm7 fm7,eb,(fm7 bb7)|||
 }
 
 Note
@@ -15585,7 +15701,7 @@ Note
   rh go ab bb c5, r g4q. rh, ro f f f r c5 r f4, bbh r,
 
   rh g4o ab bb f, _fh r, r go ab bb eb, _ebh r,
-  rq go r bb c5 _cq, g4o f eb c eb fq ebo, _ebq go3 ab a bbo c5, _cq bb4o a bb c5 db ebq.,
+  rq go r bb c5 _cq, g4o f eb c eb fq ebo, _ebq go3 ab a bbo c5 _cq, bb4o a bb c5 db ebq.,
 
   rq c c c, co dq. rq co a4, bbq bb bbo c5 a4 bb, _bb4h r,
   ro f5q. eh, ebq. d rq, go ab bb c6 rh, f5o g ab bb rh,
@@ -16150,7 +16266,7 @@ Chord
 
 Misc
 {
-  Tempo = 150;
+  Tempo = 250;
   Repeat = 2;
   MusicBy = "Denzil Best";
 }
@@ -16466,6 +16582,8 @@ Misc
 }
 
 Key{g}
+
+Rhythm{bossa}
 
 Chord
 {
@@ -18453,6 +18571,8 @@ Lyrics
 <file name=One Note Samba (Samba De Uma Nota So)>
 Key { Bb }
 
+Rhythm{bossa}
+
 Chord
 {
   Dm7 | Db7 | Cm7 | B7#11 |
@@ -18471,7 +18591,7 @@ Chord
 
 Misc
 {
-  Tempo = 150;
+  Tempo = 190;
   Repeat = 2;
   MusicBy = "Antonio-Carlos Jobim";
 }
@@ -18922,6 +19042,8 @@ Misc
 
 Key{Eb}
 
+Rhythm{bossa}
+
 Chord
 {
   db6,c7,bmaj7,c7,db6,c7,bmaj7,bb7
@@ -19009,6 +19131,8 @@ You, over you
 </file>
 <file name=Oye Como Va>
 Key { G }
+
+Rhythm{bossa}
 
 Chord
 {
@@ -19549,6 +19673,8 @@ Lyrics
 <file name=Poinciana (Song Of The Tree)>
 Key { D }
 
+Rhythm{bossa}
+
 Chord
 {
   [ Asus7 | | | |
@@ -19959,6 +20085,8 @@ Misc
 <file name=Quiet Nights of Quiet Stars (Corcovado)>
 Key{am}
 
+Rhythm{bossa}
+
 Misc
 {
   Tempo  = 150;
@@ -20051,6 +20179,8 @@ Misc
 }
 
 Key{gm}
+
+Rhythm{bossa}
 
 Chord
 {
@@ -20162,6 +20292,8 @@ Misc
 }
 
 Key{am}
+
+Rhythm{bossa}
 
 Chord
 {
@@ -20681,6 +20813,8 @@ Misc
 </file>
 <file name=Samba De Orfeu>
 Key{c}
+
+Rhythm{bossa}
 
 Misc
 {
@@ -21873,9 +22007,11 @@ So in love with you, my love, am I.
 <file name=So Many Stars>
 Key{db}
 
+Rhythm{bossa}
+
 Misc
 {
-  Tempo = 90;
+  Tempo = 120;
 }
 
 Chord
@@ -21945,16 +22081,22 @@ So many stars...so many stars... oh, so many stars
 <file name=So Nice (Summer Samba)>
 Key { F }
 
+Rhythm{bossa}
+
 Chord
 {
   Fmaj7 | | Bm7 | E7 |
   Bbmaj7 | | Eb7 | .
 
-  Am7 | D7b9 | Gm7 | Em7b5 |
+  Am7 | D7b9 | Gm7 | Em7b5 A7#5 |
+  Dm7 | G7 | Gm7 | C7.
 
-  A7#5 | Dm7 | G7 | Gm7 |
-  Db7 C7 | C7b9 | Fmaj7 | Eb7 |
-  Fmaj7 | C7#9 | ..
+  Fmaj7 | | Bm7 | E7 |
+  Bbmaj7 | | Eb7 | .
+
+  Am7 | D7b9 | Gm7 | C7b9 |
+
+  Fmaj7 | Eb7 | Fmaj7 | (C7#9) ..
 }
 
 Misc
@@ -23116,7 +23258,7 @@ Chord
   Dm7 Dm on C Bm7b5 E7 | Am7 Am7 on G | F#m7 B7 | Emaj7 Dm7.
 
   Cmaj7 A7 | Dm7 G7 | Cmaj7 Fmaj7 | Em7 A7b9 |
-  Dm7 | G7 | Cmaj7 A7 | Dm7 G7..
+  Dm7 | G7 | Cmaj7 (A7 | Dm7 G7)..
 }
 
 Misc
@@ -25017,6 +25159,8 @@ Misc
 
 Key{fm}
 
+Rhythm{bossa}
+
 Chord
 {
 Intro:
@@ -25471,6 +25615,8 @@ Misc
 <file name=Triste>
 Key { A }
 
+Rhythm{bossa}
+
 Chord
 {
   Amaj7 | | Fmaj7#11 | |
@@ -25487,7 +25633,7 @@ Chord
 
 Misc
 {
-  Tempo = 150;
+  Tempo = 160;
   Repeat = 2;
   MusicBy = "Antonio-Carlos Jobim";
 }
@@ -26117,6 +26263,8 @@ Misc
 </file>
 <file name=Wave>
 Key{d}
+
+Rhythm{bossa}
 
 Misc
 {
