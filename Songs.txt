@@ -24,6 +24,62 @@ Misc
   Repeat = 2;
   MusicBy = "Duke Ellington";
 }
+
+Lyrics
+{
+/*
+Barclay James Harvest, The
+Welcome To The Show
+African Nights
+Driving down the road
+Under the southern light
+Looking back to see
+Where we've come from
+As we watched the sun go down
+Rain it fell like diamonds
+From kimberley mines
+On the road to jo'burg
+With the dying light
+Farewal durban
+City of natal
+Stopped a while to stretch my thoughts
+As we crossed the borderline
+And into transvaal
+I saw the sun go down
+Under the southern skies
+Over and over
+I'll always remember
+Those beautiful african nights
+In the old vw
+We'd count the miles
+We travelled with a friend
+Whose name was farr
+The stories that he told us
+Talked of faces
+Times and places
+Sang and played his guitar
+Driving down the road
+We hear the morning rise
+Leaving all the past
+So far behind
+The sound man played the eagles
+As we listen
+"take it easy"
+Echoes on through our lives
+I saw the sun go down
+Under the southern skies
+Over and over
+I'll always remember
+I still hear them call
+No matter how far
+Those beautiful african nights
+*/
+}
+
+Link
+{
+	""
+}
 </file>
 <file name=Afro Blue>
 Key{Fm}
@@ -51,8 +107,11 @@ Lyrics
   I hear | a hand | stroke on | a drum |
   Shades of | delight | cocoa | hue |
   Rich as | the night, | afro | blue |
+}
 
-
+Link
+{
+	""
 }
 </file>
 <file name=Agua de Beber>
@@ -91,6 +150,11 @@ Lyrics
 
   / Água de | beber, | / água de | beber camará, | / água de | beber, | / água de | beber camará |
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=Airegin>
 Key{Fm}
@@ -114,16 +178,159 @@ Chord
   dbmaj7, dm7b5 g7, cm7b5 gb7, f7 b7,
   bbm7, ebsus7, ab, (gm7b5 c7)|||
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+Wait'll y'dig it on the map - Airegin
+Spelled backwards
+Really're closin' up the gap - Airegin
+Gone fac'wards
+Back long time ago they saw a ghost
+Ghost made a boast
+Soon that ghost was host
+(Repeat first 8 bars)
+Those losing their hue
+They goofed 'n got the wrong view
+First, things reverse, last is first!
+Y' dig it!
+Whatta' y' think o'that'n get a load a'
+What I tell y'
+What this place is no one knows it
+There's no traces of the kind o'place it was
+Before it got "discovered" by the kind o'
+Cat that knows the earth belongs t'him
+Back when the world was young
+An' man was a living god
+An' he walked this earthly sod
+This was sod that god would trod on
+Till one day a stranger landed
+With a line o'jive
+Laid it on the natives till he had 'em thinkin'
+Maybe that they should really take five
+An' he quickly stole the natives' soul
+So he could control it
+An' he took care of that missionary biz
+Till the lan' was his
+Never heard a story draggy as that
+Tell th' truth I ain't never heard another
+That exasperated more
+What an exasperating narrative t'play
+Upon the sensitive and kindly soul that I am
+'Way back when I was crawlin' in m'crib
+I was doin' all kinds o'thinkin'
+Aw'ready I had figured out the 'cut of m'jib'
+The kind o'soul that never liked t'tell 'r live a fib
+A body who was steadily reachin' up
+A min' always thinkin' on high-minded things
+Whee! I was always one t'be free
+Ain't never had a keeper why don't people
+Learn t'git along t'gether stead o'
+Meddlin' aroun' 'n fussin' with the fella nearest to 'em
+Me, I'm the old fashioned kind
+I was never good at follow-the-leader
+Real real real real real real real
+That's me, as real as a Yankee can be
+That's me
+Millions o' years ago
+There was a Paleolithic age on Earth
+An' the whole world was young
+And full o'the vim of constant rebirth
+Brontosauruses 'n dinosaurs 'n pterodactyls
+Ever'where abounding that was the case
+'N plus the millions o' mammoths here 'n there
+An' in addition there were lots o'men everywhere
+Who had no hi-tech and no intellect 'nary a speck
+But in that spot
+Where it was so lush, where it was so hot
+Where many animal was roamin'
+An' nature was kind, life was thrivin'
+There livin' was actual an' the feelin' was natural
+I'm tellin' the truth
+What-a-benign livin' some livin'
+All's forgiven come on home
+Blew a truly unruly storm
+That wrecked a boat in a climate warm
+'N full o'ashy-colored cats all lookin'
+White like ghosts
+'N when the natives checked 'em out
+It blew 'em away t'find that they resembled spirits
+Long ago there was a legend
+'Bout a spirit who would someday come
+A look at these cats
+'N y' could see they prob'ly had some
+So they welcomed 'em with peace and love
+And everything there's plenty of
+'N soon the tables had turned to rigormortis
+That's when the castaway had his say
+Like a dog had his day they told the
+People that they were spirits actual
+Y'see how perfectly a fable c'n be
+Incorporated into what a cat'll think is factual
+What was an accident turns int' something
+So unbelievably heaven-sent
+Everybody falls for it
+Right on down t' the militants
+'N marchin' 'n the martyrs 'n the murder of Lumumba
+Wait'll y'dig it on the map - Airegin
+Spelled backwards
+Really're closin' up the gap - Airegin
+Gone fac'wards
+Back long time ago they saw a ghost
+Ghost made a boast
+Soon that ghost was host
+Wait'll y'dig it on the map - Airegin
+Spelled backwards
+Really're closin' up the gap - Airegin
+Gone fac'wards
+Those losing their hue
+They goofed 'n got the wrong view
+First, things reverse, last is first!
+Y' dig it!
+*/
+}
 </file>
 <file name=Alfie>
 Key { C }
-
-
 
 Misc
 {
   Tempo = 150;
   Repeat = 2;
+}
+
+Lyrics
+{
+/*
+What's it all about, Alfie?
+Is it just for the moment we live?
+What's it all about when you sort it out, Alfie?
+Are we meant to take more than we give
+Or are we meant to be kind?
+And if only fools are kind, Alfie
+Then I guess it is wise to be cruel
+And if life belongs only to the strong, Alfie
+What will you lend on an old golden rule?
+As sure as I believe there's a heaven above, Alfie
+I know there's something much more,
+Something even non-believers can believe in
+I believe in love, Alfie
+Without true love we just exist, Alfie
+Until you find the love you've missed you're nothing, Alfie
+When you walk let your heart lead the way
+And you'll find love any day, Alfie
+Alfie
+*/
+}
+
+Link
+{
+	""
 }
 </file>
 <file name=Alice In Wonderland>
@@ -209,6 +416,17 @@ Lyrics
   That the eye can't see
   Show me the way to Wonderland
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=All Blues>
 Key{g}
@@ -228,6 +446,54 @@ Chord
   g7,,,,,,,,
   c7,,,,g7,,,,
   d7#9,,eb7#9,d7#9b13,g7,,,..
+}
+
+Lyrics
+{
+/*
+The sea, the sky, the you and I
+The sea, the sky, for you and I
+I'll know we're all blues
+All Shades, all hues, all blues
+Some blues are sad
+But some are glad,
+Dark-sad or bright-gald
+They're all blues
+All shades, all hues, all blues
+The color of colors
+The blues are more than a color
+They're a moan of pain
+A Taste of strife
+And a sad refrain
+A game which lif is pplayin'
+Blues can be the livin' dues
+We're all a-payin'
+Yeah, Oh Lord
+In a rainbow
+A summer day that's fair
+A parayer is prayed
+A lament that's made
+Some shade of blues is there;
+Blue heaven's hue,
+They're all blues
+Talkin' 'bout the sea and the sky
+Andi'm talkin' 'bout you and I
+The sea, the sky
+For you and I
+And I know we're all blues
+All shades,
+All hues,
+All blues
+Sea, sky, you and I
+See the sky, you and I
+All Blues
+All shades, all hues, all blues
+*/
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=uRBgy43gCoQ"
 }
 </file>
 <file name=All in Love Is Fair>
@@ -256,6 +522,40 @@ Misc
   Repeat = 2;
   MusicBy = "Stevie Wonder";
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=OxNw9LmWq-E"
+}
+
+Lyrics
+{
+/*
+All is fair in love
+Love's a crazy game
+Two people vow to stay
+In love as one they say
+But all is changed with time
+The future none can see
+The road you leave behind
+Ahead lies mystery
+
+But all is fair in love
+I had to go away
+A writer takes his pen
+To write the words again
+That all in love is fair
+
+All of fate's a chance
+It's either good or bad
+I tossed my coin to say
+In love with me you'd stay
+But all in war is so cold
+You either win or lose
+When all is put away
+The losing side I'll play
+*/
+}
 </file>
 <file name=All Of Me>
 Key{c}
@@ -266,6 +566,11 @@ Misc
   Repeat  = 14;
   MusicBy  = "Seymour Simons";
   WordsBy = "Gerald Marks";
+}
+
+Link
+{
+	""
 }
 
 Lyrics
@@ -325,8 +630,6 @@ Link
 
 Chord
 {
-
-
   ,,,.
 
   abm6,ebmaj7,fm7b5,bb7b9,
@@ -417,6 +720,11 @@ Lyrics
   all the things you | are // are | mine | |
 }
 
+Link
+{
+	""
+}
+
 Progression
 {
   ThemeStructure=ABCD;
@@ -474,6 +782,11 @@ Lyrics
   Swear I was | falling
   It's | almost like | being in | love
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=Alone Together>
 Key{dm}
@@ -523,6 +836,11 @@ Lyrics
   And we can | weather | the great | unknown |
   If we're | alone | together |
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=Alright, Okay, You Win>
 Key { C }
@@ -538,6 +856,53 @@ Misc
 {
   Tempo = 150;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+Well, alright, okay, you win
+I'm in love with you
+Well, alright, okay, you win
+Baby, what can I do?
+I'll do anything you say
+It's just got to be that way
+Well, alright, okay, you win
+I'm in love with you
+Well, alright, okay, you win
+Baby, what can I do?
+Anything you say, I'll do
+As long as it's me and you
+Well, if you put it that way, then
+First thing in the morning
+You gotta wake me with a kiss
+You gotta make up for all the lovin'
+You have made me miss
+Well, alright, okay, you win
+I'm in love with you
+Well, alright, okay, you win
+Baby, what can I do?
+I'll do anything you say
+It's just got to be that way
+All that I'm asking
+All I want from you
+Just love me like I love you
+That won't be hard to do
+Well, alright, okay, you win
+I'm in love with you
+Well, alright, okay, you win
+Baby, one thing more:
+If you're gonna be my man
+Sweet baby, take me by the hand
+And I'll do anything you say
+It's just got to be that way
+Well, alright, okay, you win
+*/
 }
 </file>
 <file name=Angel Eyes>
@@ -572,6 +937,11 @@ LabelC:
 Progression
 {
   Theme Structure = A B C;
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=IWL1k6aM3hE"
 }
 
 Lyrics
@@ -631,6 +1001,17 @@ Progression
 {
   Theme Structure = A B C;
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=AMuItUv9xZc"
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Anticalypso>
 Key{f}
@@ -656,6 +1037,17 @@ Chord
 
   bb,bo,am7b5,d7,
   gm7,c7,f,(em7b5 a7)..
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=AcxNPlGMsAE"
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=April In Paris>
@@ -683,8 +1075,45 @@ Chord
   gsus7b9,cM7,em7b5,a+7,
   d79,dm7b5 g7,c,..
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=Mur2DI1BInE"
+}
+
+Lyrics
+{
+/*
+April in Paris, chestnuts in blossom
+Holiday tables under the trees
+April in Paris, this is a feeling
+No one can ever reprise
+I never knew the charm of spring
+Never met it face to face
+I never knew my heart could sing
+Never missed a warm embrace
+Till April in Paris, whom can I run to?
+What have you done to my heart?
+April in Paris, chestnuts in blossom
+Holiday tables under the trees
+April in Paris, this is a feeling
+No one can ever reprise
+I never knew the charm of spring
+Never met it face to face
+I never knew my heart could sing
+Never missed a warm embrace
+Till April in Paris, whom can I run to?
+What have you done to my?
+One more time
+April in Paris, chestnuts in blossom
+April in Paris
+Just one more time
+April in Paris, chestnuts in blossom
+April in Paris
+*/
+}
 </file>
-<file name=Armando's Rumba>
+<file name=Armando's Rhumba>
 Key{cm}
 
 Rhythm{bossa}
@@ -705,6 +1134,17 @@ Chord
   c7 on e,fm,d7 on f#,gm,
   ab,ao,
   bb7 on bb,,,,eb,(g7)..
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=Diregu6eFzk"
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=As Time Goes By>
@@ -753,6 +1193,11 @@ Chord
   fm7 bb7,fm7 abm7 db7,eb6 ab7#11,gm7 c7,
   f7 d7 on f#,gm7b5 c7,fm7 bb7,eb6 (gm7b5 c7)..
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=d22CiKMPpaY"
+}
 </file>
 <file name=Au Privave>
 Key{F}
@@ -761,7 +1206,7 @@ Misc
 {
   Tempo  = 170;
   Repeat  = 8;
-  MusicBy  = "";
+  MusicBy  = "Charlie Parker";
   WordsBy  = "";
 }
 
@@ -770,6 +1215,17 @@ Chord
   f,gm7 c7,f gm7,cm7 f+7,
   bb7b9,bbm7 eb7,f gm7,am7 d7,
   gm7,gm7 c7,f (d7,gm7 c7)|||
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=dvdQYSWOobc"
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Auld Lang Syne>
@@ -815,6 +1271,11 @@ Lyrics
   take a cup of | kindness yet for |
   auld / lang | syne!
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=6xeMFywzp5A"
+}
 </file>
 <file name=Autumn In New York>
 Key{F}
@@ -838,6 +1299,40 @@ Chord
   cm7 dm7,ebm6 f+7,bbm6 abm7,gb7,
   fm7 c7,fm ab7,dbM7 ab7,dbM7 // ab7,
   gm7 am7,bbm6 c7b9,fm,(am7b5 d7)|||
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=50zL8TnMBN8"
+}
+
+Lyrics
+{
+/*
+Autumn in New York
+Why does it seem so inviting
+Autumn in New York
+It spells the thrill of first-knighting
+Glittering crowds and shimmering clouds
+In canyons of steel
+They're making me feel, I'm home
+It's autumn in New York
+That brings the promise of new love
+Autumn in New York
+Is often mingled with pain
+Dreamers with empty hands
+They sigh for exotic lands
+It's autumn in New York
+It's good to live it again
+This autumn in New York
+Transforms the slums into Mayfair
+Autumn in New York
+You'll need no castles in Spain
+Lovers that bless the dark
+On benches in Central Park
+It's autumn in New York
+It's good to live it again
+*/
 }
 </file>
 <file name=Autumn Leaves>
@@ -967,6 +1462,11 @@ Lyrics
   When I dream about the | moonlight on the | Wabash |
   / How I long | for / my | Indiana | home ||
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=u-FwwNDCUKE"
+}
 </file>
 <file name=Back Home Again in Indiana ~ Donna Lee>
 Misc
@@ -1076,6 +1576,11 @@ Lyrics
   When I dream about | the moonlight on | the Wabash |
   / How I long | for / my | Indiana | home ||
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=CmAkmfUhWZQ"
+}
 </file>
 <file name=Bag's Groove>
 Key { F }
@@ -1091,6 +1596,17 @@ Misc
 {
   Tempo = 150;
   Repeat = 2;
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=41ZptF7MEaI"
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Beautiful Love>
@@ -1116,6 +1632,44 @@ Chord
   dm,gm7 c7,em7b5,a7,
   dm,em7b5 a7,dm,(em7b5 a7)..
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=0vXB2WKky6M"
+}
+
+Lyrics
+{
+/*
+Beautiful love, you are all mystery
+Beautiful love, what have you done to me
+I was contented 'till you came along
+Thrilling, my soul with your song
+Beautiful love, I've roamed your paradise
+Searching for love, my dreams to realize
+Reaching for heaven, depending on you
+Beautiful love, will my dreams come true
+Beautiful love, you are all mystery
+Beautiful love, what have you done to me
+I was contented 'till you came along
+Thrilling, my soul with your song
+Beautiful love, I've roamed your paradise
+Searching for love, my dreams to realize
+Reaching for heaven, depending on you
+Beautiful love, will my dreams come true
+Beautiful love, you are all mystery
+Beautiful love, what have you done to me
+I was contented 'till you came along
+Thrilling, my soul with your song
+Beautiful love, I've roamed your paradise
+Searching for love, my dreams to realize
+Reaching for heaven, depending on you
+Beautiful love, will my dreams come true
+Reaching for heaven, depending on you
+Beautiful love, will my dreams come true
+Beautiful love
+*/
+}
 </file>
 <file name=Belgian Wheat>
 Key { G }
@@ -1139,6 +1693,17 @@ Misc
 {
   Tempo = 115;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Bernie's Tune>
@@ -1171,9 +1736,15 @@ Note
   
 }
 
+Link
+{
+	"https://www.youtube.com/watch?v=wcyKdYx7Z-w"
+}
+
 Lyrics
 {
-  
+/*
+*/
 }
 </file>
 <file name=Besame Mucho>
@@ -1230,6 +1801,11 @@ Lyrics
   Que tengo miedo | a perderte ~
   Perderte | después | |
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=Bessie's Blues>
 Key { F }
@@ -1247,6 +1823,17 @@ Misc
   Repeat = 2;
 }
 </file>
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 <file name=Bewitched>
 Key{F}
 
@@ -1319,6 +1906,11 @@ I'll sing to her | bring spring to her |
 And long for the day | when I'll cling to her |
 Bewitched, bothered and | bewildered am | I |
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=GIpQggP0WvI"
+}
 </file>
 <file name=Bewitched (TV)>
 Key{F}
@@ -1333,9 +1925,11 @@ Misc
 
 Chord
 {
+/*
 Intro:
   gm7,c7,am7,d7,
   gm7,c7,am7,d7.
+*/
 
 LabelA:
   gm7,c7,gm7,c7,
@@ -1355,6 +1949,17 @@ Progression
 {
   Theme Structure = A B;
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=dpb4YAAo4Tk"
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Billie's Bounce>
 Key { F }
@@ -1370,6 +1975,17 @@ Misc
 {
   Tempo = 150;
   Repeat = 2;
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=S4mRaEzwTYo"
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Black Coffee>
@@ -1445,6 +2061,11 @@ Lyrics
   This waiting for my baby |
   To maybe come around |
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=c-KKN76HaBc"
+}
 </file>
 <file name=Black Nile>
 Key{dm}
@@ -1475,6 +2096,17 @@ Theme:
 
   dm7,eb7,dm7,cm7 f+7,
   bbM7,eb7,dm7,(a+7)..
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=IWvUJlKp8HQ"
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Black Orpheus>
@@ -1516,6 +2148,32 @@ Progression
 {
   Theme Structure = A B;
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=YeSBSLmumYc"
+}
+
+Lyrics
+{
+/*
+Manhã, tão bonita manhã
+Na vida, uma nova canção
+Cantando só teus olhos
+Teu riso, tuas mãos
+Pois há de haver um dia
+Em que virás
+Das cordas do meu violão
+Que só teu amor procurou
+Vem uma voz
+Falar dos beijos perdidos
+Nos lábios teus
+Canta o meu coração
+Alegria voltou
+Tão feliz a manhã
+Deste amor
+*/
+}
 </file>
 <file name=Blame It On My Youth>
 Key{ab}
@@ -1546,6 +2204,29 @@ Theme:
   db eb7,cm7 f7,bbm7 bbm7 on ab,gb7#11 f7,
   bbm7 f7,bbm7 eb7,ab (f7,bbm7 eb7)..
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=d-De4NJ6LNk"
+}
+
+Lyrics
+{
+/*
+You were my adored one
+Then you became the bored one
+And I was like a toy that brought you joy one day
+A broken toy that you preferred to throw away
+If I expected love when first we kissed, blame it on my youth
+If only just for you I did exist, blame it on my youth
+I believed in everything like a child of three
+You meant more than anything all the world to me
+If you were on my mind all night and the day, blame it on my youth
+If I forgot to eat and sleep and pray, blame it on my youth
+And if I cried a little bit when first I learned the truth
+Don't blame it on my heart, blame it on my youth
+*/
+}
 </file>
 <file name=Blue Bossa>
 Key{cm}
@@ -1566,6 +2247,17 @@ Chord
   dm7b5,g7,cm,,
   ebm7,ab7,dbM7,,
   dm7b5,g7,cm,(dm7b5 g7)..
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=M69YdmAJoLs"
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Blue In Green>
@@ -1592,6 +2284,17 @@ Ending:
 Progression
 {
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=PoPL7BExSQU"
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Blue Monk>
 Key{bb}
@@ -1609,6 +2312,17 @@ Chord
   bb7,eb7,bb7,,
   eb7,eo,bb7,g7,
   f7,,bb7 (g7,cm7 f7)|||
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=_40V2lcxM7k"
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Blue Moon>
@@ -1638,6 +2352,64 @@ LabelC:
   eb cm7,fm7 bb7,eb cm7,fm7 bb7,
   db7 c7,fm7 bb7,eb (cm7,fm7 bb7)|||
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=a3hNO3fEx9k"
+}
+
+Lyrics
+{
+/*
+Once upon a time
+Before I took up smiling
+I hated the moonlight!
+Shadows of the night
+That poets find beguiling
+Seemed flat as the noonlight
+With no one to stay up for
+I went to sleep at ten
+Life was a bitter cup
+For the saddest of all men
+Once upon a time
+My heart was just an organ
+My life had no mission
+Now that I have you
+To be as rich as Morgan
+Is my one ambition
+Once I awoke at seven
+Hating the morning light
+Now I awake in Heaven
+And all the world's all right
+Blue moon you saw me standing alone
+Without a dream in my heart
+Without a love of my own
+Blue moon
+You knew just what I was there for
+You heard me saying a pray'r for
+Someone I really could care for
+And then there suddenly appeared before me
+The only one my arms will ever hold
+I heard somebody whisper "Please adore me"
+And when I looked, the moon had turned to gold!
+Blue moon! Now I'm no longer alone
+Without a dream in my heart
+Without a love of my own
+Blue moon you saw me standing alone
+Without a dream in my heart
+Without a love of my own
+Blue moon
+You knew just what I was there for
+You heard me saying a prayer for
+Someone I really could care for
+And then there suddenly appeared before me
+The only one my arms will ever hold
+I heard somebody whisper "Please adore me"
+And when I looked, the moon had turned to gold!
+Blue moon! Now I'm no longer alone
+Without a dream in my heart
+*/
+}
 </file>
 <file name=Blue Train>
 Key { F }
@@ -1647,6 +2419,12 @@ Chord
   F7, Bb7, F7,,
   Bb7,, F7, D7,
   Gm7, C7, F7 (D7, Gm7 C7)..
+
+/*
+  cm,fm7 bb7,cm,bbm7 eb7,
+  fm,fm7 bb7,cm,am7 d7,
+  gm,fm7 bb7,cm,(fm7 bb7)..
+*/
 }
 
 Misc
@@ -1654,23 +2432,16 @@ Misc
   Tempo = 150;
   Repeat = 2;
 }
-</file>
-<file name=Blue Trane>
-Key{cm}
 
-Misc
+Link
 {
-  Tempo  = 150;
-  Repeat  = 8;
-  MusicBy  = "";
-  WordsBy  = "";
+	"https://www.youtube.com/watch?v=S1GrP6thz-k"
 }
 
-Chord
+Lyrics
 {
-  cm,fm7 bb7,cm,bbm7 eb7,
-  fm,fm7 bb7,cm,am7 d7,
-  gm,fm7 bb7,cm,(fm7 bb7)..
+/*
+*/
 }
 </file>
 <file name=Blues>
@@ -1689,6 +2460,11 @@ Chord
   f7,bb7,f7,,
   bb7,,am7b5,d7b13,
   gm7,c7,f7 (d7,gm7c7)|||
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=o0fUV1SsDAM"
 }
 </file>
 <file name=Bluesette>
@@ -1712,6 +2488,34 @@ Chord
   dbM7,,dbm7,gb7,
   cbM7,,cm7b5,f7,
   dm7,db7,cm7,f7|||
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=yKnG_9q4crA"
+}
+
+Lyrics
+{
+/*
+Poor little, sad little blue Bluesette
+Don't you cry, don't you fret
+You can bet one lucky day you'll waken
+And your blues will be forsaken
+Some lucky day lovely love will come your way
+If there is love in your heart to share
+Dear Bluesette, don't despair
+Some blue boy is waiting just like you
+To find a someone to be true to
+Two loving arms you can nestle in to stay
+Get set, Bluesette
+True love is coming
+Your lonely heart soon will be humming
+Pretty little Bluesette, musn't be a mourner
+Have you heard the news yet? Love's 'round the corner
+Love wrapped in rainbows and tied with pink ribbons
+To make your your next springtime your gold wedding ring time
+*/
 }
 </file>
 <file name=Body And Soul>
@@ -1790,8 +2594,13 @@ Note
   rq db5 bb4o gb db eb, fh eb,
   ro db eb f ab bb eq, dbh r,
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=_OFMkCeP6ok"
+}
 </file>
-<file name=Brazil>
+<file name=Brazil (Aquarela Do Brasil)>
 Key{f}
 
 Rhythm{bossa}
@@ -1815,6 +2624,17 @@ Theme:
   bbm,f,dm7,gm,
   c7,f,gm7,f,(gm7 c7)..
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=0aeBq5H3O2I"
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=But Beautiful>
 Key{eb}
@@ -1836,6 +2656,31 @@ Chord
 
   fm7 bb7,gm cm7,dm7b5 g7,cm6 db7,
   gm7 cm7,fm7 bb7,ebmaj7(,fm7 bb7)|||
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=O1OdWOLWeCM"
+}
+
+Lyrics
+{
+/*
+Love is funny or it's sad,
+Or it's quiet or it's mad;
+It's a good thing or it's bad,
+But beautiful!
+Beautiful to take a chance
+And if you fall, you fall,
+And I'm thinking I wouldn't mind at all.
+Love is tearful or it's gay.
+It's a problem or it's play,
+It's a heartache either way,
+But beautiful!
+And I'm thinking if you were mine
+I'd never let you go,
+And that would be but beautiful I know.
+*/
 }
 </file>
 <file name=But Not For Me>
@@ -1885,6 +2730,11 @@ Progression
 {
   Theme Structure = A B;
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=R_f_mMJAezM"
+}
 </file>
 <file name=Bye Bye Black Bird>
 Title
@@ -1897,7 +2747,7 @@ Misc
 {
   Tempo  = 120;
   Repeat  = 2;
-  MusicBy  = "";
+  MusicBy  = "Mort Dixon / Ray Henderson";
   WordsBy  = "";
 }
 
@@ -1914,6 +2764,36 @@ Chord
 
   f, gm7, am7b5, d7,
   gm7, c7, f (d7,gm7 c7)..
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=DfANFQOLGKA"
+}
+
+Lyrics
+{
+/*
+No one here can love or understand me
+Oh, what hard luck stories they all hand me
+Pack up all my cares and woe, here I go, winging low
+Bye, bye, blackbird
+Where somebody waits for me
+Sugar's sweet, so is she
+Bye, bye, blackbird
+No one here can love or understand me
+Oh, what hard luck stories they all hand me
+Make my bed and light the light, I'll arrive late tonight
+Blackbird, bye, bye
+Bye, bye, blackbird
+Where somebody waits for me
+Sugar's sweet, so is she
+Bye, bye, blackbird
+No one here can love or understand me
+Oh what hard luck stories they all hand me
+Make my bed and light the light, I'll arrive late tonight
+Blackbird, bye, bye
+*/
 }
 </file>
 <file name=C Jam Blues>
@@ -1937,6 +2817,32 @@ Misc
 {
   Tempo = 170;
   Repeat = 2;
+  MusicBy = "Duke Ellington";
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=s9BCWzQnQ4Q"
+}
+
+Lyrics
+{
+/*
+Baby, take me down to Duke's place
+Wildest box in town is Duke's place
+Love that piano sound in Duke's place
+Saxes do their tricks in Duke's place
+Fellas swing their chicks in Duke's place
+Come on, get your kicks in Duke's place
+You find yourself a seat, and when you want to eat
+You look around and yell waiter
+You fill your cup chock full of dreams and drink it up
+You're jetting along with your girlie
+It's after three o'clock, but, baby, it's still early
+If you've never been to Duke's place
+Take your tootsies into Duke's place
+Life is in a spin in Duke's place
+*/
 }
 </file>
 <file name=California, Here I Come>
@@ -1946,7 +2852,7 @@ Misc
 {
   Tempo  = 170;
   Repeat  = 4;
-  MusicBy  = "";
+  MusicBy  = "Al Jolson / B. G. Desylva / Joseph Meyer";
   WordsBy  = "";
 }
 
@@ -1961,6 +2867,17 @@ Chord
   dm7,g7,c,gm7 c7,
   f em,dm dm7,bm7b5 e7,
   am7 d7,dm7,g7,cmaj7 (a7,dm7 g7)..
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=1De97dQS2S8"
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Can't Take My Eyes Off Of You>
@@ -2005,6 +2922,65 @@ Progression
 {
   Theme Structure = A B C;
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=NGFToiLtXro"
+}
+
+Lyrics
+{
+/*
+You're just too good to be true
+I can't take my eyes off you
+You'd be like heaven to touch
+I wanna hold you so much
+At long last love has arrived
+And I thank God I'm alive
+You're just too good to be true
+Can't take my eyes off you
+Pardon the way that I stare
+There's nothing else to compare
+The sight of you leaves me weak
+There are no words left to speak
+But if you feel like I feel
+Please let me know that is real
+You're just too good to be true
+I can't take my eyes off you
+I love you baby
+And if it's quite all right
+I need you baby
+To warm the lonely nights
+I love you baby
+Trust in me when I say
+Oh pretty baby
+Don't bring me down I pray
+Oh pretty baby
+Now that I've found you stay
+And let me love you, baby
+Let me love you
+You're just too good to be true
+I can't take my eyes off you
+You'd be like heaven to touch
+I wanna hold you so much
+At long last love has arrived
+And I thank God I'm alive
+You're just too good to be true
+Can't take my eyes off You
+I love you baby
+And if it's quite all right
+I need you baby
+To warm the lonely nights
+I love you baby
+Trust in me when I say
+Oh pretty baby
+Don't bring me down I pray
+Oh pretty baby
+Now that I've found you stay
+Oh pretty baby
+Trust in me when I say
+*/
+}
 </file>
 <file name=Candy>
 Key{bb}
@@ -2033,6 +3009,36 @@ LabelC:
   eb,ebm,dm7,g7,
   cm7,f7,bb,(bb7)..
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=MiUzwUGh--U"
+}
+
+Lyrics
+{
+/*
+"Candy"
+I call my sugar "Candy"
+Because I'm sweet on "Candy"
+And "Candy" is sweet on me
+
+He/She understands me,
+My understanding "Candy"
+And "Candy"'s always handy
+When I need sympathy
+I wish that there were four of him/her
+So I could love much more of him/her
+
+He/She has taken my complete heart,
+Got a sweet tooth for my sweetheart
+"Candy"
+Its gonna be just dandy
+The day I take my "Candy"
+And make him mine all mine
+Mine
+*/
+}
 </file>
 <file name=Cantelope Island>
 Key { Fm }
@@ -2051,6 +3057,17 @@ Misc
 {
   Tempo = 150;
   Repeat = 2;
+}
+
+Link
+{
+	"https://www.youtube.com/watch?v=8B1oIXGX0Io"
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Caravan>
@@ -2099,6 +3116,44 @@ Misc
   Tempo = 240;
   Repeat = 2;
 }
+
+Link
+{
+	"https://www.youtube.com/watch?v=ZZY-Ytrw2co"
+}
+
+Lyrics
+{
+/*
+Night and stars above that shine so bright
+The myst'ry of their fading light
+That shines upon our caravan
+Sleep upon my shoulder as we creep
+Across the sand so I may keep
+This mem'ry of our caravan
+This is so exciting, you are so inviting
+Resting in my arms
+As I thrill to the magic charms
+Of you beside me here, beneath the blue
+My dream of love is coming true
+Within our desert caravan
+Night, night, night, night and stars above that shine so bright
+The myst'ry of their fading light
+That shines upon our caravan
+Sleep upon my shoulders as we creep
+Across the sand so I may keep
+This mem'ry of our caravan
+This is so exciting, you are so inviting
+Resting in my arms
+As I thrill to the magic charms
+Of you beside me here, beneath the blue
+My dream of love is coming true
+Within our desert caravan
+You beside me here, beneath the blue
+My dream of love is coming true
+Within our desert caravan
+*/
+}
 </file>
 <file name=Central Park West>
 Key{b}
@@ -2120,6 +3175,17 @@ Theme:
   |:bmaj7 em7 a7,dmaj7 bbm7 eb7,abmaj7 gm7 c7,fmaj7 c#m7 f#7,
   bmaj7 em7 a7,dmaj7 c#m7 f#7,bmaj7,c#m7 f#7,
   bmaj7,c#m7 f#7:|
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Ceora>
@@ -2148,6 +3214,17 @@ LabelB:
   dbM7,dm7 g7,cm7,f7.
   bbm7,eb7,cm7b5,f7,
   bbm7,ebsus7,abM7,(bbm7 eb7)..
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Chega de Saudade (No More Blues)>
@@ -2191,6 +3268,17 @@ Theme:
   d7#11,dm7 g7,em7,a7,
   d7,dm7 g7,cmaj7 g7..
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Chelsea Bridge>
 Key{db}
@@ -2218,6 +3306,17 @@ LabelB:
 LabelC:
   eb7,db7,eb7 db7,bb7,
   ebm7,ab7,db6,(db6 c7 b7 bb7)..
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Cherokee>
@@ -2262,6 +3361,12 @@ LabelC:
 Progression
 {
   Theme Structure = A B C;
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=A Child Is Born>
@@ -2308,6 +3413,17 @@ Progression
 {
   Theme Structure = A B C D;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Christmas Eve>
 Key{f}
@@ -2352,6 +3468,17 @@ Progression
 {
   Theme Structure = A B C;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Christmas Song>
 Title
@@ -2391,6 +3518,17 @@ Progression
 {
   Theme Structure = A B C;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Christmas Time Is Here>
 Key{ab}
@@ -2425,6 +3563,17 @@ Progression
 {
   Theme Structure = A B C;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Cipriana>
 Misc
@@ -2446,6 +3595,17 @@ Chord
 
   bb,bb7,eb,d7,
   gm,d7+9,gm,d7|||
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Come Fly With Me>
@@ -2564,6 +3724,17 @@ Progression
 {
   Theme Structure = A B;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Con Alma>
 Key{c}
@@ -2589,6 +3760,17 @@ Chord
   eM7 g#7 on d#,c#m7 b7,bb7,ebM7 ebm7 ab7,
   dbM7 f7 on c,bbm7 ab7,g7,cM7|||
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Confirmation>
 Key{f}
@@ -2611,6 +3793,17 @@ Chord
 
   f,em7b5 a7,dm7 g7,cm7 f7@
   bb7,am7 d7,gm7 c7,f (c7)..
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Corcovado>
@@ -2649,6 +3842,17 @@ Progression
 {
   Theme Structure = A B;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Country Club>
 Misc
@@ -2676,6 +3880,17 @@ Chord
 
 Ending:
   g e7,am7 d7,g e7,am7,d7,g..
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Cry Me A River>
@@ -2713,6 +3928,17 @@ Progression
 {
   Theme Structure = A B C;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Danny Boy>
 Key{eb}
@@ -2736,6 +3962,17 @@ Chord
 
   eb g7,ab ao,eb bo cm7 /,f7 fm,
   eb cm7,fm bb7,eb cm7,(fm7 bb7)|||
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Darn That Dream>
@@ -2770,6 +4007,17 @@ Progression
 {
   Theme Structure = A B C;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Day By Day>
 Misc
@@ -2792,6 +4040,17 @@ Chord
   am7,d7,bm7b5,e7,
   am7,d7,g,(e7)..
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Daylight Saving Time>
 Key { Am }
@@ -2809,6 +4068,17 @@ Misc
 {
   Tempo = 99;
   Repeat = 3;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Days Of Wine And Roses>
@@ -2849,6 +4119,17 @@ Progression
 {
   Theme Structure = A B;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Days Of Wine And Roses (Bill Evans)>
 Misc
@@ -2877,6 +4158,12 @@ Chord
 Link
 {
   "https://youtu.be/EIzU5lGLtac"
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Dear Old Stockholm>
@@ -2912,6 +4199,17 @@ LabelC:
 Progression
 {
   Theme Structure = A B C;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Dindi>
@@ -2959,6 +4257,17 @@ Chord
   Ebmaj7, Dbmaj7, Ebmaj7, Bb-7 Eb7,
   Abmaj7, Db9 #11, Ebmaj7, Bb-7 |||
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Dolphin Dance>
 Key{Cm}
@@ -2993,6 +4302,12 @@ Theme:
 Link
 {
   "https://youtu.be/iB2Z2DY17yQ"
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Donna Lee>
@@ -3073,6 +4388,12 @@ Link
 {
   "https://youtu.be/19FOml4DxZg"
 }
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Down with Love>
 Key { F }
@@ -3141,6 +4462,17 @@ Misc
   Tempo = 284;
   Repeat = 2;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Doxy>
 Key { Bb }
@@ -3169,6 +4501,17 @@ Misc
 {
   Tempo = 115;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=East Of The Sun (And West Of The Moon)>
@@ -3213,6 +4556,17 @@ Lyrics
   East of the sun and | west of the | moon | dear |
   East of the sun and | west of the | moon |
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Easy Living>
 Key{f}
@@ -3235,6 +4589,17 @@ Chord
 
   fmaj7 f#o7,gm7 g#o7,fmaj7 on a cm7 f7,bbmaj7 eb7,
   fmaj7 dm7,gm7 c7b9, f (ab7,dbmaj7 c7)..
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Edelweiss>
@@ -3294,6 +4659,17 @@ Lyrics
   E- / del- | weiß | E- / del- | weiß |
   Ach, / ich | hab / dich | so | gerne |
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Embraceable You>
 Misc
@@ -3332,6 +4708,17 @@ Progression
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Emily>
@@ -3373,6 +4760,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Epilogue>
 Key { Eb }
@@ -3390,6 +4788,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Bill Evans";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Epistrophy>
@@ -3416,6 +4825,17 @@ Misc
   Repeat = 2;
   MusicBy = "Monk Thelonious/Clarke Kenny";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Equinox>
 Key { Dm }
@@ -3432,6 +4852,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "John Coltrane";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Estate>
@@ -3456,6 +4887,17 @@ Misc
   Repeat = 2;
   MusicBy = "Bruno Martino";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Eternal Triangle>
 Key { Bb }
@@ -3479,6 +4921,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Sonny Stitt";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Every Time We Say Good Bye>
@@ -3508,6 +4961,17 @@ chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Everything Happens To Me>
@@ -3539,6 +5003,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Everything I Have Is Yours>
 Key { C }
@@ -3564,6 +5039,17 @@ Misc
   Repeat = 2;
   MusicBy = "Burton Lane";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Everything I Love>
 Key { F }
@@ -3588,6 +5074,17 @@ Misc
   Tempo = 210;
   Repeat = 2;
   MusicBy = "Cole Porter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Exactly Like You>
@@ -3618,6 +5115,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Eye Of The Hurricane>
 Key { Fm }
@@ -3640,6 +5148,17 @@ Misc
   Repeat = 2;
   MusicBy = "Herbie Hancock";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Fall>
 Key { Em }
@@ -3658,6 +5177,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Falling Grace>
@@ -3684,6 +5214,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Steve Swallow";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Falling In Love With Love>
@@ -3714,6 +5255,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Favela>
 Key { Gm }
@@ -3742,6 +5294,17 @@ Misc
   Repeat = 2;
   MusicBy = "Antonio-Carlos Jobim";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Fee-Fi-Fo-Fum>
 Key { Bb }
@@ -3764,6 +5327,17 @@ Misc
   Repeat = 2;
   MusicBy = "Wayne Shorter";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Feel Like Makin' Love>
 Key { Eb }
@@ -3784,6 +5358,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Eugene McDaniels";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Feels So Good>
@@ -3806,6 +5391,17 @@ Misc
   Repeat = 2;
   MusicBy = "Chuck Mangione";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Fever>
 Key { Am }
@@ -3825,6 +5421,17 @@ Misc
 {
   Tempo = 120;
   Repeat = 8;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=A Fine Romance>
@@ -3851,6 +5458,17 @@ Misc
   Repeat = 2;
   MusicBy = "Jerome Kern";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Five Brothers>
 Key { C }
@@ -3874,6 +5492,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Gerry Mulligan";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Five Pennies>
@@ -3916,6 +5545,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Five Spot After Dark>
 Key { Cm }
@@ -3932,6 +5572,17 @@ Misc
   Tempo = 250;
   Repeat = 2;
   MusicBy = "Benny Golson";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=A Flower Is A Lovesome Thing>
@@ -3954,6 +5605,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Billy Strayhorn";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Fly Me To The Moon>
@@ -4000,6 +5662,17 @@ Chord
   dm7,b7ond#,em7b5,a7+9,
   dm7,g7,cmaj7,(e7)..
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Flying Home>
 Key { Eb }
@@ -4022,6 +5695,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Goodman-Hampton";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=A Foggy Day>
@@ -4061,6 +5745,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Footprints>
 Key { Cm }
@@ -4085,6 +5780,17 @@ Misc
   Repeat = 2;
   MusicBy = "Wayne Shorter";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=For Heaven's Sake>
 Key { F }
@@ -4107,6 +5813,17 @@ Misc
   Repeat = 2;
   MusicBy = "Edwards-Meyer-Bretton";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Forest Flower>
 Key { A }
@@ -4128,6 +5845,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Charles Lloyd";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Four>
@@ -4152,6 +5880,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Four Brothers>
@@ -4186,6 +5925,17 @@ Note
 
   abo f db bb3 ab4 f db bb3, g4q bb3o a _aq ro e4, f db c bb3 eb4 b3 c4 ab3, _abq r rh,
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Four On Six>
 Misc
@@ -4216,6 +5966,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Freddie Freeloader>
 Key { Bb }
@@ -4232,6 +5993,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Miles Davis";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Freedom Jazz Dance>
@@ -4251,6 +6023,17 @@ Misc
   Repeat = 2;
   MusicBy = "Eddie Harris";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Freight Trane>
 Key { Ab }
@@ -4267,6 +6050,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Tommy Flanagan";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Frim Fram Sauce>
@@ -4299,6 +6093,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=From This Moment On>
@@ -4334,6 +6139,17 @@ Misc
   Repeat = 2;
   MusicBy = "Cole Porter";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Full Moon And Empty Arms>
 Key { Bb }
@@ -4357,6 +6173,17 @@ Misc
   Repeat = 2;
   MusicBy = "Buddy Kaye";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Funkallero>
 Key { Cm }
@@ -4374,6 +6201,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Bill Evans";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Funky>
@@ -4395,6 +6233,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Kenny Burrell";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Gaviota (Fischer)>
@@ -4424,6 +6273,17 @@ Misc
   Repeat = 2;
   MusicBy = "Clare Fischer";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Gemini>
 Key { Eb }
@@ -4445,6 +6305,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Jimmy Heath";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Gentle Rain>
@@ -4476,6 +6347,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Georgia On My Mind>
 Key{f}
@@ -4504,6 +6386,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Get Out Of Town>
 Key { Bb }
@@ -4526,6 +6419,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Cole Porter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Ghost Of A Chance>
@@ -4585,6 +6489,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Giant Steps>
 Title
@@ -4623,6 +6538,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Gift! (Recado Bossa Nova)>
 Key { Gm }
@@ -4655,6 +6581,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Djalma Ferreira";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Gin-koi>
@@ -4702,6 +6639,17 @@ Misc
 {
   Tempo = 102;
   Repeat = 1;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Girl From Ipanema (Garota De Ipanema)>
@@ -4761,10 +6709,11 @@ Lyrics
 
   Ah, se ela | soubesse Que quando ela | passa O mundo | inteirinho se enche de |
   graça E fica | mais lindo Por | causa do amor | |
+}
 
-
-
-
+Link
+{
+	""
 }
 </file>
 <file name=Girl Talk>
@@ -4782,6 +6731,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Neal Hefti";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Gloria's Step>
@@ -4803,6 +6763,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Scott LaFaro";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=God Bless The Child>
@@ -4834,6 +6805,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Golden Lady>
 Key { Eb }
@@ -4864,6 +6846,17 @@ Misc
   Repeat = 2;
   MusicBy = "Stevie Wonder";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Gone With The Wind>
 Misc
@@ -4890,6 +6883,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Good Bait>
@@ -4920,6 +6924,17 @@ Note
 Lyrics
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Good Evening Mr and Mrs America>
@@ -4952,6 +6967,17 @@ Misc
   Repeat = 2;
   MusicBy = "John Guerin";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Good Night Sweet Heart>
 Misc
@@ -4979,6 +7005,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Got A Match?>
 Key { Dm }
@@ -4996,6 +7033,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Chick Corea";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Grand Central>
@@ -5022,6 +7070,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "John Coltrane";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Green Dolphin Street>
@@ -5101,6 +7160,17 @@ Lyrics
   When I recall | the love I | found on |
   I could kiss the | ground on | Green Dolphin | Street
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Green Mountains>
 Key { C }
@@ -5119,6 +7189,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Steve Swallow";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Green Sleeves>
@@ -5184,6 +7265,11 @@ Lyrics
   Green- | sleeves was | my heart of | joy |
   And who but my | lady Green- | sleeves | |
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=Gregory Is Here>
 Key { Bb }
@@ -5210,6 +7296,17 @@ Misc
   Repeat = 2;
   MusicBy = "Horace Silver";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Groovin' High>
 Key{eb}
@@ -5234,9 +7331,15 @@ Note
 
 }
 
+Link
+{
+	""
+}
+
 Lyrics
 {
-
+/*
+*/
 }
 </file>
 <file name=Grow Your Own>
@@ -5260,6 +7363,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Keith Jarrett";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Hackensack>
@@ -5285,6 +7399,17 @@ Misc
   Repeat = 2;
   MusicBy = "Thelonious Monk";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Half Nelson>
 Key { C }
@@ -5302,6 +7427,17 @@ Misc
   Tempo = 180;
   Repeat = 2;
   MusicBy = "Miles Davis";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Hallucinations>
@@ -5330,6 +7466,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Bud Powell";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Happy Birthday>
@@ -5365,6 +7512,17 @@ Misc
   Tempo = 99;
   Repeat = 2;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Happy Little Sunbeam>
 Key { F }
@@ -5389,6 +7547,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Russ Freeman";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Happy Talk>
@@ -5432,6 +7601,17 @@ Progression
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Hark, The Herald Angels Sing>
@@ -5482,6 +7662,11 @@ Lyrics
   Hark! the herald | angels sing |
   Glory to the | new-born King! |
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=Harlem Nocturne>
 Key { Am }
@@ -5509,6 +7694,17 @@ Misc
   Tempo = 70;
   Repeat = 2;
   MusicBy = "Earle Hagen";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Have You Met Miss Jones?>
@@ -5564,6 +7760,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Have Yourself A Merry Little Christmas>
@@ -5626,6 +7833,17 @@ Lyrics
   Hang a shining | star upon the highest | place / /
   So | have yourself a | merry little Christmas | night |
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Head And Shoulders>
 Key { Bb }
@@ -5646,6 +7864,17 @@ Misc
   Repeat = 2;
   MusicBy = "Cedar Walton";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Heaven>
 Key { Bb }
@@ -5660,6 +7889,17 @@ Chord
 
   Bbmaj7 | | G7 | |
   C7 | / F7 | Bbmaj7 | ..
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Hello, Young Lovers>
@@ -5695,6 +7935,17 @@ Misc
   Repeat = 2;
   MusicBy = "Richard Rogers";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Here's That Rainy Day>
 Misc
@@ -5722,6 +7973,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Hi Beck>
 Key { C }
@@ -5747,6 +8009,17 @@ Misc
   Repeat = 2;
   MusicBy = "Lee Konitz";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Hi-Fly>
 Key { C }
@@ -5770,6 +8043,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Randy Weston";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=High Hopes>
@@ -5796,6 +8080,17 @@ Misc
   Repeat = 2;
   MusicBy = "James Heusen Van";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Ho-Ba-La-La>
 Key { Am }
@@ -5819,6 +8114,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Joao Gilberto";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Hocus-Pocus>
@@ -5844,6 +8150,17 @@ Misc
   Repeat = 2;
   MusicBy = "Lee Morgan";
 }
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Holly Jolly Christmas>
@@ -5885,6 +8202,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Honey Suckle Rose>
 Misc
@@ -5925,6 +8253,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Horace Scope>
 Key { Db }
@@ -5945,6 +8284,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Horace Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=House Of Jade>
@@ -5967,6 +8317,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=How About You>
@@ -5997,6 +8358,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=How Deep Is The Ocean (How High Is The Sky)>
 Key { Eb }
@@ -6021,6 +8393,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Irving Berlin";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=How Deep Is Your Love>
@@ -6089,6 +8472,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=How High The Moon>
 Misc
@@ -6115,6 +8509,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=How Long Has This Been Going On>
@@ -6155,6 +8560,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=How My Heart Sings>
 Key { C }
@@ -6182,6 +8598,17 @@ Misc
   Repeat = 2;
   MusicBy = "Earl Zindars";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Hullo Bolinas>
 Key { G }
@@ -6203,6 +8630,17 @@ Misc
   Repeat = 2;
   MusicBy = "Steve Swallow";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Hummin'>
 Key { G }
@@ -6219,6 +8657,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Nat Adderley";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Humpty Dumpty>
@@ -6243,6 +8692,17 @@ Misc
 {
   Tempo = 150;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I Believe In You>
@@ -6280,6 +8740,17 @@ Misc
   Repeat = 2;
   MusicBy = "Frank Loesser";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I Can't Get Started>
 Misc
@@ -6310,6 +8781,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I Can't Give You Anything But Love>
 Misc
@@ -6338,6 +8820,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I Concentrate On You>
@@ -6375,6 +8868,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I Could Write A Book>
@@ -6422,6 +8926,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I Didn't Know What Time It Was>
 Misc
@@ -6450,6 +8965,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I Don't Stand A Ghost Of A Chance With You>
@@ -6509,6 +9035,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I Fall In Love Too Easily>
 Key { Eb }
@@ -6527,6 +9064,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I Got It Bad And That Ain't Good>
@@ -6557,6 +9105,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I Got Rhythm>
@@ -6598,6 +9157,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I Hear A Rhapsody>
 Key{cm}
@@ -6624,6 +9194,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I Hear Music>
@@ -6655,6 +9236,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I Just Call To Say I Love You>
@@ -6692,6 +9284,17 @@ Progression
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I Left My Heart In San Francisco>
@@ -6747,6 +9350,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I Love You>
 Misc
@@ -6778,6 +9392,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I Loves You Porgy>
 Key{f}
@@ -6802,6 +9427,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I Mean You>
@@ -6828,6 +9464,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Thelonious Monk";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I Remember Clifford>
@@ -6870,6 +9517,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I Remember You>
 Misc
@@ -6900,6 +9558,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I Should Care>
 Misc
@@ -6928,6 +9597,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I Thought About You>
 Key { F }
@@ -6953,6 +9633,17 @@ Misc
   Repeat = 2;
   MusicBy = "Jimmy Van-Heusen";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I Will Wait For You>
 Key { F }
@@ -6976,6 +9667,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Michel Legrand";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I Wish You Love>
@@ -7004,6 +9706,17 @@ Misc
   Repeat = 2;
   MusicBy = "Charles Trenet";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I'll Be Around>
 Key { C }
@@ -7027,6 +9740,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Alec Wilder";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I'll Be Home For Christmas>
@@ -7060,6 +9784,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I'll Be Home For Christmas (Double Time)>
 Key{f}
@@ -7087,6 +9822,17 @@ Progression
 {
   Theme Structure = A B;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I'll Be Seeing You>
 Key { Eb }
@@ -7109,6 +9855,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Sammy Fain";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I'll Close My Eyes>
@@ -7136,6 +9893,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I'll Remember April>
@@ -7198,6 +9966,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I'll Take Romance>
 Title
@@ -7237,6 +10016,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I'm A Fool To Want You>
 Key { Em }
@@ -7262,6 +10052,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Herron-Sinatra-Wolf";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I'm All Smiles>
@@ -7295,6 +10096,17 @@ Misc
   Repeat = 2;
   MusicBy = "Leonard-Martin";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I'm Beginning To See The Light>
 Misc
@@ -7323,6 +10135,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I'm Confessin' (That I Love You)>
 Key { G }
@@ -7346,6 +10169,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Daugherty-Neiberg-Reynolds";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I'm Getting Sentimental Over You>
@@ -7387,6 +10221,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I'm Glad There Is You>
 Title
@@ -7426,6 +10271,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I'm In The Mood For Love>
 Misc
@@ -7455,6 +10311,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I'm Old Fashioned>
@@ -7495,6 +10362,12 @@ Link
 {
   "https://youtu.be/NHv6VrHXXdQ"
 }
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I'm Your Pal>
 Key { C }
@@ -7512,6 +10385,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Steve Swallow";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I've Found A New Baby (I Found A New Baby)>
@@ -7537,6 +10421,17 @@ Misc
   Repeat = 2;
   MusicBy = "Palmer-Williams";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I've Got The World On A String>
 Key { F }
@@ -7560,6 +10455,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Harold Arlen";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I've Got You Under My Skin>
@@ -7600,6 +10506,12 @@ Link
 {
   "https://youtu.be/C1AHec7sfZ8"
 }
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=I've Grown Accustomed To Her Face>
 Key { Eb }
@@ -7619,6 +10531,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Frederick Loewe";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=I've Never Been In Love Before>
@@ -7643,6 +10566,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Frank Loesser";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Icarus>
@@ -7673,6 +10607,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Ralph Towner";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Idol Gossip>
@@ -7710,6 +10655,17 @@ Misc
   Repeat = 2;
   MusicBy = "Gerry Mulligan";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=If I Loved You>
 Key { Bb }
@@ -7734,6 +10690,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Richard Rodgers";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=If I Should Lose You>
@@ -7762,6 +10729,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=If I Were A Bell>
 Misc
@@ -7789,6 +10767,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=If You Could See Me Now>
 Key { Eb }
@@ -7813,6 +10802,17 @@ Misc
   Repeat = 2;
   MusicBy = "Tadd Dameron";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=If You Never Come to Me>
 Key { Ab }
@@ -7830,6 +10830,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Antonio-Carlos Jobim";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Ill Wind (You're Blowin' Me No Good)>
@@ -7853,6 +10864,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Arlen-Koehler";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Imagination>
@@ -7884,6 +10906,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Imagine>
@@ -7982,6 +11015,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Impressions>
 Misc
@@ -8014,6 +11058,17 @@ Note
 Lyrics
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=In A Mellow Tone>
@@ -8071,6 +11126,11 @@ Lyrics
   way | / And laugh and | play | / There's joy |
   unknown | / In a mellow | tone |  |
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=In A Sentimental Mood>
 Misc
@@ -8101,6 +11161,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=In Case You Haven't Heard>
 Key { C }
@@ -8125,6 +11196,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Woody Shaw";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=In Her Family>
@@ -8151,6 +11233,17 @@ Misc
   Repeat = 2;
   MusicBy = "Pat Metheny";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=In Love In Vain>
 Key { Bb }
@@ -8174,6 +11267,17 @@ Misc
   Repeat = 2;
   MusicBy = "Kern Jerome Robin Leo";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=In Pursuit Of The 27th Man>
 Key { C }
@@ -8196,6 +11300,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Horace Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=In the Mood>
@@ -8222,6 +11337,17 @@ Misc
 {
   Tempo = 150;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=In The Still Of The Night>
@@ -8255,6 +11381,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=In Walked Bud>
 Misc
@@ -8282,6 +11419,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=In Your Own Sweet Way>
@@ -8316,6 +11464,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=In Your Quiet Place>
 Key { Em }
@@ -8335,6 +11494,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Keith Jarrett";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Indian Lady>
@@ -8364,6 +11534,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Don Ellis";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Indian Summer>
@@ -8402,6 +11583,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Indiana (Back Home Again In Indiana)>
@@ -8460,6 +11652,11 @@ Lyrics
   When I dream about the | moonlight on the | Wabash |
   / How I long | for / my | Indiana | home ||
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=Inner Urge>
 Key { G }
@@ -8482,6 +11679,17 @@ Misc
   Repeat = 2;
   MusicBy = "Joe Henderson";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Interplay>
 Key { Fm }
@@ -8498,6 +11706,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Bill Evans";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Intrepid Fox>
@@ -8526,6 +11745,17 @@ Misc
   Repeat = 2;
   MusicBy = "Freddie Hubbard";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Invitation>
 Key { Cm }
@@ -8553,6 +11783,17 @@ Misc
   Tempo = 170;
   Repeat = 2;
   MusicBy = "Bronislau Kaper";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Invitations>
@@ -8588,6 +11829,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Iris>
 Key { Fm }
@@ -8607,6 +11859,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Isfahan>
@@ -8633,6 +11896,17 @@ Misc
   Repeat = 2;
   MusicBy = "Strayhorn-Ellington";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Island Birdie>
 Key { Eb }
@@ -8653,6 +11927,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "McCoy Tyner";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Isn't It Romantic?>
@@ -8687,6 +11972,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Isn't She Lovely>
 Misc
@@ -8711,6 +12007,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Isotope>
 Key { C }
@@ -8731,6 +12038,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Joe Henderson";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Israel>
@@ -8759,6 +12077,17 @@ Note
 Lyrics
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=It Could Happen To You>
@@ -8814,6 +12143,11 @@ Lyrics
   All I did was | wonder how your | arms / would | be |
   And / it | happened / to | me |
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=It Don't Mean A Thing (If It Ain't Got That Swing)>
 Misc
@@ -8864,6 +12198,11 @@ Lyrics
   don't / mean a | thing / if it | ain't / got that | swing |
   / doo wah, doo wah | doo wah, doo wah, doo wah | doo wah, doo wah, doo | wah |
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=It Happened on the Boat>
 Key { Ab }
@@ -8884,6 +12223,17 @@ Misc
 {
   Tempo = 170;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=It Might As Well Be Spring>
@@ -8917,6 +12267,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=It Never Entered My Mind>
 Key { F }
@@ -8942,6 +12303,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Richard Rodgers";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=It's All Right With Me>
@@ -8981,6 +12353,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=It's Only A Paper Moon>
@@ -9024,6 +12407,11 @@ Lyrics
   It's a Barnum and | Bailey / world | Just as phony as | it can be |
   But it wouldn't be | make-believe / / If | you believed in | me |
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=It's You Or No One>
 Key{eb}
@@ -9053,6 +12441,12 @@ Link
 {
   "https://youtu.be/cI5numHuD-M"
 }
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Jackie>
 Key { Bb }
@@ -9069,6 +12463,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Hampton Hawes";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Jeannine>
@@ -9108,6 +12513,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Jelly Roll>
 Key { Eb }
@@ -9125,6 +12541,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Charles Mingus";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Jersey Bounce>
@@ -9150,6 +12577,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Plater-Bradshaw-Johnson";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Jingle Bells>
@@ -9187,6 +12625,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Jitterbug Waltz>
 Key { Eb }
@@ -9213,6 +12662,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Fats Waller";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Jive Samba>
@@ -9241,6 +12701,17 @@ Misc
   Repeat = 2;
   MusicBy = "Nat Adderley";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Jody Grind>
 Key { Bbm }
@@ -9257,6 +12728,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Horace Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Jordu>
@@ -9280,6 +12762,17 @@ Misc
   Repeat = 2;
   MusicBy = "Duke Jordan";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Journey to Recife>
 Key { Eb }
@@ -9299,6 +12792,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Bill Evans";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Joy Spring>
@@ -9349,6 +12853,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Joyce's Samba>
 Key { C }
@@ -9376,6 +12891,17 @@ Misc
   Repeat = 2;
   MusicBy = "Mauricio Einhorn";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Juju>
 Key { B }
@@ -9397,6 +12923,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Jump Monk>
@@ -9433,6 +12970,17 @@ Misc
   Repeat = 2;
   MusicBy = "Charles Mingus";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Jumpin' With Symphony Sid>
 Key { Bb }
@@ -9449,6 +12997,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Lester Young";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Just A Few>
@@ -9473,6 +13032,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Shorty Rogers";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Just A Settin' And A Rockin'>
@@ -9499,6 +13069,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Duke Ellington";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Just Friends>
@@ -9551,6 +13132,11 @@ Lyrics
   We loved, we laughed | we cried | suddenly love | died
   The story | ended | but we're just | friends | |
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=Just In Time>
 Misc
@@ -9594,6 +13180,11 @@ Lyrics
   just in time | / You found me | just in time | / And changed my |
   lonely life that | lovely | day |
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=Just Squeeze Me>
 Title
@@ -9635,8 +13226,6 @@ Note
 
 Lyrics
 {
-
-
   Treat me sweet and | gentle | when you say goodnight | / / Just |
   squeeze / me | but please don't | tease / me | |
 
@@ -9653,6 +13242,11 @@ Lyrics
 
   When I get this | feelin' | I'm in ecstasy | / / So |
   squeeze / me | but please don't | tease / me |
+}
+
+Link
+{
+	""
 }
 </file>
 <file name=Just The Way You Are>
@@ -9791,6 +13385,11 @@ Lyrics
   / I just want | someone | / that I can | talk to |
   / I want you just | the way you are |
 }
+
+Link
+{
+	""
+}
 </file>
 <file name=Just You, Just Me>
 Key { C }
@@ -9831,6 +13430,17 @@ Lyrics
   / / Just | you | / / just | me |
   / I'll tie a | lover's / knot | / 'Round wonderful | you! |
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Kary's Trance>
 Key { Am }
@@ -9851,6 +13461,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Lee Konitz";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Katrina Ballerina>
@@ -9879,6 +13500,17 @@ Misc
   Repeat = 2;
   MusicBy = "Woody Shaw";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Kicker>
 Key { Bb }
@@ -9895,6 +13527,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Joe Henderson";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Kids Are Pretty People>
@@ -9921,6 +13564,17 @@ Misc
   Repeat = 2;
   MusicBy = "Thad Jones";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Killer Joe>
 Key { C }
@@ -9942,6 +13596,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Benny Golson";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=L-O-V-E>
@@ -9996,6 +13661,17 @@ Misc
   Tempo = 170;
   Repeat = 2;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=La Bamba>
 Key { C }
@@ -10028,6 +13704,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Lady Is A Tramp>
 Key { C }
@@ -10053,6 +13740,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Richard Rodgers";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Lakes>
@@ -10083,6 +13781,17 @@ Misc
   Repeat = 2;
   MusicBy = "Pat Metheny";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Lament>
 Key { Fm }
@@ -10108,6 +13817,17 @@ Misc
   Repeat = 2;
   MusicBy = "J.J. Johnson";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Las Vegas Tango>
 Key { C }
@@ -10124,6 +13844,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Gil EVans";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Lately>
@@ -10162,6 +13893,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Laura>
 Key{c}
@@ -10189,6 +13931,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Lazy Afternoon>
 Key { Am }
@@ -10214,6 +13967,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Latouche-Moross";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Lazy Bird>
@@ -10247,6 +14011,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Left Alone>
 Misc
@@ -10276,6 +14051,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Leila>
 Key { C }
@@ -10299,6 +14085,17 @@ Misc
   Repeat = 2;
   MusicBy = "Wes Montgomery";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Lennie's Pennies>
 Key { Cm }
@@ -10321,6 +14118,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Lennie Tristano";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Let It Snow>
@@ -10386,6 +14194,17 @@ Lyrics
   As | long as you love me | so /
   Let it | snow! Let it snow! Let it | snow! |
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Let's Cool One>
 Key { Eb }
@@ -10407,6 +14226,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Thelonious Monk";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Let's Fall In Love>
@@ -10444,6 +14274,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Let's Get Lost>
 Title
@@ -10477,6 +14318,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Like Someone In Love>
@@ -10545,6 +14397,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Like Sonny (Simple Like)>
 Key { Eb }
@@ -10567,6 +14430,17 @@ Misc
   Repeat = 2;
   MusicBy = "John Coltrane";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Limbo>
 Key { C }
@@ -10586,6 +14460,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Limehouse Blues>
@@ -10609,6 +14494,17 @@ Misc
   Tempo = 250;
   Repeat = 2;
   MusicBy = "Braham-Furber";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Line For Lyons>
@@ -10650,6 +14546,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Litha>
 Key { D }
@@ -10683,6 +14590,17 @@ Misc
   Repeat = 2;
   MusicBy = "Chick Corea";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Little Boat>
 Misc
@@ -10709,6 +14627,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Little Chicago Fire>
 Key { Bb }
@@ -10732,6 +14661,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Frank Foster";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Little Girl Blue>
@@ -10758,6 +14698,17 @@ Misc
   Repeat = 2;
   MusicBy = "Richard Rodgers";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Little Rootie Tootie>
 Key { Ab }
@@ -10783,6 +14734,17 @@ Misc
   Repeat = 2;
   MusicBy = "Thelonious Monk";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Little Sunflower>
 Key { Dm }
@@ -10804,6 +14766,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Freddie Hubbard";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Little Waltz>
@@ -10831,6 +14804,17 @@ Misc
   Repeat = 2;
   MusicBy = "Ron Carter";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Little Willie Leaps>
 Key { F }
@@ -10850,6 +14834,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Charlie Parker";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Locomotion>
@@ -10874,6 +14869,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "John Coltrane";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Lone Jack>
@@ -10913,6 +14919,17 @@ Misc
   Repeat = 2;
   MusicBy = "Pat Metheny";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Lonely Dreams>
 Key { Bb }
@@ -10934,6 +14951,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Terry Gibbs";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Long Ago (and Far Away)>
@@ -10960,6 +14988,17 @@ Misc
   Repeat = 2;
   MusicBy = "Jerome Kern";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Lonnie's Lament>
 Key { Cm }
@@ -10977,6 +15016,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "John Coltrane";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Look to the Sky>
@@ -11001,6 +15051,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Antonio-Carlos Jobim";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Love For Sale>
@@ -11036,6 +15097,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Love Is Here To Stay>
 Misc
@@ -11068,6 +15140,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Love Letters>
 Misc
@@ -11095,6 +15178,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Love Vibrations>
 Key { Eb }
@@ -11115,6 +15209,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Horace Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Lover>
@@ -11140,6 +15245,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Richard Rodgers";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Lover Man>
@@ -11180,6 +15296,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Lucky Southern>
 Key { D }
@@ -11206,6 +15333,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Keith Jarrett";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Lullaby Of Birdland>
@@ -11237,6 +15375,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Lullaby Of The Leaves>
 Key { Cm }
@@ -11260,6 +15409,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Bernice Petkere";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Lush Life>
@@ -11293,6 +15453,17 @@ Misc
   Repeat = 2;
   MusicBy = "Billy Strayhorn";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Mack The Knife>
 Title
@@ -11323,6 +15494,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Magician in You>
 Key { Eb }
@@ -11346,6 +15528,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Keith Jarrett";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Mahjong>
@@ -11375,6 +15568,17 @@ Misc
   Repeat = 2;
   MusicBy = "Wayne Shorter";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Maiden Voyage>
 Key { D }
@@ -11397,6 +15601,17 @@ Misc
   Repeat = 2;
   MusicBy = "Herbie Hancock";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Make Someone Happy>
 Key { Eb }
@@ -11418,6 +15633,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Jule Styne";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Makin' Whoopee>
@@ -11450,6 +15676,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Mambo Inn>
@@ -11485,6 +15722,17 @@ Note
 Lyrics
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Man I Love>
@@ -11526,6 +15774,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Man in the Green Shirt>
 Key { Bb }
@@ -11566,6 +15825,17 @@ Misc
   Repeat = 2;
   MusicBy = "Weather Report (Joe Zawinul)";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Manhattan>
 Key { F }
@@ -11590,6 +15860,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Richard Rodgers";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Manteca>
@@ -11621,6 +15902,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Dizzy Gillespie";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Masquerade>
@@ -11670,6 +15962,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Matrix>
 Key{F}
@@ -11692,6 +15995,12 @@ Chord
 Link
 {
   "https://youtu.be/nKuQ6gwbPqk"
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Meaning Of The Blues>
@@ -11717,6 +16026,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Worth-Troup";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Meditation>
@@ -11756,6 +16076,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Mellow Mood>
 Key{cm}
@@ -11784,6 +16115,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Memories of Tomorrow>
 Key { Am }
@@ -11804,6 +16146,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Keith Jarrett";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Memories Of You>
@@ -11834,6 +16187,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Menina Flor>
@@ -11866,6 +16230,17 @@ Misc
   Repeat = 2;
   MusicBy = "Luiz Bonfa";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Mercy, Mercy, Mercy>
 Key { Bb }
@@ -11887,6 +16262,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Weather Report (Joe Zawinul)";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Michelle>
@@ -11916,6 +16302,17 @@ Misc
   Repeat = 2;
   MusicBy = "The Beatles (Lennon-McCartney)";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Midnight Mood>
 Key { Db }
@@ -11937,6 +16334,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Weather Report (Joe Zawinul)";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Midnight Sun>
@@ -11980,8 +16388,18 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
-<file name=Milano>
 <file name=Milano>
 Key { C }
 
@@ -12005,6 +16423,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "John Lewis";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Miles Ahead>
@@ -12030,6 +16459,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Miles Davis";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Milestones>
@@ -12064,6 +16504,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Minor Mishap>
 Key { C }
@@ -12088,6 +16539,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Minor Mood>
 Key { Fm }
@@ -12110,6 +16572,17 @@ Misc
   Repeat = 2;
   MusicBy = "Clifford Brown";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Minority>
 Key { Fm }
@@ -12127,6 +16600,17 @@ Misc
   Tempo = 220;
   Repeat = 2;
   MusicBy = "Gigi Gryce";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Misty>
@@ -12165,6 +16649,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Miyako>
 Key { A }
@@ -12187,6 +16682,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Moanin'>
@@ -12218,6 +16724,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Moment's Notice>
 Key{eb}
@@ -12247,6 +16764,17 @@ Note
 Lyrics
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Mona Lisa>
@@ -12282,6 +16810,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Monk's Mood>
 Key { Db }
@@ -12307,6 +16846,17 @@ Misc
   Repeat = 2;
   MusicBy = "Thelonious Monk";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Monsters>
 Key { Eb }
@@ -12330,6 +16880,17 @@ Misc
 {
   Tempo = 80;
   Repeat = 1;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Monsters, Inc>
@@ -12384,6 +16945,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Mood Indigo>
 Key { Ab }
@@ -12402,6 +16974,17 @@ Misc
   Tempo = 150;
   Repeat = 3;
   MusicBy = "Duke Ellington";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Moon And Sand>
@@ -12428,6 +17011,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wilder-Palitz";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Moon Glow>
@@ -12457,6 +17051,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Moon Rays>
 Key { Eb }
@@ -12484,6 +17089,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Horace Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Moon River>
@@ -12516,6 +17132,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Moonchild>
 Key { Em }
@@ -12531,6 +17158,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Keith Jarrett";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Moonlight In Vermont>
@@ -12563,6 +17201,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Moose The Mooche>
 Key { Bb }
@@ -12587,6 +17236,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Charlie Parker";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=More>
@@ -12620,6 +17280,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The More I See You>
@@ -12658,6 +17329,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=More Than You Know>
@@ -12699,6 +17381,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Morning>
 Key { Am }
@@ -12723,6 +17416,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Clare Fischer";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Mountain Greenery>
@@ -12749,6 +17453,17 @@ Misc
   Repeat = 2;
   MusicBy = "Richard Rodgers";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Move>
 Key { Bb }
@@ -12771,6 +17486,17 @@ Misc
   Repeat = 2;
   MusicBy = "Denzil Best";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Mr. Clean (Irvine)>
 Key { F }
@@ -12785,6 +17511,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Freddie Hubbard";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Mr. Magic>
@@ -12805,6 +17542,17 @@ Misc
   Repeat = 2;
   MusicBy = "Ralph MacDonald";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Mr. P.C.>
 Key { Cm }
@@ -12821,6 +17569,17 @@ Misc
   Tempo = 250;
   Repeat = 2;
   MusicBy = "John Coltrane";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=My Favorite Things>
@@ -12855,6 +17614,17 @@ Misc
   Repeat = 2;
   MusicBy = "Richard Rodgers";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=My Foolish Heart>
 Misc
@@ -12885,6 +17655,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=My Funny Valentine>
@@ -12943,6 +17724,17 @@ Progression
 {
   Theme Structure = A B C D;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=My Heart Sings>
 Key { C }
@@ -12970,6 +17762,17 @@ Misc
   Repeat = 2;
   MusicBy = "Earl Zindars";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=My Heart Stood Still>
 Key { F }
@@ -12994,6 +17797,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Richard Rodgers";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=My Ideal>
@@ -13020,6 +17834,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=My Little Boat>
 Misc
@@ -13045,6 +17870,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=My Little Suede Shoes>
@@ -13081,6 +17917,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=My Man's Gone Now>
 Key { Em }
@@ -13104,6 +17951,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "George Gershwin";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=My Old Flame>
@@ -13134,6 +17992,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=My One And Only Love>
@@ -13173,6 +18042,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=My Romance>
 Title
@@ -13209,6 +18089,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=My Ship>
 Key { F }
@@ -13233,6 +18124,17 @@ Misc
   Repeat = 2;
   MusicBy = "Kurt Weill";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Naima>
 Key { Ab }
@@ -13254,6 +18156,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "John Coltrane";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Nancy>
@@ -13281,6 +18194,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Nardis>
@@ -13314,6 +18238,17 @@ Note
 Lyrics
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Nature Boy>
@@ -13355,6 +18290,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Nautumay>
 Key { Gm }
@@ -13376,6 +18322,17 @@ Misc
 {
   Tempo = 190;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Nearness Of You>
@@ -13413,6 +18370,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Nefertiti>
 Key { Ab }
@@ -13430,6 +18398,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Never Let Me Go>
@@ -13453,6 +18432,17 @@ Misc
   Repeat = 2;
   MusicBy = "Jay Livingston";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Never Will I Marry>
 Key { Bb }
@@ -13472,6 +18462,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Frank Loesser";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Nica's Dream>
@@ -13505,6 +18506,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Night And Day>
@@ -13547,6 +18559,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Night Dreamer>
 Key { G }
@@ -13566,6 +18589,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Night Has A Thousand Eyes>
@@ -13600,6 +18634,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=A Night In Tunisia>
@@ -13665,6 +18710,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Night Song>
 Key { G }
@@ -13684,6 +18740,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Night Train>
@@ -13711,6 +18778,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Night We Called It A Day>
 Key { F }
@@ -13732,6 +18810,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Matt Dennis";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=A Nightingale Sang In Berkeley Square>
@@ -13774,6 +18863,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=No Moe>
 Key { Bb }
@@ -13797,6 +18897,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Sonny Rollins";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=No More Blues>
@@ -13845,6 +18956,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=No Splice>
 Key { Gm }
@@ -13867,6 +18989,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Lee Konitz";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Nobody Else But Me>
@@ -13896,6 +19029,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=North Atlantic Run>
@@ -13936,6 +19080,17 @@ Misc
   Repeat = 2;
   MusicBy = "Gerry Mulligan";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Nostalgia in Times Square>
 Key { F }
@@ -13953,6 +19108,17 @@ Misc
   Repeat = 2;
   MusicBy = "Charles Mingus";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Now's The Time>
 Key { F }
@@ -13969,6 +19135,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Charlie Parker";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Nutville>
@@ -13992,6 +19169,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Horace Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=O Christmas Tree>
@@ -14043,6 +19231,17 @@ Lyrics
   O | tannenbaum / o | Christmas tree /
   How | lovely are thy | branches |
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Off Minor>
 Key { Gm }
@@ -14064,6 +19263,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Thelonious Monk";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Old Devil Moon>
@@ -14103,6 +19313,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Old Folks>
 Misc
@@ -14132,6 +19353,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Oleo>
@@ -14167,6 +19399,17 @@ Note
 Lyrics
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=On A Clear Day (You Can See Forever)>
@@ -14231,6 +19474,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=On A Slow Boat to China>
 Key { C }
@@ -14249,6 +19503,17 @@ Misc
 {
   Tempo = 150;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=On Green Dolphin Street>
@@ -14308,6 +19573,17 @@ Lyrics
   When I recall | the love I | found on |
   I could kiss the | ground on | Green Dolphin | Street
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=On The Street Where You Live>
 Key { Bb }
@@ -14338,6 +19614,17 @@ Misc
   Repeat = 2;
   MusicBy = "Frederick Loewe";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=On The Sunny Side Of The Street>
 Key { C }
@@ -14363,6 +19650,17 @@ Misc
   Repeat = 2;
   MusicBy = "Jimmy McHugh";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Once I Loved>
 Key { Dm }
@@ -14386,6 +19684,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Antonio-Carlos Jobim";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Once In A While>
@@ -14412,6 +19721,17 @@ Misc
   Repeat = 2;
   MusicBy = "Michael Edwards";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=One By One>
 Key { Gm }
@@ -14434,6 +19754,17 @@ Misc
   Repeat = 2;
   MusicBy = "Wayne Shorter";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=One Finger Snap>
 Key { Eb }
@@ -14452,6 +19783,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Herbie Hancock";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=One Foot In The Gutter>
@@ -14476,6 +19818,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Clark Terry";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=One For Helen>
@@ -14514,6 +19867,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=One Note Samba (Samba De Uma Nota So)>
 Key { Bb }
@@ -14542,6 +19906,17 @@ Misc
   Repeat = 2;
   MusicBy = "Antonio-Carlos Jobim";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=One Small Leap>
 Chord
@@ -14557,6 +19932,17 @@ Misc
 {
   Tempo = 220;
   Repeat = 4;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Only You>
@@ -14590,6 +19976,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Opus De Funk>
 Key { Bb }
@@ -14606,6 +20003,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Horace Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Orbits>
@@ -14627,6 +20035,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Ornithology>
@@ -14660,6 +20079,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Oswego Blues>
 Key { F }
@@ -14675,6 +20105,17 @@ Misc
 {
   Tempo = 130;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Oswego Blues (transcription)>
@@ -14749,6 +20190,17 @@ Misc
   Tempo = 130;
   Repeat = 0;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Our Delight>
 Misc
@@ -14775,6 +20227,17 @@ Chord
   bb7,eb7,ab,fm7,
   bb7,eb7,ab,|||
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Out Back Of The Barn>
 Key { C }
@@ -14794,6 +20257,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Gerry Mulligan";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Out Of Nowhere>
@@ -14822,6 +20296,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Out Of This World>
 Key { Eb }
@@ -14847,6 +20332,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Harold Arlen";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Over The Rainbow>
@@ -14875,6 +20371,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Overjoyed>
@@ -14917,6 +20424,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Oye Como Va>
 Key { G }
@@ -14936,6 +20454,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Tito Puente";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Pannonica>
@@ -14958,6 +20487,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Thelonious Monk";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Party's Over>
@@ -14983,6 +20523,17 @@ Misc
   Repeat = 2;
   MusicBy = "Styne-Comden-Green";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Passion Dance>
 Key { F }
@@ -15004,6 +20555,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "McCoy Tyner";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Passport>
@@ -15029,6 +20591,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Charlie Parker";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Pathetique (2nd Movement)>
@@ -15058,6 +20631,17 @@ Misc
   Tempo = 90;
   Repeat = 0;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Peace>
 Key { Bb }
@@ -15074,6 +20658,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Horace Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Peggy's Blue Skylight>
@@ -15100,6 +20695,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Charles Mingus";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Pennies From Heaven>
@@ -15129,6 +20735,17 @@ Misc
   Repeat = 2;
   MusicBy = "Arthur Johnston";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Pent up House>
 Key { G }
@@ -15146,6 +20763,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Sonny Rollins";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=People>
@@ -15176,6 +20804,17 @@ Misc
   Repeat = 2;
   MusicBy = "Jule Styne";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=People Will Say We're In Love>
 Key { C }
@@ -15201,6 +20840,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Richard Rodgers";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Perdido>
@@ -15233,6 +20883,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Perhaps>
 Key { C }
@@ -15252,6 +20913,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Charlie Parker";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Peri's Scope>
@@ -15291,6 +20963,17 @@ Misc
   Tempo = 190;
   Repeat = 2;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Pfrancing (No Blues)>
 Key { F }
@@ -15307,6 +20990,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Miles Davis";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Phase Dance>
@@ -15329,6 +21023,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Pat Metheny";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Pick Yourself Up>
@@ -15355,6 +21060,17 @@ Misc
   Repeat = 2;
   MusicBy = "Jerome Kern";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Pinocchio>
 Key { Ebm }
@@ -15373,6 +21089,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Plum>
@@ -15410,6 +21137,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Poinciana (Song Of The Tree)>
 Key { D }
@@ -15436,6 +21174,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Nat Simon";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Polka Dots And Moonbeams>
@@ -15467,6 +21216,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Poor Butterfly>
 Key { Ab }
@@ -15491,6 +21251,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Raymon Hubbell";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Portrait of Jennie>
@@ -15517,6 +21288,17 @@ Misc
   Repeat = 2;
   MusicBy = "Burdge-Robinson";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Portsmouth Figurations>
 Key { Em }
@@ -15537,6 +21319,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Steve Swallow";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Prelude to a Kiss>
@@ -15568,6 +21361,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=A Pretty Girl Is Like A Melody>
 Key { G }
@@ -15591,6 +21395,17 @@ Misc
   Repeat = 2;
   MusicBy = "Irving Berlin";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Prince of Darkness>
 Key { Cm }
@@ -15609,6 +21424,17 @@ Misc
   Tempo = 130;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Pure Imagination>
@@ -15672,6 +21498,17 @@ Progression
 {
   Theme Structure = A B C D;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Pursuance>
 Key { Bbm }
@@ -15692,6 +21529,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "John Coltrane";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Pussy Cat Dues>
@@ -15714,6 +21562,17 @@ Misc
   Repeat = 2;
   MusicBy = "Charles Mingus";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Quatro>
 Key { C }
@@ -15732,6 +21591,17 @@ Misc
 {
   Tempo = 200;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Quicksilver>
@@ -15763,6 +21633,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Horace Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Quiet Nights of Quiet Stars (Corcovado)>
@@ -15801,6 +21682,17 @@ Progression
 {
   Theme Structure = A B;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Quiet Now>
 Key { Am }
@@ -15827,6 +21719,17 @@ Misc
   Repeat = 2;
   MusicBy = "Denny Zeitlin";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Re Person I Knew>
 Key { C }
@@ -15844,6 +21747,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Bill Evans";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Recado Bossa Nova>
@@ -15888,6 +21802,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Recipe for Love>
 Key { Eb }
@@ -15916,6 +21841,17 @@ Misc
 {
   Tempo = 150;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Recorda-Me>
@@ -15954,6 +21890,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Red Clay>
 Key { Cm }
@@ -15972,6 +21919,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Freddie Hubbard";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Red Cross>
@@ -15995,6 +21953,17 @@ Misc
   Repeat = 2;
   MusicBy = "Charlie Parker";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Reincarnation of a Lovebird>
 Key { F#m }
@@ -16017,6 +21986,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Charles Mingus";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Rhythm Changes>
@@ -16051,6 +22031,17 @@ Misc
   Tempo = 270;
   Repeat = 3;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Rhythm-a-ning>
 Key { Bb }
@@ -16074,6 +22065,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Thelonious Monk";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Road Song>
@@ -16108,6 +22110,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Robbin's Nest>
 Key { C }
@@ -16131,6 +22144,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Thompson-Jacquet";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Room 608>
@@ -16162,6 +22186,17 @@ Misc
   Repeat = 2;
   MusicBy = "Horace Silver";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Rosewood>
 Key { C }
@@ -16185,6 +22220,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Woody Shaw";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name='Round Midnight>
@@ -16220,6 +22266,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Route 66>
@@ -16281,6 +22338,17 @@ Lyrics
   make / / that | California | trip | / / Get your |
   kicks / / on | route / sixty- | six |
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Rubberneck>
 Key { Dm }
@@ -16304,6 +22372,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Frank Rosolino";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=S Wonderful>
@@ -16340,6 +22419,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Saga of Harrison Crabfeathers>
 Key { Em }
@@ -16373,6 +22463,17 @@ Misc
   Repeat = 2;
   MusicBy = "Steve Kuhn";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Saint James Infirmary>
 Key { Dm }
@@ -16388,6 +22489,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Joe Primrose";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Salt Peanuts>
@@ -16413,6 +22525,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Dizzy Gillespie";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Samba De Orfeu>
@@ -16448,6 +22571,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Sandu>
 Key { Eb }
@@ -16464,6 +22598,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Clifford Brown";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Santa Claus Is Coming To Town>
@@ -16504,6 +22649,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Satin Doll>
 Title
@@ -16538,6 +22694,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Saving All My Love For You>
@@ -16589,6 +22756,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Scotch and Soda>
 Key { Eb }
@@ -16613,6 +22791,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Dave Guard";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Scrapple From The Apple>
@@ -16657,6 +22846,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Sea Journey>
 Key { Am }
@@ -16684,6 +22884,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Chick Corea";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Secret Love>
@@ -16715,6 +22926,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Self-Portrait In Three Colors>
 Key { Ab }
@@ -16738,6 +22960,17 @@ Misc
   Repeat = 2;
   MusicBy = "Charles Mingus";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=September In The Rain>
 Key{eb}
@@ -16760,6 +22993,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=September Song>
 Key { Bb }
@@ -16781,6 +23025,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Kurt Weill";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Serenade To A Soul Sister>
@@ -16811,6 +23066,17 @@ Misc
   Repeat = 2;
   MusicBy = "Horace Silver";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Serene>
 Key { Eb }
@@ -16829,6 +23095,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Eric Dolphy";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Seven Come Eleven>
@@ -16849,6 +23126,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Goodman-Christian";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Seven Steps to Heaven>
@@ -16876,6 +23164,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Victor Feldman";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Shadow Of Your Smile>
@@ -16911,6 +23210,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Sidewinder>
 Key { Eb }
@@ -16932,6 +23242,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Lee Morgan";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Silent Night>
@@ -16975,6 +23296,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Simone>
 Key { Dm }
@@ -16997,6 +23329,17 @@ Misc
   Repeat = 2;
   MusicBy = "Frank Foster";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Sing Me Softly Of The Blues>
 Key { Bb }
@@ -17016,6 +23359,17 @@ Misc
   Repeat = 2;
   MusicBy = "Carla Bley";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Sippin' At Bells>
 Key { F }
@@ -17034,6 +23388,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Miles Davis";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Sister Sadie>
@@ -17056,6 +23421,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Horace Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Skating in Central Park>
@@ -17095,6 +23471,17 @@ Misc
   Repeat = 2;
   MusicBy = "John Lewis";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Skylark>
 Key{eb}
@@ -17125,6 +23512,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=A Sleepin' Bee>
 Key { Ab }
@@ -17150,6 +23548,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Harold Arlen";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Slipped Disc>
@@ -17180,6 +23589,17 @@ Misc
   Repeat = 2;
   MusicBy = "Benny Goodman";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Smoke Gets In Your Eyes>
 Key{eb}
@@ -17208,6 +23628,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=A Snail>
 Key { Cm }
@@ -17230,6 +23661,17 @@ Misc
 {
   Tempo = 160;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=So Danco Samba>
@@ -17292,6 +23734,17 @@ Lyrics
   Só danço samba | Só danço samba |
   vai | |
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=So In Love>
 Key{fm}
@@ -17322,6 +23775,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=So Many Stars>
@@ -17357,6 +23821,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=So Nice (Summer Samba)>
 Key { F }
@@ -17384,6 +23859,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Antonio-Carlos Jobim";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=So What>
@@ -17423,6 +23909,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Softly, As In A Morning Sunrise>
 Misc
@@ -17453,6 +23950,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Solar>
 Misc
@@ -17480,6 +23988,17 @@ Note
 Lyrics
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Solitude>
@@ -17510,6 +24029,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Some Day My Prince Will Come>
@@ -17545,6 +24075,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Some Other Blues>
 Key { F }
@@ -17561,6 +24102,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "John Coltrane";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Some Other Time>
@@ -17587,6 +24139,17 @@ Misc
   Repeat = 2;
   MusicBy = "Leonard Bernstein";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Somebody Loves Me>
 Key { C }
@@ -17611,6 +24174,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Somebody Loves You>
 Key { C }
@@ -17634,6 +24208,17 @@ Misc
 {
   Tempo = 150;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Someday My Prince Will Come>
@@ -17667,6 +24252,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Someone To Watch Over Me>
 Misc
@@ -17697,6 +24293,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Sometime Ago>
 Key { C }
@@ -17722,6 +24329,17 @@ Misc
   Repeat = 2;
   MusicBy = "Sergio Mikanovich";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Song For Bilbao>
 Key { C }
@@ -17744,6 +24362,17 @@ Misc
   Repeat = 2;
   MusicBy = "Pat Metheny";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Song for My Father>
 Key { Fm }
@@ -17762,6 +24391,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Horace Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Song Is You>
@@ -17815,6 +24455,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Sophisticated Lady>
 Key{ab}
@@ -17843,6 +24494,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Sorcerer>
 Key { Db }
@@ -17863,6 +24525,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Herbie Hancock";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Soul Eyes>
@@ -17889,6 +24562,17 @@ Misc
   Repeat = 2;
   MusicBy = "Mal Waldron";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Soultrane>
 Key { Eb }
@@ -17912,6 +24596,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Tadd Dameron";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Speak Like A Child>
@@ -17939,6 +24634,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Herbie Hancock";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Speak Low>
@@ -17971,6 +24677,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Speak No Evil>
 Key { Cm }
@@ -17997,6 +24714,17 @@ Misc
   Repeat = 2;
   MusicBy = "Wayne Shorter";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Spiral>
 Key { D }
@@ -18022,6 +24750,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "John Coltrane";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Spring Can Really Hang You Up The Most>
@@ -18052,6 +24791,17 @@ Misc
   Repeat = 2;
   MusicBy = "Tommy Wolf";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Spring Is Here>
 Key { Ab }
@@ -18077,6 +24827,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Richard Rodgers";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=St. Louis Blues>
@@ -18107,6 +24868,17 @@ Misc
   Repeat = 2;
   MusicBy = "Handy C. W.";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=St. Thomas>
 Key { C }
@@ -18124,6 +24896,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Sonny Rollins";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Stablemates>
@@ -18149,6 +24932,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Benny Golson";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Star Eyes>
@@ -18193,6 +24987,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Star-Crossed Lovers>
 Key { Db }
@@ -18214,6 +25019,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Strayhorn-Ellington";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Stardust>
@@ -18256,6 +25072,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Stars Fell On Alabama>
 Key { C }
@@ -18280,6 +25107,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Frank Perkins";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Stella By Starlight>
@@ -18309,6 +25147,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Steps>
 Key { Cm }
@@ -18325,6 +25174,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Chick Corea";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Stolen Moments>
@@ -18348,6 +25208,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Oliver Nelson";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Stompin' at the Savoy>
@@ -18373,6 +25244,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Webb-Goodman-Sampson";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Stormy Weather (Keeps Rainin' All The Time)>
@@ -18400,6 +25282,17 @@ Misc
   Repeat = 2;
   MusicBy = "Harold Arlen";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Straight Life>
 Key { F }
@@ -18421,6 +25314,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Freddie Hubbard";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Straight No Chaser>
@@ -18447,6 +25351,17 @@ Misc
 {
   Tempo = 150;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Strangers In The Night>
@@ -18477,6 +25392,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Strayhorn 2>
 Key { D }
@@ -18496,6 +25422,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Gerry Mulligan";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Street Of Dreams>
@@ -18520,6 +25457,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Victor Young";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Strode Rode>
@@ -18546,6 +25494,17 @@ Misc
   Repeat = 2;
   MusicBy = "Sonny Rollins";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Strollin'>
 Key { Db }
@@ -18569,6 +25528,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Horace Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Struttin' With Some Barbecue>
@@ -18599,6 +25569,17 @@ Misc
   Repeat = 2;
   MusicBy = "Armstrong H. Lilian";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Stuff>
 Key { C }
@@ -18622,6 +25603,17 @@ Misc
   Repeat = 2;
   MusicBy = "Miles Davis";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Subconscious Lee>
 Key { Fm }
@@ -18643,6 +25635,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Lee Konitz";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Sugar>
@@ -18667,6 +25670,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Sukiyaki>
@@ -18748,6 +25762,17 @@ Lyrics
   / 泣き ~ なが | ら | 歩 | く |
   一 / / 人 | ぽっ / ち ~ の | 夜 | |
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Summer In Central Park>
 Key { F }
@@ -18776,6 +25801,17 @@ Misc
   Repeat = 2;
   MusicBy = "Horace Silver";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Summertime>
 Key{am}
@@ -18800,6 +25836,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Sunflower>
@@ -18832,6 +25879,17 @@ Misc
   Repeat = 2;
   MusicBy = "Freddie Hubbard";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Swedish Pastry>
 Key { Bb }
@@ -18848,6 +25906,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Barney Kessel";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Sweet Georgia Bright>
@@ -18866,6 +25935,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Charles Lloyd";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Sweet Georgia Brown>
@@ -18893,6 +25973,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Sweet Henry>
 Key { D }
@@ -18917,6 +26008,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Steve Swallow";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Sweet Lorraine>
@@ -18943,6 +26045,17 @@ Misc
   Repeat = 2;
   MusicBy = "Cliff Burwell";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Sweetest Sounds>
 Key { Cm }
@@ -18968,6 +26081,17 @@ Misc
   Repeat = 2;
   MusicBy = "Richard Rodgers";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Swingin' Shepherd Blues>
 Key { Bb }
@@ -18984,6 +26108,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Koffman-Roberts-Jacobson";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Syeeda's Song Flute>
@@ -19022,6 +26157,17 @@ Misc
   Repeat = 2;
   MusicBy = "John Coltrane";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Tadd's Delight>
 Key{f}
@@ -19054,6 +26200,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Take Five>
 Key { Ebm }
@@ -19082,6 +26239,17 @@ Misc
 Link
 {
   "https://youtu.be/vmDDOFXSgAs"
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Take The 'A' Train>
@@ -19117,6 +26285,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Taking A Chance On Love>
@@ -19155,6 +26334,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Tame Thy Pen>
 Key { Em }
@@ -19173,6 +26363,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Richard Niles";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Tangerine>
@@ -19203,6 +26404,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Tea For Two>
 Misc
@@ -19231,6 +26443,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Teach Me Tonight>
@@ -19272,6 +26495,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Teenie's Blues>
 Key { F }
@@ -19288,6 +26522,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Oliver Nelson";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Tell Me a Bedtime Story>
@@ -19319,6 +26564,17 @@ Misc
   Repeat = 2;
   MusicBy = "Herbie Hancock";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Tenderly>
 Key{eb}
@@ -19348,6 +26604,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Tenor Madness>
 Key { Bb }
@@ -19364,6 +26631,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Sonny Rollins";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=That Old Feeling>
@@ -19394,6 +26672,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=That's All>
@@ -19432,6 +26721,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Theme From Mr. Broadway>
 Key { Eb }
@@ -19454,6 +26754,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Dave Brubeck";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=There Goes My Heart>
@@ -19488,6 +26799,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Davis-Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=There Is No Greater Love>
@@ -19527,6 +26849,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=There Will Never Be Another You>
 Misc
@@ -19555,6 +26888,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=These Foolish Things (Remind Me Of You)>
@@ -19590,6 +26934,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=They Can't Take That Away From Me>
@@ -19628,6 +26983,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=They Say It's Wonderful>
 Key { F }
@@ -19653,6 +27019,17 @@ Misc
   Repeat = 2;
   MusicBy = "Irving Berlin";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Things Ain't What They Used To Be>
 Key { Db }
@@ -19669,6 +27046,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Duke Ellington";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Things To Come>
@@ -19695,6 +27083,17 @@ Misc
   Repeat = 2;
   MusicBy = "Dizzy Gillespie";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Think on Me>
 Key { D }
@@ -19717,6 +27116,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "George Cables";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=This Can't Be Love>
@@ -19743,6 +27153,17 @@ Misc
   Repeat = 2;
   MusicBy = "Richard Rodgers";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=This I Dig Of You>
 Key { Bb }
@@ -19767,6 +27188,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Hank Mobley";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=This Masquerade>
@@ -19818,6 +27250,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Three Base Hit>
 Key { Am }
@@ -19848,6 +27291,17 @@ Misc
   Repeat = 2;
   MusicBy = "Pat Martino";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Three Flowers>
 Key { Eb }
@@ -19872,6 +27326,17 @@ Misc
   Repeat = 2;
   MusicBy = "McCoy Tyner";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Thrill Is Gone>
 Key { Cm }
@@ -19893,6 +27358,17 @@ Misc
   Repeat = 2;
   MusicBy = "Ray Henderson";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Thumper>
 Key { Bb }
@@ -19909,6 +27385,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Jimmy Heath";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Till There Was You>
@@ -19933,6 +27420,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Meredith Wilson";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Time After Time>
@@ -19972,6 +27470,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Time Remembered>
 Key { Bm }
@@ -19992,6 +27501,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Bill Evans";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Time Was (Dreaming)>
@@ -20025,6 +27545,17 @@ Misc
   Repeat = 2;
   MusicBy = "Keith-Prado";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Tippin'>
 Key { Bb }
@@ -20048,6 +27579,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Horace Silver";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Tones for Joan's Bones>
@@ -20076,6 +27618,17 @@ Misc
   Repeat = 2;
   MusicBy = "Chick Corea";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Too Close For Comfort>
 Key { C }
@@ -20102,6 +27655,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Bock-Weiss-Holofcener";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Too Young>
@@ -20132,6 +27696,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The Touch Of Your Lips>
 Key { C }
@@ -20156,6 +27731,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Ray Noble";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Triste>
@@ -20183,6 +27769,17 @@ Misc
   Repeat = 2;
   MusicBy = "Antonio-Carlos Jobim";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Tune up>
 Key { Bb }
@@ -20202,6 +27799,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Miles Davis";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Turn Out the Stars>
@@ -20229,6 +27837,17 @@ Misc
   Repeat = 2;
   MusicBy = "Bill Evans";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Turnaround>
 Key { C }
@@ -20245,6 +27864,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Ornette Coleman";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Twinkle Twinkle Little Star>
@@ -20284,6 +27914,17 @@ Misc
   Tempo = 90;
   Repeat = 1;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Twisted>
 Key { Bbm }
@@ -20309,6 +27950,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Gray Wardell";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Un Poco Loco>
@@ -20338,6 +27990,17 @@ Misc
   Repeat = 2;
   MusicBy = "Bud Powell";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Unforgettable>
 Key { G }
@@ -20362,6 +28025,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Gordon Irving";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Unquity Road>
@@ -20395,6 +28069,17 @@ Misc
   Repeat = 2;
   MusicBy = "Pat Metheny";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Up Jumped Spring>
 Key { Bb }
@@ -20426,6 +28111,17 @@ Misc
   Repeat = 2;
   MusicBy = "Freddie Hubbard";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Upper Manhattan Medical Group (UMMG)>
 Key { Db }
@@ -20449,6 +28145,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Billy Strayhorn";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Very Early>
@@ -20476,6 +28183,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Bill Evans";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Very Thought Of You>
@@ -20509,6 +28227,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Violets For Your Furs>
 Key { F }
@@ -20534,6 +28263,17 @@ Misc
   Repeat = 2;
   MusicBy = "Adair-Dennis";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Virgo>
 Key { F }
@@ -20556,6 +28296,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Wail>
@@ -20580,6 +28331,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Bud Powell";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Wait Till You See Her>
@@ -20610,6 +28372,17 @@ Misc
   Repeat = 2;
   MusicBy = "Richard Rodgers";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Walkin' Shoes>
 Key { Eb }
@@ -20634,6 +28407,17 @@ Misc
   Repeat = 2;
   MusicBy = "Gerry Mulligan";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=A Walkin' Thing>
 Key { Dm }
@@ -20657,6 +28441,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Benny Carter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Waltz For Debby>
@@ -20700,6 +28495,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Watch What Happens>
 Key{eb}
@@ -20728,6 +28534,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Watermelon Man>
 Key { F }
@@ -20745,6 +28562,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Herbie Hancock";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Wave>
@@ -20776,6 +28604,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=The Way You Look Tonight>
@@ -20869,6 +28708,17 @@ Lyrics
   Won't you please | arrange it? 'Cause I | love | you |
   And just the way you | look / tonight |
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=We'll Be Together Again>
 Misc
@@ -20907,6 +28757,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Webb City>
 Key { Bb }
@@ -20930,6 +28791,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Bud Powell";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Well You Needn't (It's Over Now)>
@@ -20958,6 +28830,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Wendy>
 Key { Eb }
@@ -20980,6 +28863,17 @@ Misc
   Repeat = 2;
   MusicBy = "Paul Desmond";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=West Coast Blues>
 Key { Bb }
@@ -20998,6 +28892,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wes Montgomery";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=What A Difference A Day Made>
@@ -21022,6 +28927,17 @@ Misc
   Repeat = 2;
   MusicBy = "Maria Grever";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=What Am I Here For?>
 Key { F }
@@ -21045,6 +28961,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Duke Ellington";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=What Are You Doing The Rest Of Your Life?>
@@ -21071,6 +28998,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Michel Legrand";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=What Was>
@@ -21103,6 +29041,17 @@ Misc
   Repeat = 2;
   MusicBy = "Chick Corea";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=What'll I Do?>
 Key{f}
@@ -21131,6 +29080,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=What's New?>
 Key{c}
@@ -21158,6 +29118,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=When I Fall in Love>
 Key { Eb }
@@ -21182,6 +29153,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Victor Young";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=When Lights Are Low>
@@ -21208,6 +29190,17 @@ Misc
   Repeat = 2;
   MusicBy = "Benny Carter";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=When Sunny Gets Blue>
 Key { F }
@@ -21233,6 +29226,17 @@ Misc
   Repeat = 2;
   MusicBy = "Marvin Fisher";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=When The Sun Comes Out>
 Key { F }
@@ -21257,6 +29261,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Harold Arlen";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=When You Wish Upon A Star>
@@ -21290,6 +29305,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=When You're Smiling>
 Key{bb}
@@ -21317,6 +29343,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Where Are You?>
 Key { G }
@@ -21341,6 +29378,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Jimmy McHugh";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Where Or When>
@@ -21369,6 +29417,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Richard Rodgers";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=While We're Young>
@@ -21405,6 +29464,17 @@ Misc
   Repeat = 2;
   MusicBy = "Wilder-Palitz";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Whisper Not>
 Key{f}
@@ -21431,6 +29501,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=White Christmas>
@@ -21480,6 +29561,17 @@ Lyrics
   // May your | days / be | merry // and | bright |
   // And may | all / your | Christmases be | white |
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=The White Knight Syndrome>
 Misc
@@ -21501,6 +29593,17 @@ Chord
 
   Fm7, Bb7, Eb, Eo,
   Dm7, Db7, Cm7, F7..
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Who Can I Turn To>
@@ -21541,6 +29644,17 @@ Note
 
   g4q go f g aq., rw,
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Why Did I Choose You?>
 Key { Bb }
@@ -21564,6 +29678,17 @@ Misc
   Tempo = 100;
   Repeat = 2;
   MusicBy = "Bill Evans";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Wild Flower>
@@ -21589,6 +29714,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Will You Still Be Mine>
@@ -21617,6 +29753,17 @@ Misc
   Repeat = 2;
   MusicBy = "Matt Dennis";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Willow Weep For Me>
 Key{c}
@@ -21643,6 +29790,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Windows>
@@ -21709,6 +29867,17 @@ Link
 {
   "https://youtu.be/Hp5B64jXbu0"
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Winter Wonderland>
 Key{f}
@@ -21749,6 +29918,17 @@ Note
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Witch Hunt>
 Key { Cm }
@@ -21768,6 +29948,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Wayne Shorter";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Witchcraft>
@@ -21847,6 +30038,17 @@ Lyrics
   / But one I | wouldn't switch |
   / 'Cause there's no | nicer witch than | you |
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=With A Song In My Heart>
 Key{eb}
@@ -21870,6 +30072,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=With Every Breath I Take>
@@ -21897,6 +30110,17 @@ Misc
   Repeat = 2;
   MusicBy = "Cy Coleman";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Woody'n You>
 Key { Db }
@@ -21919,6 +30143,17 @@ Misc
   Repeat = 2;
   MusicBy = "Dizzy Gillespie";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Work Song>
 Key { Fm }
@@ -21936,6 +30171,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Nat Adderley";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Wow>
@@ -21962,6 +30208,17 @@ Misc
   Repeat = 2;
   MusicBy = "Lennie Tristano";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Wrap Your Troubles In Dreams (And Dream Your Troubles Away)>
 Key { C }
@@ -21986,6 +30243,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Harry Barris";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Yardbird Suite>
@@ -22028,6 +30296,17 @@ Lyrics
 {
 
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Yes and No>
 Key { D }
@@ -22051,6 +30330,17 @@ Misc
   Repeat = 2;
   MusicBy = "Wayne Shorter";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Yesterday>
 Key { F }
@@ -22073,6 +30363,17 @@ Misc
   Repeat = 2;
   MusicBy = "The Beatles (Lennon-McCartney)";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=Yesterdays>
 Key { Fm }
@@ -22091,6 +30392,17 @@ Misc
 {
   Tempo = 150;
   Repeat = 2;
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=You And The Night And The Music>
@@ -22118,6 +30430,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=You Are the Sunshine of My Life>
@@ -22151,6 +30474,17 @@ Misc
   Repeat = 2;
   MusicBy = "Stevie Wonder";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=You Are Too Beautiful>
 Key{eb}
@@ -22181,6 +30515,17 @@ Chord
 Note
 {
 
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=You Don't Know What Love Is>
@@ -22250,6 +30595,17 @@ Misc
   Tempo = 99;
   Repeat = 1;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=You Make Me Feel So Young>
 Key { Bb }
@@ -22274,6 +30630,17 @@ Misc
   Repeat = 2;
   MusicBy = "Josef Myrow";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=You Must Believe In Spring>
 Key { Bm }
@@ -22295,6 +30662,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Michel Legrand";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=You Stepped Out Of A Dream>
@@ -22321,6 +30699,17 @@ Misc
   Repeat = 2;
   MusicBy = "Nacio-Herb-Brown";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=You Took Advantage of Me>
 Key { Eb }
@@ -22346,6 +30735,18 @@ Misc
   Repeat = 2;
   MusicBy = "Richard Rodgers";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
+</file>
 <file name=You'd Be So Nice To Come Home To>
 Key{gm}
 
@@ -22387,6 +30788,17 @@ Chord
   cm7 f7,bb,am7b5 d7,gm,
   cm7,f7,bb,(am7b5 d7)..
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=You're Everything>
 Key { A }
@@ -22419,6 +30831,17 @@ Misc
   Repeat = 2;
   MusicBy = "Chick Corea";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=You've Changed>
 Key { Eb }
@@ -22443,6 +30866,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Carl Fisher";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=Younger Than Springtime>
@@ -22469,6 +30903,17 @@ Misc
   Repeat = 2;
   MusicBy = "Rodgers-Hammerstein";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=26-2>
 Key { F }
@@ -22492,6 +30937,17 @@ Misc
   Tempo = 230;
   Repeat = 2;
   MusicBy = "John Coltrane";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
 <file name=500 Miles High>
@@ -22531,6 +30987,17 @@ Misc
   Tempo = 150;
   Repeat = 2;
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=502 Blues>
 Key { Am }
@@ -22553,6 +31020,17 @@ Misc
   Repeat = 2;
   MusicBy = "Jimmy Rowles";
 }
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
+}
 </file>
 <file name=52nd Street Theme>
 Key { C }
@@ -22574,5 +31052,16 @@ Misc
   Tempo = 150;
   Repeat = 2;
   MusicBy = "Thelonious Monk";
+}
+
+Link
+{
+	""
+}
+
+Lyrics
+{
+/*
+*/
 }
 </file>
