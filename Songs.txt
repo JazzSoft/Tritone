@@ -78,7 +78,7 @@ Those beautiful african nights
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Afro Blue>
@@ -111,7 +111,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Agua de Beber>
@@ -153,7 +153,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Airegin>
@@ -181,7 +181,7 @@ Chord
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -330,7 +330,7 @@ Alfie
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Alice In Wonderland>
@@ -419,7 +419,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -493,7 +493,7 @@ All shades, all hues, all blues
 
 Link
 {
-	"https://www.youtube.com/watch?v=uRBgy43gCoQ"
+  "https://www.youtube.com/watch?v=uRBgy43gCoQ"
 }
 </file>
 <file name=All in Love Is Fair>
@@ -525,7 +525,7 @@ Misc
 
 Link
 {
-	"https://www.youtube.com/watch?v=OxNw9LmWq-E"
+  "https://www.youtube.com/watch?v=OxNw9LmWq-E"
 }
 
 Lyrics
@@ -570,7 +570,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -722,7 +722,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Progression
@@ -785,7 +785,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Alone Together>
@@ -839,7 +839,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Alright, Okay, You Win>
@@ -860,18 +860,16 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
+  Well, alright | okay | you win / I'm in | love with you |
+  Well, alright | okay | you win / Baby | what can I do? |
+  I'll do anything you | say | It's just got to be | that way |
+
 /*
-Well, alright, okay, you win
-I'm in love with you
-Well, alright, okay, you win
-Baby, what can I do?
-I'll do anything you say
-It's just got to be that way
 Well, alright, okay, you win
 I'm in love with you
 Well, alright, okay, you win
@@ -941,7 +939,7 @@ Progression
 
 Link
 {
-	"https://www.youtube.com/watch?v=IWL1k6aM3hE"
+  "https://www.youtube.com/watch?v=IWL1k6aM3hE"
 }
 
 Lyrics
@@ -1004,7 +1002,7 @@ Progression
 
 Link
 {
-	"https://www.youtube.com/watch?v=AMuItUv9xZc"
+  "https://www.youtube.com/watch?v=AMuItUv9xZc"
 }
 
 Lyrics
@@ -1041,7 +1039,7 @@ Chord
 
 Link
 {
-	"https://www.youtube.com/watch?v=AcxNPlGMsAE"
+  "https://www.youtube.com/watch?v=AcxNPlGMsAE"
 }
 
 Lyrics
@@ -1063,37 +1061,39 @@ Key{c}
 
 Chord
 {
-  gsus7b9,cM7,dm7b5,g7,
-  cM7,,gm7,c7.
+  Gsus7b9 | CM7 | Dm7b5 | G7 |
+  CM7 |  | Gm7 | C7 .
 
-  fM7,,bm7b5 e7,am am on g,
-  f#m7b5,b7b9,bm7 e7,em7b5 a7b9.
+  FM7 |  | Bm7b5 E7 | Am Am on G |
+  F#m7b5 | B7b9 | Bm7 E7 | Em7b5 A7b9 .
 
-  f#m7b5 fo7,c on e ebo,dm7b5,c on e,
-  bm7b5 e7,am am on g,f#m7b5 b7b9,eM7 dm7 g7.
+  F#m7b5 Fo7 | C on E Ebo | Dm7b5 | C on E |
+  Bm7b5 E7 | Am Am on G | F#m7b5 B7b9 | EM7 Dm7 G7 .
 
-  gsus7b9,cM7,em7b5,a+7,
-  d79,dm7b5 g7,c,..
+  Gsus7b9 | CM7 | Em7b5 | A+7 |
+  D79 | Dm7b5 G7 | C | ..
 }
 
 Link
 {
-	"https://www.youtube.com/watch?v=Mur2DI1BInE"
+  "https://www.youtube.com/watch?v=Mur2DI1BInE"
 }
 
 Lyrics
 {
+  April in Paris |  | chestnuts in blossom |  |
+  Holiday tables | / / under the | trees |  |
+
+  April in Paris |  | this is a | feeling |  |
+  No one can ever | / / reprise |  |
+
+  I never knew the | charm of spring | Never met it face to | face |
+  I never knew my | heart could sing | Never missed a warm | embrace |
+
+  Till April in Paris |  | whom can I run | to? |
+  What have you done to | / / my | heart? |
+
 /*
-April in Paris, chestnuts in blossom
-Holiday tables under the trees
-April in Paris, this is a feeling
-No one can ever reprise
-I never knew the charm of spring
-Never met it face to face
-I never knew my heart could sing
-Never missed a warm embrace
-Till April in Paris, whom can I run to?
-What have you done to my heart?
 April in Paris, chestnuts in blossom
 Holiday tables under the trees
 April in Paris, this is a feeling
@@ -1138,7 +1138,7 @@ Chord
 
 Link
 {
-	"https://www.youtube.com/watch?v=Diregu6eFzk"
+  "https://www.youtube.com/watch?v=Diregu6eFzk"
 }
 
 Lyrics
@@ -1196,7 +1196,7 @@ Chord
 
 Link
 {
-	"https://www.youtube.com/watch?v=d22CiKMPpaY"
+  "https://www.youtube.com/watch?v=d22CiKMPpaY"
 }
 </file>
 <file name=Au Privave>
@@ -1219,7 +1219,7 @@ Chord
 
 Link
 {
-	"https://www.youtube.com/watch?v=dvdQYSWOobc"
+  "https://www.youtube.com/watch?v=dvdQYSWOobc"
 }
 
 Lyrics
@@ -1274,7 +1274,7 @@ Lyrics
 
 Link
 {
-	"https://www.youtube.com/watch?v=6xeMFywzp5A"
+  "https://www.youtube.com/watch?v=6xeMFywzp5A"
 }
 </file>
 <file name=Autumn In New York>
@@ -1303,27 +1303,24 @@ Chord
 
 Link
 {
-	"https://www.youtube.com/watch?v=50zL8TnMBN8"
+  "https://www.youtube.com/watch?v=50zL8TnMBN8"
 }
 
 Lyrics
 {
+  Autumn in New York | Why does it seem so | inviting |  |
+  Autumn in New York | It spells the thrill of | first-knighting |  |
+
+  Glittering crowds and | shimmering clouds | In canyons of steel |  |
+  They're making me | feel | I'm home |  |
+
+  It's autumn in New York | That brings the promise of | new love |  |
+  Autumn in New York | Is often mingled with | pain |  |
+
+  Dreamers with empty hands | They sigh for | exotic lands |  |
+  It's autumn in New York | It's good to live it | again |  |
+
 /*
-Autumn in New York
-Why does it seem so inviting
-Autumn in New York
-It spells the thrill of first-knighting
-Glittering crowds and shimmering clouds
-In canyons of steel
-They're making me feel, I'm home
-It's autumn in New York
-That brings the promise of new love
-Autumn in New York
-Is often mingled with pain
-Dreamers with empty hands
-They sigh for exotic lands
-It's autumn in New York
-It's good to live it again
 This autumn in New York
 Transforms the slums into Mayfair
 Autumn in New York
@@ -1465,7 +1462,7 @@ Lyrics
 
 Link
 {
-	"https://www.youtube.com/watch?v=u-FwwNDCUKE"
+  "https://www.youtube.com/watch?v=u-FwwNDCUKE"
 }
 </file>
 <file name=Back Home Again in Indiana ~ Donna Lee>
@@ -1579,7 +1576,7 @@ Lyrics
 
 Link
 {
-	"https://www.youtube.com/watch?v=CmAkmfUhWZQ"
+  "https://www.youtube.com/watch?v=CmAkmfUhWZQ"
 }
 </file>
 <file name=Bag's Groove>
@@ -1600,7 +1597,7 @@ Misc
 
 Link
 {
-	"https://www.youtube.com/watch?v=41ZptF7MEaI"
+  "https://www.youtube.com/watch?v=41ZptF7MEaI"
 }
 
 Lyrics
@@ -1622,33 +1619,41 @@ Misc
 
 Chord
 {
-  em7b5,a7,dm,,
-  gm7,c7,fmaj7,em7b5 a7,
-  dm,gm7 c7,em7b5,a7,
-  bm7b5,e7b13,em7b5,a7||
+  |  |  |  .
 
-  em7b5,a7,dm,,
-  gm7,c7,fmaj7,em7b5 a7,
-  dm,gm7 c7,em7b5,a7,
-  dm,em7b5 a7,dm,(em7b5 a7)..
+  Em7b5 | A7 | Dm |  |
+  Gm7 | C7 | Fmaj7 | Em7b5 A7 |
+  Dm | Gm7 C7 | Em7b5 | A7 |
+  Bm7b5 | E7b13 | Em7b5 | A7 .
+
+  Em7b5 | A7 | Dm |  |
+  Gm7 | C7 | Fmaj7 | Em7b5 A7 |
+  Dm | Gm7 C7 | Em7b5 | A7 |
+  Dm | Em7b5 A7 | Dm | (Em7b5 A7) ..
 }
 
 Link
 {
-	"https://www.youtube.com/watch?v=0vXB2WKky6M"
+  "https://www.youtube.com/watch?v=0vXB2WKky6M"
 }
 
 Lyrics
 {
+  |  |  | / Beautiful |
+
+  love | you are all | mystery | / Beautiful |
+  love | what have you | done to me | / I was |
+
+  contented 'till | you came | along |  |
+  Thrilling | my soul with your | song | / Beautiful |
+
+  love | I've roamed your | paradise | / Searching for |
+  love | my dreams to | realize | / Reaching for |
+
+  heaven | depending on | you | / Beautiful |
+  love will my | dreams come | true |  |
+
 /*
-Beautiful love, you are all mystery
-Beautiful love, what have you done to me
-I was contented 'till you came along
-Thrilling, my soul with your song
-Beautiful love, I've roamed your paradise
-Searching for love, my dreams to realize
-Reaching for heaven, depending on you
-Beautiful love, will my dreams come true
 Beautiful love, you are all mystery
 Beautiful love, what have you done to me
 I was contented 'till you came along
@@ -1697,7 +1702,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -1738,7 +1743,7 @@ Note
 
 Link
 {
-	"https://www.youtube.com/watch?v=wcyKdYx7Z-w"
+  "https://www.youtube.com/watch?v=wcyKdYx7Z-w"
 }
 
 Lyrics
@@ -1804,7 +1809,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Bessie's Blues>
@@ -1823,17 +1828,6 @@ Misc
   Repeat = 2;
 }
 </file>
-
-Link
-{
-	""
-}
-
-Lyrics
-{
-/*
-*/
-}
 <file name=Bewitched>
 Key{F}
 
@@ -1909,7 +1903,7 @@ Bewitched, bothered and | bewildered am | I |
 
 Link
 {
-	"https://www.youtube.com/watch?v=GIpQggP0WvI"
+  "https://www.youtube.com/watch?v=GIpQggP0WvI"
 }
 </file>
 <file name=Bewitched (TV)>
@@ -1952,7 +1946,7 @@ Progression
 
 Link
 {
-	"https://www.youtube.com/watch?v=dpb4YAAo4Tk"
+  "https://www.youtube.com/watch?v=dpb4YAAo4Tk"
 }
 
 Lyrics
@@ -1979,7 +1973,7 @@ Misc
 
 Link
 {
-	"https://www.youtube.com/watch?v=S4mRaEzwTYo"
+  "https://www.youtube.com/watch?v=S4mRaEzwTYo"
 }
 
 Lyrics
@@ -2064,7 +2058,7 @@ Lyrics
 
 Link
 {
-	"https://www.youtube.com/watch?v=c-KKN76HaBc"
+  "https://www.youtube.com/watch?v=c-KKN76HaBc"
 }
 </file>
 <file name=Black Nile>
@@ -2100,7 +2094,7 @@ Theme:
 
 Link
 {
-	"https://www.youtube.com/watch?v=IWvUJlKp8HQ"
+  "https://www.youtube.com/watch?v=IWvUJlKp8HQ"
 }
 
 Lyrics
@@ -2151,18 +2145,19 @@ Progression
 
 Link
 {
-	"https://www.youtube.com/watch?v=YeSBSLmumYc"
+  "https://www.youtube.com/watch?v=YeSBSLmumYc"
 }
 
 Lyrics
 {
-/*
-Manhã, tão bonita manhã
-Na vida, uma nova canção
-Cantando só teus olhos
-Teu riso, tuas mãos
-Pois há de haver um dia
+  Manhã | tão bonita | manhã |  |
+  Na vida | uma nova | canção | / Cantando |
+
+  só teus | olhos | / Teu riso | tuas mãos |
+  Pois há de | haver um dia
 Em que virás
+
+
 Das cordas do meu violão
 Que só teu amor procurou
 Vem uma voz
@@ -2171,8 +2166,7 @@ Nos lábios teus
 Canta o meu coração
 Alegria voltou
 Tão feliz a manhã
-Deste amor
-*/
+ / Deste | amor |  |
 }
 </file>
 <file name=Blame It On My Youth>
@@ -2207,7 +2201,7 @@ Theme:
 
 Link
 {
-	"https://www.youtube.com/watch?v=d-De4NJ6LNk"
+  "https://www.youtube.com/watch?v=d-De4NJ6LNk"
 }
 
 Lyrics
@@ -2217,15 +2211,20 @@ You were my adored one
 Then you became the bored one
 And I was like a toy that brought you joy one day
 A broken toy that you preferred to throw away
-If I expected love when first we kissed, blame it on my youth
-If only just for you I did exist, blame it on my youth
-I believed in everything like a child of three
-You meant more than anything all the world to me
-If you were on my mind all night and the day, blame it on my youth
-If I forgot to eat and sleep and pray, blame it on my youth
-And if I cried a little bit when first I learned the truth
-Don't blame it on my heart, blame it on my youth
 */
+
+  If I expected | love when first we | kissed, blame it on my | youth |
+  
+  If only just for | you I did | exist, blame it on my | youth |
+
+  I believed in | everything | like a child of | three |
+  You meant more than | anything | all the world to | me |
+
+  If you were on my | mind all night and | the day, blame it on my | youth |
+  If I forgot to | eat and sleep and | pray, blame it on my | youth |
+
+  And if I cried a | little bit when | first I learned the | truth |
+  Don't blame it on my | heart, blame it on my | youth |
 }
 </file>
 <file name=Blue Bossa>
@@ -2251,7 +2250,7 @@ Chord
 
 Link
 {
-	"https://www.youtube.com/watch?v=M69YdmAJoLs"
+  "https://www.youtube.com/watch?v=M69YdmAJoLs"
 }
 
 Lyrics
@@ -2287,7 +2286,7 @@ Progression
 
 Link
 {
-	"https://www.youtube.com/watch?v=PoPL7BExSQU"
+  "https://www.youtube.com/watch?v=PoPL7BExSQU"
 }
 
 Lyrics
@@ -2316,7 +2315,7 @@ Chord
 
 Link
 {
-	"https://www.youtube.com/watch?v=_40V2lcxM7k"
+  "https://www.youtube.com/watch?v=_40V2lcxM7k"
 }
 
 Lyrics
@@ -2339,9 +2338,10 @@ Misc
 Chord
 {
 LabelA:
-  |:eb c7,fm7 bb7,eb cm7,fm7 bb7!
-  db7 c7,fm7 bb7,eb cm7,fm7 bb7:|
+  eb c7,fm7 bb7,eb cm7,fm7 bb7,
+  db7 c7,fm7 bb7,eb cm7,fm7 bb7.
 
+  eb c7,fm7 bb7,eb cm7,fm7 bb7,
   db7 c7,fm7 bb7,eb abm,eb||
 
 LabelB:
@@ -2355,7 +2355,7 @@ LabelC:
 
 Link
 {
-	"https://www.youtube.com/watch?v=a3hNO3fEx9k"
+  "https://www.youtube.com/watch?v=a3hNO3fEx9k"
 }
 
 Lyrics
@@ -2381,20 +2381,21 @@ Once I awoke at seven
 Hating the morning light
 Now I awake in Heaven
 And all the world's all right
-Blue moon you saw me standing alone
-Without a dream in my heart
-Without a love of my own
-Blue moon
-You knew just what I was there for
-You heard me saying a pray'r for
-Someone I really could care for
-And then there suddenly appeared before me
-The only one my arms will ever hold
-I heard somebody whisper "Please adore me"
-And when I looked, the moon had turned to gold!
-Blue moon! Now I'm no longer alone
-Without a dream in my heart
-Without a love of my own
+*/
+
+  Blue moon | you saw me standing | alone | Without a dream in my |
+  heart | Without a love of my | own |  |
+
+  Blue moon | You knew just what I was | there for | You heard me saying a |
+  pray'r for | Someone I really could | care for | / And then there |
+
+  suddenly appeared | before me | The only one my arms will | ever hold |
+  I heard somebody whisper | Please adore me | And when I looked | the moon had turned to gold |
+
+  Blue moon | Now I'm no longer | alone | Without a dream in my |
+  heart | Without a love of my | own |  |
+
+/*
 Blue moon you saw me standing alone
 Without a dream in my heart
 Without a love of my own
@@ -2435,7 +2436,7 @@ Misc
 
 Link
 {
-	"https://www.youtube.com/watch?v=S1GrP6thz-k"
+  "https://www.youtube.com/watch?v=S1GrP6thz-k"
 }
 
 Lyrics
@@ -2464,7 +2465,7 @@ Chord
 
 Link
 {
-	"https://www.youtube.com/watch?v=o0fUV1SsDAM"
+  "https://www.youtube.com/watch?v=o0fUV1SsDAM"
 }
 </file>
 <file name=Bluesette>
@@ -2492,20 +2493,23 @@ Chord
 
 Link
 {
-	"https://www.youtube.com/watch?v=yKnG_9q4crA"
+  "https://www.youtube.com/watch?v=yKnG_9q4crA"
 }
 
 Lyrics
 {
-/*
-Poor little, sad little blue Bluesette
-Don't you cry, don't you fret
-You can bet one lucky day you'll waken
-And your blues will be forsaken
-Some lucky day lovely love will come your way
-If there is love in your heart to share
-Dear Bluesette, don't despair
-Some blue boy is waiting just like you
+  Poor little | sad little | blue | Bluesette |
+  Don't you | cry | don't you | fret |
+
+  You can bet | one lucky | day you'll | waken |
+  And your blues | will be | forsaken |  |
+
+  Some lucky | day lovely | love will | come your way |
+  If there is | love in your | heart to | share |
+
+  Dear | Bluesette | don't | despair |
+  Some blue boy is waiting just like you
+
 To find a someone to be true to
 Two loving arms you can nestle in to stay
 Get set, Bluesette
@@ -2515,7 +2519,6 @@ Pretty little Bluesette, musn't be a mourner
 Have you heard the news yet? Love's 'round the corner
 Love wrapped in rainbows and tied with pink ribbons
 To make your your next springtime your gold wedding ring time
-*/
 }
 </file>
 <file name=Body And Soul>
@@ -2597,7 +2600,7 @@ Note
 
 Link
 {
-	"https://www.youtube.com/watch?v=_OFMkCeP6ok"
+  "https://www.youtube.com/watch?v=_OFMkCeP6ok"
 }
 </file>
 <file name=Brazil (Aquarela Do Brasil)>
@@ -2627,7 +2630,7 @@ Theme:
 
 Link
 {
-	"https://www.youtube.com/watch?v=0aeBq5H3O2I"
+  "https://www.youtube.com/watch?v=0aeBq5H3O2I"
 }
 
 Lyrics
@@ -2649,38 +2652,41 @@ Misc
 
 Chord
 {
-  |:eb69 ab7#11,gm7b5 c7,fm7,am7b5 d7,
-  gm ab7#11,gm7b5 c7,f7,!
-  fm7 bb7,gm cm7,fm7 bb7,ebmaj7 dm7b5 g7,
-  cm cmmaj7 on b,cm7 on bb f7,fm7,bb7:|
+  |  |  |  .
 
-  fm7 bb7,gm cm7,dm7b5 g7,cm6 db7,
-  gm7 cm7,fm7 bb7,ebmaj7(,fm7 bb7)|||
+  Eb69 Ab7#11 | Gm7b5 C7 | Fm7 | Am7b5 D7 |
+  Gm Ab7#11 | Gm7b5 C7 | F7 |  |
+
+  Fm7 Bb7 | Gm Cm7 | Fm7 Bb7 | Ebmaj7 Dm7b5 G7 |
+  Cm Cmmaj7 on B | Cm7 on Bb F7 | Fm7 | Bb7 .
+
+  Eb69 Ab7#11 | Gm7b5 C7 | Fm7 | Am7b5 D7 |
+  Gm Ab7#11 | Gm7b5 C7 | F7 |  |
+
+  Fm7 Bb7 | Gm Cm7 | Dm7b5 G7 | Cm6 Db7 |
+  Gm7 Cm7 | Fm7 Bb7 | Ebmaj7 | (Fm7 Bb7) ..
 }
 
 Link
 {
-	"https://www.youtube.com/watch?v=O1OdWOLWeCM"
+  "https://www.youtube.com/watch?v=O1OdWOLWeCM"
 }
 
 Lyrics
 {
-/*
-Love is funny or it's sad,
-Or it's quiet or it's mad;
-It's a good thing or it's bad,
-But beautiful!
-Beautiful to take a chance
-And if you fall, you fall,
-And I'm thinking I wouldn't mind at all.
-Love is tearful or it's gay.
-It's a problem or it's play,
-It's a heartache either way,
-But beautiful!
-And I'm thinking if you were mine
-I'd never let you go,
-And that would be but beautiful I know.
-*/
+  |  |  | / Love is |
+
+  funny / or it's | sad / Or it's | quiet / or it's | mad / It's a |
+  good thing / or it's | bad / But | beautiful |  |
+
+  Beautiful / to | take a chance / And | if you fall / you | fall / And I'm |
+  thinking / I | wouldn't mind at | all | / Love is |
+
+  tearful / or it's | gay / It's a | problem / or it's | play / It's a |
+  heartache / either | way / But | beautiful | / And I'm |
+
+  thinking / if | you were mine / I'd | never let you | go / And |
+  that would be / but | beautiful / I | know |  |
 }
 </file>
 <file name=But Not For Me>
@@ -2733,7 +2739,7 @@ Progression
 
 Link
 {
-	"https://www.youtube.com/watch?v=R_f_mMJAezM"
+  "https://www.youtube.com/watch?v=R_f_mMJAezM"
 }
 </file>
 <file name=Bye Bye Black Bird>
@@ -2768,32 +2774,22 @@ Chord
 
 Link
 {
-	"https://www.youtube.com/watch?v=DfANFQOLGKA"
+  "https://www.youtube.com/watch?v=DfANFQOLGKA"
 }
 
 Lyrics
 {
-/*
-No one here can love or understand me
-Oh, what hard luck stories they all hand me
-Pack up all my cares and woe, here I go, winging low
-Bye, bye, blackbird
-Where somebody waits for me
-Sugar's sweet, so is she
-Bye, bye, blackbird
-No one here can love or understand me
-Oh, what hard luck stories they all hand me
-Make my bed and light the light, I'll arrive late tonight
-Blackbird, bye, bye
-Bye, bye, blackbird
-Where somebody waits for me
-Sugar's sweet, so is she
-Bye, bye, blackbird
-No one here can love or understand me
-Oh what hard luck stories they all hand me
-Make my bed and light the light, I'll arrive late tonight
-Blackbird, bye, bye
-*/
+  Pack up all my | cares and woe | here I go | winging low |
+  Bye | bye | blackbird |  |
+
+  Where somebody | waits for me | Sugar's sweet | so is she |
+  Bye | bye | blackbird |  |
+
+  No one here can | love / or | understand | me |
+  Oh, what hard luck | stories / they | all / hand | me |
+
+  Make my bed and | light the light | I'll arrive | late tonight |
+  Blackbird | / / bye | bye |
 }
 </file>
 <file name=C Jam Blues>
@@ -2822,15 +2818,16 @@ Misc
 
 Link
 {
-	"https://www.youtube.com/watch?v=s9BCWzQnQ4Q"
+  "https://www.youtube.com/watch?v=s9BCWzQnQ4Q"
 }
 
 Lyrics
 {
+  Baby | take me down to | Duke's place |  |
+  Wildest | box in town is | Duke's place |  |
+  Love that | piano sound in | Duke's place |  |
+
 /*
-Baby, take me down to Duke's place
-Wildest box in town is Duke's place
-Love that piano sound in Duke's place
 Saxes do their tricks in Duke's place
 Fellas swing their chicks in Duke's place
 Come on, get your kicks in Duke's place
@@ -2871,7 +2868,7 @@ Chord
 
 Link
 {
-	"https://www.youtube.com/watch?v=1De97dQS2S8"
+  "https://www.youtube.com/watch?v=1De97dQS2S8"
 }
 
 Lyrics
@@ -2925,7 +2922,7 @@ Progression
 
 Link
 {
-	"https://www.youtube.com/watch?v=NGFToiLtXro"
+  "https://www.youtube.com/watch?v=NGFToiLtXro"
 }
 
 Lyrics
@@ -2995,49 +2992,37 @@ Misc
 
 Chord
 {
-LabelA:
-  |:eb,ebm,dm7,g7!
-  cm7,f7,bb,bb7:|
+  eb,ebm,dm7,g7,
+  cm7,f7,bb,bb7,
 
+  eb,ebm,dm7,g7,
   cm7,f7,bb,.
 
-LabelB:
   d7,,g7,,
   c7,,f7,g7.
 
-LabelC:
   eb,ebm,dm7,g7,
   cm7,f7,bb,(bb7)..
 }
 
 Link
 {
-	"https://www.youtube.com/watch?v=MiUzwUGh--U"
+  "https://www.youtube.com/watch?v=MiUzwUGh--U"
 }
 
 Lyrics
 {
-/*
-"Candy"
-I call my sugar "Candy"
-Because I'm sweet on "Candy"
-And "Candy" is sweet on me
+  Candy | I call my sugar | Candy | Because I'm sweet on |
+  Candy | And Candy is sweet on | me | He under- |
 
-He/She understands me,
-My understanding "Candy"
-And "Candy"'s always handy
-When I need sympathy
-I wish that there were four of him/her
-So I could love much more of him/her
+  stands me | My understanding | Candy | And Candy is always |
+  handy | When I need | sympathy |  |
 
-He/She has taken my complete heart,
-Got a sweet tooth for my sweetheart
-"Candy"
-Its gonna be just dandy
-The day I take my "Candy"
-And make him mine all mine
-Mine
-*/
+  I wish that there were | four of him | So I could love much | more of him |
+  He has taken | my complete heart | Got a sweet tooth | for my sweetheart |
+
+  Candy | Its gonna be just | dandy | The day I take my |
+  Candy | And make him mine all | mine |  |
 }
 </file>
 <file name=Cantelope Island>
@@ -3061,7 +3046,7 @@ Misc
 
 Link
 {
-	"https://www.youtube.com/watch?v=8B1oIXGX0Io"
+  "https://www.youtube.com/watch?v=8B1oIXGX0Io"
 }
 
 Lyrics
@@ -3119,24 +3104,32 @@ Misc
 
 Link
 {
-	"https://www.youtube.com/watch?v=ZZY-Ytrw2co"
+  "https://www.youtube.com/watch?v=ZZY-Ytrw2co"
 }
 
 Lyrics
 {
+  Night |  | and stars | above that shine so |
+  bright |  | The mystery | of their fading |
+  light |  | That shines upon | our caravan |
+  |  |  |  |
+
+  Sleep |  | upon my | shoulder as we |
+  creep |  | Across the | sand so I may |
+  keep |  | This memory | of our caravan |
+  |  |  |  |
+
+
+  This | is so | exciting |  |
+  you | are so | inviting |  |
+  Resting | in my | arms | As I |
+  thrill | to the | magic | charm of |
+
+  you |  | beside me | here beneath the |\
+  blue |  | My dream of | love is coming |
+  true |  | Within our | desert caravan |
+
 /*
-Night and stars above that shine so bright
-The myst'ry of their fading light
-That shines upon our caravan
-Sleep upon my shoulder as we creep
-Across the sand so I may keep
-This mem'ry of our caravan
-This is so exciting, you are so inviting
-Resting in my arms
-As I thrill to the magic charms
-Of you beside me here, beneath the blue
-My dream of love is coming true
-Within our desert caravan
 Night, night, night, night and stars above that shine so bright
 The myst'ry of their fading light
 That shines upon our caravan
@@ -3179,7 +3172,7 @@ Theme:
 
 Link
 {
-	""
+  "https://youtu.be/rz3Q1efswzU"
 }
 
 Lyrics
@@ -3218,7 +3211,7 @@ LabelB:
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -3271,7 +3264,7 @@ Theme:
 
 Link
 {
-	""
+  "https://youtu.be/q0UWu_xchHU"
 }
 
 Lyrics
@@ -3310,7 +3303,7 @@ LabelC:
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -3416,7 +3409,7 @@ Progression
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -3471,7 +3464,7 @@ Progression
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -3521,7 +3514,7 @@ Progression
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -3547,8 +3540,11 @@ Chord
 {
 
 LabelA:
-  |:abmaj7,gb7#11,abmaj7,gb7#11,
-  dm7-5 dbm7-5,cm7 bm7,bbm7 ebsus7,abmaj7:|
+  abmaj7,gb7#11,abmaj7,gb7#11,
+  dm7-5 dbm7-5,cm7 bm7,bbm7 ebsus7,abmaj7.
+
+  abmaj7,gb7#11,abmaj7,gb7#11,
+  dm7-5 dbm7-5,cm7 bm7,bbm7 ebsus7,abmaj7.
 
 LabelB:
   emaj7,a7#11,emaj7,a7#11,
@@ -3566,13 +3562,23 @@ Progression
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
-/*
-*/
+  Christmas time | is here | Happiness and | cheer |
+  Fun for all that | children call their | favorite time of | the year |
+
+  Snowflakes in | the air | Carols | everywhere |
+  Olden times and | ancient rhymes of | love and dreams to | share |
+
+  Sleigh bells in | the air | Beauty | everywhere |
+  Yuletide by | the fireside and | joyful memories | there |
+
+  Christmas time | is here | We'll be drawing | near |
+  Oh, that we could | always see such | spirit through | the year |
+
 }
 </file>
 <file name=Cipriana>
@@ -3599,7 +3605,7 @@ Chord
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -3658,7 +3664,9 @@ Note
 
 Lyrics
 {
-  //Come | fly with me, we'll | fly, we'll fly | away | //
+  | | | //Come |
+
+  fly with me, we'll | fly, we'll fly | away | //
 If | you can use some | exotic booze
 There's a | bar in far | Bombay /
 Come | fly with me, we'll | fly, we'll fly | away | //
@@ -3674,7 +3682,7 @@ We'll just | glide |
 Starry-eyed |
 
 Once I get you | up there |
-I'll be holding | you so near |
+I'll be holding | you so | near |
 You might | hear /
 All the | angels cheer | because we're together |
 
@@ -3713,11 +3721,7 @@ LabelB:
   eb,dm7b5 g7,cm,,
   am7b5,d7,g,.
   c7,,f7,@
-  cm am7b5,dm7b5 g7,cm,fm7 bb7.
-
-Ending:
-  cm am7b5,dm7b5 g7,cm,,
-  cm am7b5,dm7b5 g7,cm..
+  cm am7b5,dm7b5 g7,cm, (fm7 bb7)..
 }
 
 Progression
@@ -3727,13 +3731,22 @@ Progression
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
-/*
-*/
+  I'm gonna love you | like nobody's loved you | Come rain or | come shine |
+  High as a mountain and | deep as a river | Come rain or | come shine |
+
+  I guess when you | met me | It was just one of those | things |
+  But don't ever | bet me | 'Cause I'm gonna be true | if you let me |
+
+  You're gonna love me | like nobody's loved me | Come rain or | come shine |
+  Happy together | unhappy together | And won't it be | fine? |
+
+  Days may be cloudy | or sunny | We're in or we're out of the | money |
+  But I'm with you always | I'm with you rain | or shine |  |
 }
 </file>
 <file name=Con Alma>
@@ -3763,7 +3776,7 @@ Chord
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -3797,7 +3810,7 @@ Chord
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -3845,13 +3858,24 @@ Progression
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
-/*
-*/
+  / Um cantinho e | um violão | Este amor, uma | canção |
+  / Pra fazer | feliz a quem | se ama |  |
+
+  / Muita calma | pra pensar | E ter tempo | pra sonhar |
+  / Da janela | vê-se o Corcovado | O Redentor que | lindo |
+
+  / Quero a vida sempre assim com você perto de mim
+Até o apagar da velha chama
+E eu que era triste
+Descrente deste mundo
+Ao encontrar você eu conheci
+O que é felicidade meu amor
+O que é felicidade, o que é felicidade
 }
 </file>
 <file name=Country Club>
@@ -3884,7 +3908,7 @@ Ending:
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -3906,38 +3930,45 @@ Key{cm}
 
 Chord
 {
-LabelA:
-  |:cm cm+5,cm6 c7,fm7 bb7,eb dm7b5 g7!
-  c7b9,f7,fm7 bb7,eb dm7b5 g7:|
-
-  c7b9,f7,fm7 bb7,eb am7b5 d7||
-
-LabelB:
-  gm,am7b5 d7,gm,am7b5 d7,
-  gm,am7b5 d7,gm,dm7 g7||
-
-LabelC:
   cm cm+5,cm6 c7,fm7 bb7,eb dm7b5 g7,
-  c7b9,f7,fm7 bb7 @ eb dm7b5 g7.
+  c7b9,f7,fm7 bb7,eb dm7b5 g7.
 
-Ending:
-  eb..
-}
+  cm cm+5,cm6 c7,fm7 bb7,eb dm7b5 g7,
+  c7b9,f7,fm7 bb7,eb am7b5 d7.
 
-Progression
-{
-  Theme Structure = A B C;
+  gm,am7b5 d7,gm,am7b5 d7,
+  gm,am7b5 d7,gm,dm7 g7.
+
+  cm cm+5,cm6 c7,fm7 bb7,eb dm7b5 g7,
+  c7b9,f7,fm7 bb7, eb (dm7b5 g7) ..
 }
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
-/*
-*/
+  Now you say you're | lonely |
+  You cried the long night | through ~ Well, you can |
+  cry me a river, | cry me a river |
+  I cried a river | over you |
+
+  Now you say you're | sorry |
+  For being so | untrue ~ Well, you can |
+  cry me a river, | cry me a river |
+  I cried a river | over you |
+
+  You drove me, nearly drove me, | out of my head |
+  While you never shed a | tear |
+  Remember, I remember, | all that you said |
+  You told me love was too plebeian | Told me you were through with me and |
+
+  Now you say you | love me |
+  Well, just to prove that you | do ~ Come on and |
+  cry me a river, | cry me a river |
+  Cause I cried a river | over you |
 }
 </file>
 <file name=Danny Boy>
@@ -3951,27 +3982,50 @@ Misc
 
 Chord
 {
+  , , , .
+
   eb ebmaj7,eb7,ab,fm7 bb7,
   eb ebmaj7,cm,fm7,bb7,
 
   eb ebmaj7,eb7,ab,abm,
-  eb cm7,fm7 bb7,eb,fm7 bb7||
+  eb cm7,fm7 bb7,eb,fm7 bb7.
 
   eb gm,ab,gm7 cm7,fm7 bb7,
   eb gm,ab gm7,f7,bb7,
 
   eb g7,ab ao,eb bo cm7 /,f7 fm,
-  eb cm7,fm bb7,eb cm7,(fm7 bb7)|||
+  eb cm7,fm bb7,eb cm7,(fm7 bb7)..
 }
 
 Link
 {
-	""
+  "https://youtu.be/X5Sg0WGy9YA"
 }
 
 Lyrics
 {
+  |  |  | / Oh, Danny |
+  boy the | pipes, the pipes are | calling | / From glen to |
+  glen and | down the mountain | side | / The summer's |
+
+  gone and | all the roses | falling | / It's |
+  you it's you must | go and I must | bide | / But come ye |
+
+  back when | summer's in the | meadow | / Or when the |
+  valley's hushed and | white with | snow | / It's I'll be |
+
+  here in | sunshine or in | shadow | / Oh, Danny |
+  boy oh Danny | boy, I love you | so! |  |
+
 /*
+But when ye come, and all the flowers are dying,
+If I am dead, as dead I well may be,
+You'll come and find the place where I am lying,
+And kneel and say an Ave there for me
+And I shall hear, though soft you tread above me,
+And all my grave will warmer, sweeter be,
+For you will bend and tell me that you love me,
+And I shall sleep in peace until you come to me!
 */
 }
 </file>
@@ -4010,12 +4064,30 @@ Progression
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Darn that dream
+I dream each night
+You say you love me and hold me tight
+But when I awake and you're out of sight
+Oh, darn that dream
+Darn your lips and darn your eyes
+They lift me high above the moonlit sky
+Then I tumble out of paradise
+Oh, darn that dream
+Darn that one track mind of mine
+It can't understand that you don't care
+Just to change the mood I'm in
+I'd welcome a nice old nightmare
+Darn that dream
+And bless it too
+Without that dream I never have you
+But it haunts me and it won't come true
+Oh, darn that dream
 */
 }
 </file>
@@ -4043,12 +4115,21 @@ Chord
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Day by day I'm falling more in love with you
+And day by day my love seems to grow
+There isnt any end to my devotion
+It's deeper dear by far than any ocean
+
+I find that day by day youre making all my dreams come true
+And (so) come what may I want you to know
+I'm (that I am) yours alone, and I'm in love (in love) to stay
+As we go through the years day by day
 */
 }
 </file>
@@ -4072,7 +4153,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -4122,12 +4203,18 @@ Progression
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+The days of wine and roses laugh and run away like a child at play
+Through the meadow land toward a closing door
+A door marked "nevermore" that wasn't there before
+The lone-ly night discloses just a passing breeze filled with memories
+Of the golden smile that introduced me to
+The days of wine and roses and you
 */
 }
 </file>
@@ -4203,12 +4290,17 @@ Progression
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Dear old Southland I hear you calling me.
+And I long how I long to roam 
+back to my old Kentucky home.
+Dear old Southland for you my heart is yearning
+And I long just to see once more
 */
 }
 </file>
@@ -4260,7 +4352,7 @@ Chord
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -4465,7 +4557,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -4505,7 +4597,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -4559,7 +4651,7 @@ Lyrics
 
 Link
 {
-	""
+  "https://youtu.be/psryUybZTGQ"
 }
 
 Lyrics
@@ -4593,12 +4685,28 @@ Chord
 
 Link
 {
-	""
+  "https://youtu.be/pDsMi11R3pg"
 }
 
 Lyrics
 {
 /*
+Living for you is easy living
+It's easy to live when you're in love
+And I'm so in love
+There is nothing in life but you
+I never regret the years that I'm giving
+They're easy to give when you're in love
+I'm happy to do whatever I do for you
+For you maybe I'm a fool
+But it's fun
+People say you rule me with one wave of your hand
+Darling, it's grand
+They just don't understand
+Living for you is easy living
+It's easy to live when you're in love
+And I'm so in love
+There's nothing in life but you
 */
 }
 </file>
@@ -4662,7 +4770,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -4712,12 +4820,31 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Dozens of girls would storm up
+I had to lock my door
+Somehow I couldn't warm up
+To one before
+What was it that controlled me
+What kept my love life lean
+My intuition told me
+You'd come on the scene
+Lady listen to the rhythm of my heartbeat
+And you'll get just what I mean
+Embrace me, my sweet embraceable you
+Embrace me, you irreplaceable you
+Just one look at you my heart grew tipsy in me
+You and you alone bring out the gypsy in me
+I love all the many charms about you
+Above all I want my arms about
+Don't be a naughty baby,
+Come to papa come to papa do
+My sweet embraceable you
 */
 }
 </file>
@@ -4763,12 +4890,23 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/wrWQndgX1QU"
 }
 
 Lyrics
 {
 /*
+Emily, Emily, Emily
+Has the murmuring sound of May
+All silver bells, coral shells, carousels
+And the laughter of children at play
+
+They say "Emily, Emily, Emily"
+And we fade to a marvelous view
+Two lovers alone and out of sight
+Seeing images in the firelight
+As my eyes visualize a family
+They see dreamily, Emily
 */
 }
 </file>
@@ -4792,7 +4930,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -4828,7 +4966,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -4856,7 +4994,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -4890,7 +5028,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -4925,7 +5063,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -4965,12 +5103,34 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Every time we say goodbye
+I die a little
+Every time we say goodbye
+I wonder why a little
+Why the Gods above me
+Who must be in the know
+Think so little of me
+They allow you to go
+When you're near
+There's such an air of spring about it
+I can hear a lark somewhere
+Begin to sing about it
+There's no love song finer
+But how strange the change from major to minor
+Every time we say goodbye
+When you're near
+There's such an air of spring about it
+I can hear a lark somewhere
+Begin to sing about it
+There's no love song finer
+But how strange the change from major to minor
+Every time we say goodbye
 */
 }
 </file>
@@ -5006,12 +5166,37 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I make a date for gown,
+You can bet your life it rains.
+Tried to give a party
+But the guy upstairs complains.
+Guess I'll go through life
+Catching colds and missing trains.
+Everything happens to me.
+I never miss a thing
+I've had the measles and the mumps.
+And everytime I play an ace
+My partner always trumps.
+Guess I'm just a fool
+Who never looks before he jumps.
+Everything happens to me.
+At first I thought that you would end this jinx for me.
+And love would turn the trick to end dispair.
+Now I just cant fool this head that thinks for me.
+I've mortgaged all my castles in the air.
+Well I've telegraphed and phoned.
+Sent an air mail special too.
+Your answer was goodby.
+There was even postage due.
+Fell in love just once,
+And it had to be with you.
+Everything happens to me.
 */
 }
 </file>
@@ -5042,12 +5227,46 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Everything I have is yours
+You are part of me
+Everything I have is yours
+My destiny
+I would gladly give the sun to you
+If the sun were only mine
+I would gladly give this earth to you
+And the stars that shine
+Everything that I possess
+I offer you
+Let my dream of happiness
+Come true
+I'd be happy just to spend my life
+Waiting at your beck and call
+Everything I have is yours
+My life
+My all
+Everything I have is yours
+You are part of me
+Everything I have is yours
+My destiny
+I would gladly give the sun to you
+If the sun were only mine
+I would gladly give the earth to you
+And the stars that shine
+Everything that I possess
+I offer to you
+Let my dream of happiness
+Come through
+I'd be happy just to spend my life
+Waiting at your beck and call
+Everything I have is yours
+My life
+My all
 */
 }
 </file>
@@ -5078,12 +5297,21 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+If I Were Lord Byron, I'd Write You,
+Sweet Siren, A Poem Inspirin', A Killer Diller-Oo.
+Too Bad I'm No Poet, I Happen To Know It,
+But Anyway Here's A Roundelay That I Wrote Last Night About You.
+You Are To Me Everything. My Life To Be, Everything.
+When In My Sleep You Appear, Fair Skies Of Deep Blue Appear,
+Each Time Our Lips Touch Again, I Yearn For You Oh So Much Again.
+You Are My Fav'rite Star,
+My Haven In Heaven Above. You Are Everything I Love.
 */
 }
 </file>
@@ -5118,12 +5346,46 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I know why I've waited
+Know why I've been blue
+I pray each night for someone
+Exactly like you
+Why should we spend some money
+On a show or two
+No one plays those love themes
+Exactly like you
+You make me feel so grand
+I wanna give the world to you
+You make me understand
+Every foolish little dream I'm dreaming
+Every scheme I'm scheming
+I know why my mother
+Taught me to be true
+She meant me for someone
+Exactly like you
+I know why I've waited
+Know why I've been blue
+I pray each night for someone
+Exactly like you
+Why should we spend some money
+On a show or two
+No one plays those love themes
+Exactly like you
+You make me feel so grand
+I wanna give the world to you
+You make me understand
+Every foolish little dream I'm dreaming
+Every scheme I'm scheming
+I know why my mother
+Taught me to be true
+She meant me for someone
+My baby, exactly like you
 */
 }
 </file>
@@ -5151,7 +5413,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -5181,7 +5443,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -5218,7 +5480,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -5258,12 +5520,24 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Falling in love with love is falling for make-believe
+Falling in love with love is playing the fool
+Caring too much is such a juvenile fancy
+Learning to trust is just for children in school
+I fell in love with love one night when the moon was full
+I was unwise with eyes unable to see
+I fell in love with love, with love everlasting
+But love fell out with me
+Oh, I fell in love with love one night when the moon was full
+I was unwise with eyes unable to see
+I fell in love with love, with love everlasting
+But love fell out with me
 */
 }
 </file>
@@ -5297,7 +5571,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -5330,7 +5604,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -5362,12 +5636,28 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Strollin' in the park, watching winter turn to spring
+Walkin' in the dark, seein' lovers do their thing, mmm
+That's the time I feel like making love to you.
+That's the time I feel like making dreams come true.
+In a restaurant, holdin' hands by candlelight.
+When you're touchin' me, wanting you with all my might.
+That's the time I feel like making love to you.
+That's the time I feel like making dreams come true.
+When you talk to me, when you're moanin' sweet & low.
+When you're touchin' me and my feelin's start to show.
+That's the time I feel like making love to you.
+That's the time I feel like making dreams come true.
+Strollin' in the park, watching winter turn to spring
+Walkin' in the dark, seein' lovers do their thing, mmm
+That's the time I feel like making love to you.
+That's the time I feel like making dreams come true.
 */
 }
 </file>
@@ -5394,7 +5684,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -5425,12 +5715,70 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Never know how much I love you
+Never know how much I care
+When you put your arms around me
+I get a fever that's so hard to bear
+You give me fever (you give me fever) when you kiss me
+Fever when you hold me tight (you give me fever)
+Fever in the mornin'
+Fever all through the night
+Sun lights up the day time
+Moon lights up the night
+I light up when you call my name
+'Cause I know you're gonna treat me right
+You give me fever (You give me fever) when you kiss me
+Fever when you hold me tight (You give me fever)
+Fever in the mornin'
+Fever all through the night (Wow!)
+Everybody's got the fever
+That is somethin' you all know
+Fever isn't such a new thing
+Fever started long time ago
+Baby, turn on your love light (Yeah, yeah)
+Let it shine on me (Yeah, yeah)
+Well, baby, turn on your love light (Yeah, yeah)
+And let it shine on me (Yeah, yeah)
+Well, just a little bit higher (Yeah, yeah)
+And just a little bit brighter, baby (Yeah, yeah) 
+Ow!
+You give me fever (Yeah, yeah, yeah, yeah)
+You give me fever (Yeah, yeah, yeah, yeah)
+You give me fever (Yeah, yeah, yeah, yeah)
+You give me fever
+Romeo loved Juliet
+Juliet she felt the same
+When he put his arms around her
+He said, "Julie baby you're my flame"
+Thou givest fever when we kisseth
+Fever with thy flaming youth
+Fever I'm on fire
+Fever yea I burn forsooth
+Captain Smith and Pocahontas
+Had a very mad affair
+When her daddy tried to kill him
+She said "Daddy oh don't you dare"
+"He gives me fever with his kisses"
+"Fever when he holds me tight"
+"Fever, I'm his missus"
+"Daddy won't you treat him right?"
+Now you've listened to my story
+Here's the point that I have made
+Chicks were born to give you fever
+Be it Fahrenheit or centigrade
+We give you fever when we kiss you
+Fever if you live and learn
+Fever till you sizzle
+What a lovely way to burn 
+What a lovely way to burn 
+What a lovely way to burn 
+What a lovely way to burn
 */
 }
 </file>
@@ -5461,12 +5809,34 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+A fine romance, with no kisses
+A fine romance, my friend this is
+We should be like a couple of hot tomatoes
+But you're as cold as yesterday's mashed potatoes
+A fine romance, you won't nestle
+A fine romance, you won't wrestle
+I might as well play bridge
+With my old maid aunt
+I haven't got a chance
+This is a fine romance
+A fine romance, my good fellow
+You take romance, I'll take jello
+You're calmer than the seals
+In the arctic ocean
+At least they flap their fins
+To express emotion
+A fine romance with no quarrels
+With no insults and all morals
+I've never mussed the crease
+In your blue serge pants
+I never get the chance
+This is a fine romance
 */
 }
 </file>
@@ -5496,7 +5866,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -5548,12 +5918,35 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+This little penny is to wish on 
+And make your wishes come true 
+This little penny is to dream on 
+Dream of all you can do
+This little penny is a dancing penny 
+See how it glitters and it glows 
+Bright as a whistle 
+Light as a thistle
+Quick, quick as a wink 
+Up on it's twinkling toes 
+This little penny is to laugh on 
+To see that tears never fall
+This this little penny 
+Is the last little penny 
+Most important of all 
+For this penny is to love on
+And where love is, heaven is there 
+So with just five pennies, if they're these five pennies 
+You'll be a millionaire 
+For this penny is to love on
+And where love is, heaven is there 
+So with just five pennies, if they're these five pennies 
+You'll be a millionaire
 */
 }
 </file>
@@ -5576,7 +5969,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -5609,12 +6002,48 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+A Flower is a lovesome thing
+A luscious living lovesome thing
+A daffodil, a rose
+No matter where it grows
+Is such a lovely, lovesome thing
+
+A flower is the heart of spring
+That makes the rolling hillsides sing
+The gentle winds that blow
+Blow gently for they know
+A flower is a lovesome thing
+
+Flaming in the breeze
+Swaying with the trees
+In the silent night
+Or in the misty light
+Such a miracle
+
+Azaleas drinking pale moonbeams
+Gardenias floating through daydreams
+Wherever it (they) may grow
+No matter where you go
+A flower is a lovesome thing
+
+Flaming in the breeze
+Swaying with the trees
+In the silent night
+Or in the misty light
+Such a miracle
+
+Azaleas drinking pale moonbeams
+Gardenias floating through daydreams
+Wherever it may grow
+No matter where you go
+A flower is a lovesome thing
+A flower is a lovesome thing
 */
 }
 </file>
@@ -5665,12 +6094,39 @@ Chord
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Fly me to the moon
+Let me play among the stars
+Let me see what spring is like
+On Jupiter and Mars
+In other words, hold my hand
+In other words, darling, kiss me
+Fill my life with song
+And let me sing for ever more
+You are all I long for
+All I worship and adore
+In other words, please be true
+In other words, I love you
+Fly me to the moon
+Let me play among the stars
+Let me see what spring is like
+On Jupiter and Mars
+In other words, hold my hand
+In other words, darling, kiss me
+Fill my life with song
+Let me sing for ever more
+All I worship and adore
+You are all I long for
+In other words, please be true
+In other words, in other words
+In other words, in other words
+In other words
+I love you
 */
 }
 </file>
@@ -5699,12 +6155,71 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+The angel's called you
+To leave this land
+My work is finished
+My work is finished
+The angel's command
+I'll come to join you
+Reach out your hand
+And I'll be flying home
+Straight into your arms
+And I'll be flying home
+Carry me on
+Carry me on
+And I'm flying home
+The angel's called me
+To shut the door
+We're almost touching
+Almost touching
+Just one minute more
+I'll hear you call me
+Just like before
+And I'll be flying home
+Straight into your arms
+And I'll be flying home
+Carry me on
+Carry me on
+And I'm flying home
+Carry me on
+Speak my name
+And I'll rise into the sky
+Carry me on
+And I'll taste the heavens
+Carry me on
+And my shame and my fear
+Will pass me by
+I'm rising, rising
+Say the words
+And I'll lift into the air
+Carry me on
+And I'll stay forever
+I'm ready Father
+Take my hand
+I'm ready Father
+To fly, to fly
+Fly
+I'm flying home
+Straight into your arms
+I'm flying home,
+Carry me on
+Carry me on
+Carry me on
+Carry me on
+Carry me on
+Carry me on
+I'm flying, how high I'm flying, home
+Straight into your arms
+I'm flying how
+Carry me on
+Carry me on
+And I'm flying home
 */
 }
 </file>
@@ -5748,12 +6263,30 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/PmG9jMnY_XY"
 }
 
 Lyrics
 {
 /*
+A foggy day in London Town
+Had me low and had me down
+I viewed the morning with such alarm
+British Museum had lost its charm
+How long, I wondered, could this thing last?
+But the age of miracles hadn't passed
+For, suddenly, I saw you there
+And through foggy London Town
+The sun was shining everywhere
+A foggy day in London Town
+Had me low and had me down
+I viewed the morning with such alarm
+The old British Museum had lost its charm
+How long, I wondered, could this thing last?
+But the age of miracles hadn't passed
+For, suddenly, I saw you there
+And in a foggy London Town
+The sun was shining everywhere
 */
 }
 </file>
@@ -5783,12 +6316,36 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Thousands of years before history recorded
+Deep in the jungle, a woman stepped on wet clay
+And the print remained there
+Future reminder of ages ago
+
+Many lives later a traveler crossed the same path
+Under the vines he saw traces of that footprint
+Silent testimony
+Spiritual journey begun long ago
+
+Eons of changes, illusion of some progress
+Fearfulness leading us further from the soul power
+Known in early ages
+When nature’s heartbeat rang loud on the earth
+
+The key to our freedom lies not just in our thinking
+The ancient intuition that’s buried deep within us
+Is waiting to be set free
+The creator’s gift to her children must flow
+
+We call on the past now to show us where to go
+We’re closer to then than we may want to show
+We’re closer to then than we may really know
+Footprints, ancient footprints
 */
 }
 </file>
@@ -5816,12 +6373,30 @@ Misc
 
 Link
 {
-	""
+  "https://youtu.be/0fHNLeiaClY"
 }
 
 Lyrics
 {
 /*
+For heavens sake let's fall in love
+It's no mistake to call it love
+An angel's holding hands with me
+How heavenly heaven can be
+
+Here is romance for us to try
+Here is a chance we can't deny
+While heaven's giving us the break
+Let's fall in love for heaven's sake
+Don't say a word my darling
+Don't break the spell like this
+Just hold me tight; we're alone in the night
+And heaven is here with a kiss
+
+This pair of eyes can see a star
+So paradise can't be so far
+Since heaven's what we're dreaming of
+For heavens sake, let's fall in love
 */
 }
 </file>
@@ -5849,7 +6424,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -5884,12 +6459,37 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Of the wonderful things that you get out of life there are four.
+And they may not be many but nobody needs any more.
+Of the many facts making the list of life,
+Truth takes the lead.
+And to relax knowing the gist of life,
+It's truth you need.
+Then the second is honor and happiness makes number three.
+When you put them together you know what the last one must be.
+Baby so truth, honor and happiness
+And one thing more,
+Meaning only wonderful, wonderful love that'll make four.
+Of the wonderful things that you get out of life there are four.
+And they may not be many but nobody needs any more.
+Of the many facts making the list of life,
+Truth takes the lead.
+And to relax knowing the gist of life,
+It's truth you need.
+Then the second is honor and happiness makes number three.
+When you put them together you know what the last one must be.
+Baby so truth, honor and happiness
+And one thing more,
+Meaning love and that's the real score and more than enough when times are tough and poor.
+They may not comprise a lot
+Still (you) only got those four.
+And there ain't no more.
 */
 }
 </file>
@@ -5928,12 +6528,38 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Take a seat and cool it 'cause unless you overrule it
+We are ready to show you some blowin'
+A rompin' and a stompin' is a lot of fun
+Four brothers who are blowin' our horns
+
+So settle down an' listen 'cause you don't know what you're missin'
+And we're ready to give you a showin'
+A movin' it 'n groovin' it has just begun
+Four brothers who are blowin' our horns
+
+We got a little message that you're gonna enjoy
+Ain't no sense in dodgin' the facts
+So settle in your easy chair an' if you ever had a care - forget it
+It's time to relax
+
+You might as well admit it, we're the best that ever did it
+But in case you ain't too sure o' knowin'
+We're gonna let you listen to us one by one
+Four brothers who are blowin' our horns
+
+How'd ya do, I'm talkin' about you
+It's very nice to know that you have really taken time to listen to me blow
+'Cause as sure as I'm born, I'm blowin' my horn
+Listen't'me baby, I'm blowin', zootin' it up
+And I hope you dig the sounds I'm makin' more'n any other
+Now I must go for it's time for you to listen to my other brother
 */
 }
 </file>
@@ -5969,7 +6595,7 @@ Lyrics
 
 Link
 {
-	""
+  "https://youtu.be/BqLDTKun4so"
 }
 
 Lyrics
@@ -5997,7 +6623,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -6026,7 +6652,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -6054,7 +6680,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -6097,12 +6723,30 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/ImYVaRncIYM"
 }
 
 Lyrics
 {
 /*
+I don't want french fried potatoes, red ripe tomatoes
+I'm never satisfied
+I want the frim fram sauce
+With oss-en-fay with sha fafa on the side
+I don't want pork chops and bacon
+That won't awaken, my appetite inside
+I want the frim fram sauce
+With oss-en-fay with sha fafa on the side
+Well you know a girl
+She really got to eat
+And a girl she should eat right
+Five will get you ten
+I'm going to feed myself right tonight
+I don't want fish cakes and rye bread
+You heard what I said
+Waiter please, I want mine fried
+I want the frim fram sauce
+With oss-en-fay with sha fafa on the side
 */
 }
 </file>
@@ -6142,12 +6786,32 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+From this moment on you for me dear
+Only two for tea dear from this moment on
+From this happy day no more blue songs
+Only hoopty-do songs from this moment on
+For you got the love I need so much
+Got the skin that I love to touch
+Got the arms to hold me tight
+Got the sweet lips to kiss me good night
+Oh oh, from this moment on, you and I babe
+We'll be riding high babe
+Every care is gone
+From this moment on
+For you got the love I need so much
+Got the skin that I love to touch
+Got the arms to hold me tight
+Got the sweet lips to kiss me good night
+Oh oh, from this moment on, you and I babe
+We'll be riding high babe
+Every care is gone
+From this moment on
 */
 }
 </file>
@@ -6176,7 +6840,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -6205,7 +6869,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -6237,7 +6901,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -6276,7 +6940,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -6309,7 +6973,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -6350,12 +7014,30 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+We both are lost
+And alone in the world
+Walk with me
+In the gentle rain
+Don't be afraid, I've a hand
+For your hand and i
+Will be your love for a while
+I feel your tears as they fall
+On my cheek
+They are warm like gentle rain
+Come little one you have me in the
+World and our love will be sweet
+Very sweet
+Our love will
+Be sweet very sad
+Very sweet like gentle rain
+Like the gentle rain
+Like the gentle rain
 */
 }
 </file>
@@ -6389,12 +7071,40 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Georgia, Georgia
+The whole day through
+Just an old sweet song
+Keeps Georgia on my mind (Georgia on my mind)
+I said Georgia
+Georgia
+A song of you
+Comes as sweet and clear
+As moonlight through the pines
+Other arms reach out to me
+Other eyes smile tenderly
+Still in peaceful dreams I see
+The road leads back to you
+I said Georgia
+Ooh Georgia, no peace I find
+Just an old sweet song
+Keeps Georgia on my mind (Georgia on my mind)
+Other arms reach out to me
+Other eyes smile tenderly
+Still in peaceful dreams I see
+The road leads back to you
+Whoa, Georgia
+Georgia
+No peace, no peace I find
+Just this old, sweet song
+Keeps Georgia on my mind
+I said just an old sweet song
+Keeps Georgia on my mind
 */
 }
 </file>
@@ -6423,7 +7133,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -6492,12 +7202,32 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I love you oh so madly
+I need your love so badly
+But I don't stand a
+Ghost of a chance with you
+
+I thought at last I had found you
+But other arms surround you
+And I don't stand a
+Ghost of a chance with you
+
+If you'd surrender just for
+A tender kiss or two
+You might discover that
+I'm the lover meant for you
+And I'd be true
+
+So what's the good of all my scheming?
+I know I must be dreaming
+For I don't stand a
+Ghost of a chance with you
 */
 }
 </file>
@@ -6541,7 +7271,7 @@ Lyrics
 
 Link
 {
-	""
+  "https://youtu.be/30FTr6G53VU"
 }
 
 Lyrics
@@ -6585,12 +7315,33 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+No strings have pearls in a velvet glove
+The thing I long for is the gift of love
+No ring of gold but a dream to unfold
+When all the stars have flown and we're alone
+The gift of love is a precious thing
+A touch of magic on a day in spring
+The golden dream every dreamer pursues
+Remember darling never refuse the gift of love
+For love can be a melody that lingers
+Or slip like April wine right through your fingers
+So kiss me sweet till our secret star
+Illuminates the way to Shangrila
+Whatever fate may befall all I know
+Is that the gift of love is the greatest gift of all
+For love can be a melody that lingers
+Or slip like April wine right through your fingers
+So kiss me sweet till our secret star
+Illuminates the way to Shangrila
+Whatever fate may befall all I know
+Is that the gift of love is the greatest gift of all
+What a ball, that's all
 */
 }
 </file>
@@ -6643,7 +7394,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -6713,7 +7464,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Girl Talk>
@@ -6735,12 +7486,33 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+They like to chat about the dresses they will wear tonight
+They chew the fat about their tresses and the neighbor's fight;
+Inconsequential things that men don't really care to know
+Become essential things that women find so ap-pro-pos --
+But that's a dame, they're all the same it's just a game they call it
+Girl talk, girl talk
+
+They all meow about the ups and downs of all their friends
+The who, the how, the why -- they dish the dirt, it never ends
+The weaker sex, the "speaker" sex we mortal males behold
+But though we joke, we wouldn't trade you for a ton of gold
+
+First time:
+So baby stay and gab away, but hear me say that after
+Girl talk, talk to me
+So baby stay, and gab away, but hear me say
+That after girl talk, talk to me
+
+Last time:
+It's all been planned, so take my hand; please understand
+The sweetest girl talk talks of me
 */
 }
 </file>
@@ -6767,7 +7539,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -6808,12 +7580,37 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Them that's got shall have
+Them that's not shall lose
+So the Bible said and it still is news
+Mama may have, Papa may have
+But God bless the child that's got his own
+That's got his own
+
+Yes, the strong gets more
+While the weak ones fade
+Empty pockets don't ever make the grade
+Mama may have, Papa may have
+But God bless the child that's got his own
+That's got his own
+
+Money, you've got lots of friends
+Crowding round the door
+When you're gone, spending ends
+They don't come no more
+Rich relations give
+Crust of bread and such
+You can help yourself
+But don't take too much
+Mama may have, Papa may have
+But God bless the child that's got his own
+That's got his own
 */
 }
 </file>
@@ -6849,7 +7646,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -6887,12 +7684,28 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Gone With the Wind
+Just like a leaf that has flown away
+Gone with the wind
+My romance has blown away
+Yesterday's kisses are still on my lips
+I've had a lifetime of heaven at my fingertips
+
+But now all-all is gone
+Gone is the rapture that fills my heart
+Gone with the Wind
+My romance has flown apart
+
+Just like a flame
+Love burned brightly, then became
+An empty smoke ring that has gone
+Gone with the Wind
 */
 }
 </file>
@@ -6928,7 +7741,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -6970,7 +7783,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7008,7 +7821,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7037,7 +7850,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7074,7 +7887,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7158,18 +7971,12 @@ Lyrics
   memories | live in my | heart | |
 
   When I recall | the love I | found on |
-  I could kiss the | ground on | Green Dolphin | Street
+  I could kiss the | ground on | Green Dolphin | Street |
 }
 
 Link
 {
-	""
-}
-
-Lyrics
-{
-/*
-*/
+  ""
 }
 </file>
 <file name=The Green Mountains>
@@ -7193,7 +8000,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7268,7 +8075,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Gregory Is Here>
@@ -7299,7 +8106,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7333,7 +8140,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7367,7 +8174,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7402,7 +8209,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7431,12 +8238,66 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+When you're alone and life is making you lonely
+You can always go downtown
+When you got worries, all the noise and the hurry
+Seems to help, I know, downtown
+Just listen to the music of the traffic in the city
+Linger on the sidewalks where the neon signs are pretty
+How can you lose?
+The lights are much brighter there
+You can forget all your troubles, forget all your cares
+
+And go downtown
+Things'll be great when you're downtown
+No finer place for sure, downtown
+Everything's waiting for you
+
+Don't hang around and let your problems surround you
+There are movie shows, downtown
+Or maybe you know some little places to go to
+Where they never close, downtown
+
+Just listen to the rhythm of the music that they're playin'
+Making conversation while you're on the dance floor swayin'
+Happy again
+The lights are much brighter there
+You can forget all your troubles, forget all your cares
+
+And go downtown
+Where all the lights are bright, downtown
+Waiting for you tonight, downtown
+You're gonna be alright now
+
+And you may find somebody kind to help and understand you
+Someone who is just like you and needs a gentle hand to
+guide them along
+So maybe I'll see you there
+You can forget all your troubles
+Just forget all your cares
+
+And go downtown
+Things'll be great when you're downtown
+Don't wait a minute more, downtown
+Everything's waiting for you
+
+Downtown, where all the lights are bright
+Downtown, waiting for you tonight
+Downtown, you're going to be alright now
+Get on, get on, get on downtown
+
+Fade:
+
+Downtown, where all the lights are bright
+Downtown, waiting for you tonight
+Downtown, you're going to be alright now
+Get on, get on, get on downtown
 */
 }
 </file>
@@ -7470,7 +8331,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7515,7 +8376,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7551,7 +8412,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7605,12 +8466,50 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Happy talk, keep talking happy talk
+Talk about things you like to do
+You got to have a dream, if you don't have a dream
+How you gonna have a dream come true?
+
+Talk about the moon, floating in de sky
+Looking like a lily on a lake
+Talk about a bird, learning how to fly
+Making all the music he can make
+
+Happy talk, keep talking happy talk
+Talk about things you like to do
+You got to have a dream, if you don't have a dream
+How you gonna have a dream come true?
+
+Talk about the star, looking like a toy
+Peeking through de branches of a tree
+Talk about de girl, talk about da boy
+Counting all de ripples on da sea
+
+Happy talk, keep talking happy talk
+Talk about things you like to do
+You got to have a dream, if you don't have a dream
+How you gonna have a dream come true?
+
+Talk about a boy, saying to de girl:
+"Golly, baby, I'm a lucky cuss"
+Talk about de girl, saying to da boy:
+"You an' me is lucky to be us!"
+
+Happy talk, keep talking happy talk
+Talk about things you like to do
+You got to have a dream, if you don't have a dream
+How you gonna have a dream come true?
+
+If you don't talk happy
+And you never dream
+Then you'll never have a dream come true
 */
 }
 </file>
@@ -7665,7 +8564,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Harlem Nocturne>
@@ -7698,12 +8597,43 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+A nocturne for the blues 
+Played on a broken heart string
+It's wailing out the news 
+My baby is gone from me
+Dark shadows in the rain
+A telephone that won't ring
+Just memories remain
+Of lovers that used to be
+I miss the laughs and the fun 
+My spot in the sun
+When I was the one, one and only
+The music and lights
+Those wonderful nights
+The morning is the time we'd kiss
+The laughs and the fun, 
+My days in the sun
+They're over and done and I'm lonely
+Don't ask me to hide 
+The heartbreak inside
+The gleaming spark is gone, the light went dark
+This nocturne for the blues 
+Took all and left me nothing
+Nothing but the blues 
+Till baby comes back to me
+This nocturne for the blues 
+Took all and left me nothing
+Nothing but the blues 
+Till baby comes back to me
+Till baby comes back to me
+Till my one and only baby comes back to me
+I'll sing a Harlem nocturne
 */
 }
 </file>
@@ -7764,7 +8694,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/pICotGMudJw"
 }
 
 Lyrics
@@ -7836,7 +8766,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7867,7 +8797,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7893,7 +8823,7 @@ Chord
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -7938,12 +8868,58 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+ANNA
+When I think of Tom.
+I think of a night,
+When the earth smelled of summer
+And the sky was streaked with white,
+The soft mist of England
+Was sleeping on a hill.
+I remember this,
+And I always will...
+There are new lovers now
+On the same silent hill,
+Looking on the same blue sea.
+And I know Tom and I are a part of them all --
+And they're all a part of Tom an me.
+Hello young lovers, whoever you are,
+I hope your troubles are few.
+All my good wishes go with you tonight,
+I've been in love like you.
+Be brave, young lovers, and follow your star,
+Be brave and faithful and true,
+Cling very close to each other tonight.
+I've been in love like you.
+I know how it feels to have wings on your heels,
+And to fly down the street in a trance.
+You fly down a street on the chance that you meet,
+And you meet -- not really by chance.
+Don't cry young lovers, whatever you do,
+Don't cry because I'm alone;
+All of my memories are happy tonight,
+I've had a love of my own.
+I've had a love of my own, like yours-
+I've had a love of my own.
+Be brave, young lovers, and follow your star,
+Be brave and faithful and true,
+Cling very close to each other tonight.
+I've been in love like you.
+I know how it feels to have wings on your heels,
+And to fly down the street in a trance.
+You fly down a street on the chance that you meet,
+And you meet -- not really by chance.
+Don't cry young lovers, whatever you do,
+Don't cry because I'm alone;
+All of my memories are happy tonight,
+I've had a love of my own.
+I've had a love of my own, like yours-
+I've had a love of my own.
 */
 }
 </file>
@@ -7976,12 +8952,33 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Maybe
+I should have saved
+Those leftover dreams
+Funny
+But here's that rainy day
+Here's that rainy day
+They told me about
+And I laughed at the thought
+That it might turn out this way
+Where is that worn out wish
+That I threw aside
+After it brought my love so near
+Funny how love becomes
+A cold rainy day
+Funny
+That rainy day is here
+It's funny
+How love becomes
+A cold rainy day
+Funny
+That rainy day is here
 */
 }
 </file>
@@ -8012,7 +9009,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8047,7 +9044,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8083,7 +9080,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8118,7 +9115,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8154,7 +9151,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8205,7 +9202,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8256,12 +9253,38 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Every honey bee fills with jealousy
+When they see you out with me
+Goodness knows
+You're my honeysuckle rose
+When you're passin' by flowers droop and sigh
+And I know the reason why
+Goodness knows
+You're my honeysuckle rose
+Don't buy sugar
+You just have to touch my cup
+You're my sugar
+It's sweeter when you stir it up
+When I'm taking sips from your tasty lips
+Seems the honey fairly drips
+Goodness knows
+You're my honeysuckle rose
+Goodness knows
+You're my honeysuckle rose
+Don't buy sugar
+You just have to touch my cup
+You're my sugar
+It's sweeter when you stir it up
+When I'm taking sips from your tasty lips
+Seems the honey fairly drips
+Goodness knows
+You're my honeysuckle rose
 */
 }
 </file>
@@ -8288,7 +9311,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8321,7 +9344,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8361,12 +9384,34 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+When a girl meets boy
+Life can be a joy
+But the note they end on
+Will depend on little pleasures they will share
+So let us compare
+I like New York in June, how about you?
+I like a Gershwin tune, how about you?
+I love a fireside when a storm is due
+I like potato chips, moonlight and motor trips
+How about you?
+I'm mad about good books, can't get my fill
+And Franklin Roosevelt's looks give me a thrill
+Holding hands in the movie show
+When all the lights are low
+May not be new, but I like it
+How about you?
+I love to dream of fame, maybe I'll shine
+I'd like to see your name right beside mine
+I can see we're in harmony
+Looks like we both agree
+On what to do
+And I like it, how about you?
 */
 }
 </file>
@@ -8397,12 +9442,28 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+How much do I love you? 
+I'll tell you no lie 
+How deep is the ocean? 
+How high is the sky? 
+How many times in a day 
+Do I think of you? 
+How many roses are 
+Sprinkled with dew?
+How far would I travel 
+Just to be where you are? 
+How far is the journey 
+From here to a star? 
+And if I ever lost you 
+How much would I cry? 
+How deep is the ocean? 
+How high is the sky?
 */
 }
 </file>
@@ -8475,7 +9536,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8513,12 +9574,36 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Somewhere there's music
+How faint the tune
+Somewhere there's heaven
+How high the moon
+There is no moon above
+When love is far away too
+Till it comes true
+That you love me as i love you
+Somewhere there's music
+How near, how far
+Somewhere there's heaven
+It's where you are
+The darkest night would shine
+If you would come to me soon
+Until you will, how still my heart
+How high the moon
+Somewhere there's music
+How faint the tune
+Somewhere there's heaven
+How high the moon
+The darkest night would shine
+If you would come to me soon
+Until you will, how still my heart
+How high the moon
 */
 }
 </file>
@@ -8563,12 +9648,44 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+As a tot, when I trotted in little velvet panties,
+I was kissed by my sisters, my cousins, and my aunties.
+Sad to tell, it was hell, an inferno worse than Dante's.
+So my dear I swore,
+"Never, never more!"
+On my list, I insisted that kissing must be crossed out.
+Now, I find I was blind, and oh my, how I lost out!
+I could cry salty tears;
+Where have I been all these years?
+Little wow, tell me now:
+How long has this been going on?
+There were chills up my spine,
+And some thrills I can't define.
+Listen, sweet, I repeat:
+how long has this been going on?
+Oh, I feel that I could melt;
+Into Heaven I'm hurled!
+I know how Columbus felt,
+Finding another world.
+Kiss me once, then once more.
+What a dunce I was before.
+What a break! For Heaven's sake!
+How long has this been going on?
+Dear, when in your arms I creep,
+That divine rendezvous,
+Don't wake me, if I'm asleep,
+Let me dream that it's true!
+Kiss me twice, then once more.
+That makes thrice, let's make it four!
+What a break! For Heaven's sake!
+How long has this been going on?
+How long has this, been going, on?
 */
 }
 </file>
@@ -8601,7 +9718,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8633,7 +9750,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8661,7 +9778,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8696,7 +9813,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8743,12 +9860,66 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Time goes by
+And I've been holding everything inside
+But now I've got nothing left to hide
+When I'm with you, oh, you
+But I can see
+How strong a man I'm gonna have to be
+To do for you what comes so naturally
+It's in the way you move
+And all I want
+Is a chance to prove
+Show all I can do
+I believe in starting over
+I can see that your heart is true
+I believe in good things coming back to you
+You're the light that lifts me higher
+So bright, you guide me through
+I believe in you
+And I don't mind
+If you want to hold onto me tight
+You don't have to sleep alone tonight
+If you don't want to
+And all I want
+Is to know you're near
+You're all I need here
+I believe in starting over
+I can see that your heart is true
+I believe in good things coming back to you
+You're the light that lifts me higher
+So bright, you guide me through
+I believe in you
+I know that there are times
+When you feel worthless
+Like all the love you get
+You don't deserve it
+Sometimes I feel my faith is just a burden
+On you, you, you
+I believe in starting over
+I can see your heart is true
+I believe in love
+You give me reason to
+You're the light that lifts me higher
+So high up in the sky
+I, I think we're gonna fly
+I believe in starting over
+I can see that your heart is true
+I believe in love
+You give me reason to
+You're the light that lifts me higher
+So bright, you guide me through
+I believe in you
+I believe in you
+I believe in you
+You guide me through
+I believe in you
 */
 }
 </file>
@@ -8784,12 +9955,32 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I've flown around the world in a plane
+I've settled revolutions in Spain
+The North Pole I have charted, but I can't get
+Started with you
+Around the golf course I'm under par
+And all the movies want me to star
+I've got a house, a show place, but I get no
+Place with you
+You're so supreme, lyrics I write of you
+Scheme, just for a sight of you
+Dream, both day and night of you
+And what good does it do?
+In 1929 I sold short
+In England I'm presented at court
+But you've got me downhearted, cause I can't get
+Started with you
+You're so supreme, lyrics I write of you
+Scheme, just for a sight of you
+Dream, both day and night of you
+And what good does it do?
 */
 }
 </file>
@@ -8824,12 +10015,48 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Gee, but it's tough to be broke, kid.
+It's not a joke, kid, it's a curse.
+My luck is changing, it's gotten from 
+simply rotten to something worse
+Who knows, some day I will win too. 
+I'll begin to reach my prime.
+Now though I see what our end is,
+All I can spend is just my time.
+I can't give you anything but love, baby.
+That's the only thing I've plenty of, baby.
+Dream awhile, scheme awhile
+We're sure to find
+Happiness and I guess
+All those things you've always pined for.
+Gee I'd like to see you looking swell, baby.
+Diamond bracelets Woolworth doesn't sell, baby.
+Till that lucky day you know darned well, baby.
+I can't give you anything but love.
+Rome wasn't built in a day, kid.
+You have to pay, kid, for what you get.
+But I am willing to wait, dear, 
+Your little mate, dear, will not forget.
+You have a lifetime before you.
+I'll adore you, come what may.
+Please don't be blue for the present, 
+When it's so pleasant to hear you say
+I can't give you anything but love, baby.
+That's the only thing I've plenty of, baby.
+Dream awhile, scheme awhile
+We're sure to find
+Happiness and I guess
+All those things you've always pined for.
+Gee I'd like to see you looking swell, baby.
+Diamond bracelets Woolworth doesn't sell, baby.
+Till that lucky day you know darned well, baby.
+I can't give you anything but love.
 */
 }
 </file>
@@ -8872,12 +10099,28 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Whenever skies look gray to me
+And trouble begins to brew,
+Whenever the Winter winds become too strong,
+I concentrate on you.
+When fortune cries "Nay! Nay!" to me
+And people declare "You're through!",
+Whenever the blues become my only song,
+I concentrate on you.
+On your smile so sweet, so tender,
+When at first your kiss I decline.
+On the light in your eyes when I surrender,
+And once again our arms intertwine
+And so, when wise men say to me
+That love's young dream never comes true,
+To prove that even wise men can be wrong,
+I concentrate on you.
 */
 }
 </file>
@@ -8929,7 +10172,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -8969,12 +10212,47 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Once I was young
+Yesterday, perhaps
+Danced with Jim and Paul
+And kissed some other chaps
+Once I was young
+But never was naive
+I thought I had a trick or two
+Up my imaginary sleeve
+And now I know I was naive
+I didn't know what time it was
+Then I met you
+Oh, what a lovely time it was
+How sublime it was too
+I didn't know what day it was
+You held my hand
+Warm like the month of May it was
+And I'll say it was grand
+Grand to be alive, to be young
+To be mad, to be yours alone
+Grand to see your face, feel your touch
+Hear your voice say, "I'm all your own"
+I didn't know what year it was
+Life was no prize
+I wanted love and here it was
+Shining out of your eyes
+I'm wise and I know what time it is now
+Grand to be alive, to be young
+To be mad, to be yours alone
+Grand to see your face, feel your touch
+Hear your voice say, "I'm all your own"
+I didn't know what year it was
+Life was no prize
+I wanted love and here it was
+Shining out of your eyes
+I'm wise and I know what time it is now
 */
 }
 </file>
@@ -9038,7 +10316,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -9068,12 +10346,24 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I fall in love too easily
+I fall in love too fast
+I fall in love too terribly hard 
+For love to ever last
+My heart should be well schooled
+'Cause I've been fooled in the past
+But still I fall in love so easily 
+I fall in love too fast
+My heart should be well schooled
+'Cause I've been fooled in the past
+But still I fall in love too easily
+I fall in love too fast
 */
 }
 </file>
@@ -9109,12 +10399,28 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+My baby ever treats me sweet and gentle the way he should;
+I got it bad and that ain't good!
+My poor heart is sentimental not made of wood
+I got it bad and that ain't good!
+But when the weekend's over and Monday rolls aroun'
+I end up like I start out just cryin' my heart out
+He don't love me like I love him nobody could
+I got it bad and that ain't good!
+Like a lonely weeping willow lost in the wood
+I got it bad and that ain't good!
+And the things I tell my pillow no woman should
+I got it bad and that ain't good!
+Tho folks with good intentions tell me to save my tears
+I'm glad I'm mad about him I can't live without him
+Lord above me make him love me the way he should
+I got it bad and that ain't good!
 */
 }
 </file>
@@ -9160,12 +10466,45 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I got rhythm
+I got music
+I got my gal
+Who could ask for anything more?
+I got daisies
+In green pastures
+I got my gal
+Who could ask for anything more?
+Old Man Trouble
+I don't mind him
+You won't find him 'round my door
+I got rhythm
+I got music
+I got my gal
+Who could ask for anything more ?
+Who could ask for anything more ?
+
+J'ai du rhythme
+J'ai du musique
+J'ai ma chérie
+Who could ask for anything more ?
+J'ai de daisies
+J'ai green pastures
+J'ai ma chérie
+Old Man Trouble
+I don't mind him
+You won't find him
+Hangin' 'round my door
+I got rhythm
+I got music
+I got my gal
+Who could ask for anything more ?
+Who could ask for anything more ?
 */
 }
 </file>
@@ -9198,12 +10537,20 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+And when I hear you call so softly to me
+I don't hear a call at all, I hear a rhapsody
+And when your sparkling eyes are smiling at me
+Then soft through the starlit skies, I hear a rhapsody
+My days are so blue when you're away
+My heart longs for you, so won't you stay?
+My darling, hold me tight and whisper to me
+Then soft through the starry night I hear a rhapsody
 */
 }
 </file>
@@ -9240,12 +10587,28 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I hear music, mighty fine music
+The murmur of a morning breeze up there
+The rattle of the milkman on the stair
+Sure that's music, mighty fine music
+The singing of a sparrow in the sky
+The perking of the coffee right nearby
+That's my favorite melody
+You, my angel, phoning me
+I hear music, mighty fine music
+And anytime I think my world is wrong
+I get me out of bed and sing this song
+That's my favorite melody
+You, my angel, phoning me
+I hear music, mighty fine music
+And anytime I think my world is wrong
+I get me out of bed and sing this crazy song
 */
 }
 </file>
@@ -9288,12 +10651,51 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+No New Year's Day to celebrate
+No chocolate covered candy hearts to give away
+No first of spring
+No song to sing
+In fact here's just another ordinary day
+No April rain
+No flowers bloom
+No wedding Saturday within the month of June
+But what it is, is something true
+Made up of these three words that I must say to you
+I just called to say I love you
+I just called to say how much I care
+I just called to say I love you
+And I mean it from the bottom of my heart
+No summer's high
+No warm July
+No harvest moon to light one tender August night
+No autumn breeze
+No falling leaves
+Not even time for birds to fly to southern skies
+No Libra sun
+No Halloween
+No giving thanks to all the Christmas joy you bring
+But what it is, though old so new
+To fill your heart like no three words could ever do
+I just called to say I love you
+I just called to say how much I care, I do
+I just called to say I love you
+And I mean it from the bottom of my heart
+I just called to say I love you
+I just called to say how much I care, I do
+I just called to say I love you
+And I mean it from the bottom of my heart, of my heart,
+Of my heart
+I just called to say I love you
+I just called to say how much I care, I do
+I just called to say I love you
+And I mean it from the bottom of my heart, of my heart,
+Baby of my heart
 */
 }
 </file>
@@ -9353,7 +10755,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -9395,12 +10797,33 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I love you come the April breeze
+I love you echoes the hills
+I love you the golden dawn agrees
+As once more she sees daffodils
+It's spring again
+And birds on the wing again
+Start to sing again
+The old melody
+I love you
+That's song of songs
+And it all belongs to you and me
+It's spring again
+And birds on the wing again
+Start to sing again
+The old melody
+I love you
+That's the song of songs
+And it all belongs to you and me
+
+https://www.letssingit.com/frank-sinatra-lyrics-i-love-you-by-cole-porter-hw4kh93
+LetsSingIt - The Internet Lyrics Database
 */
 }
 </file>
@@ -9431,12 +10854,40 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I loves you, Porgy
+Don't let him take me
+Don't let him handle me and drive me mad
+If you can keep me
+I wanna stay here with you forever and I'll be glad
+Yes, I loves you, Porgy
+Don't let him take me
+Don't let him handle me with his hot hands
+If you can keep me
+I wants to stay here with you forever
+I've got my man
+I love you, Porgy
+Don't let him take me
+Don't let him handle me and drive me mad
+If you can keep me
+I wanna stay here with you forever
+I've got my man
+Someday I know he's coming to call me
+He's going to handle me and hold me soon
+He's going to be like dying, Porgy
+When he calls me
+But when he comes I know I'll have to go
+I love you, Porgy
+Don't let him take me
+Honey, don't let him handle me and drive me mad
+If you can keep me
+I wanna stay here with you forever
+I've got my man
 */
 }
 </file>
@@ -9468,7 +10919,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -9520,7 +10971,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -9561,12 +11012,45 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Was it in Tahiti?
+Were we on the Nile?
+Long, long ago
+Singing our, our song
+I recall that I saw you smile
+I remember you
+You're the one who made my dreams come true
+A few kisses ago
+I remember you
+You're the one who said
+I love you too
+Didn't you know
+I remember too a distant bell
+And stars that fell
+Like rain out of the blue
+When my life is through
+And the angels ask me
+To recall
+The thrill of them all
+Then I shall tell them
+I remember You
+I remember too a distant bell
+And stars that fell 
+Like rain out of the blue
+When my life is through
+And the angels ask me
+To recall
+The thrill of them all
+Then I shall tell them
+I remember you
+If they should ask
+I'll gladly tell them
+I remember you
 */
 }
 </file>
@@ -9600,12 +11084,32 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I know I should pity me
+But I don't because, you see
+I have loved and I have learned
+And as far as I'm concerned
+I should care
+I should go around weeping
+I should care
+I should go without sleeping
+Strangely enough I sleep well
+'Cept for a dream or two
+But, then, I count my sheep well
+Funny how sheep can tell you to sleep, so
+I should care
+I should let it upset me
+I should care
+But it just doesn't get me
+Maybe I should find
+Someone as lovely as you
+But I should care
+And I do
 */
 }
 </file>
@@ -9636,12 +11140,39 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Seems that I read or somebody said
+That out of sight is out of mind
+Maybe that's so but I tried to go
+And leave you behind
+What did I find?
+
+I took a trip on a train
+And I thought about you
+I passed a shadowy lane
+And I thought about you
+
+Two or three cars parked under the stars
+A winding stream
+Moon shining down on some little town
+And with each beam
+Same old dream
+
+At every stop that we made
+Oh I thought about you
+But when I pulled down the shade
+Then I really felt blue
+
+I peeked through the crack and looked at the track
+The one going back to you and what did I do?
+I leave it to you
+Oh what did I do?
+I thought about you
 */
 }
 </file>
@@ -9671,7 +11202,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -9709,12 +11240,36 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I wish you bluebirds in the spring 
+To give your heart a song to sing
+And then a kiss but more than this
+I wish you love
+And in July a lemonade 
+To cool you in some leafy glade
+I wish you health and more than wealth
+I wish you love
+My breaking heart and I agree 
+That you and I could never be
+So with my best, my very best
+I set you free
+I wish you shelter from the storm
+A cozy fire to keep you warm
+But most of all when snowflakes fall
+I wish you love
+My breaking heart and I agree t
+Hat you and I could never be
+So with my best, my very best
+I set you free
+I wish you shelter from the storm
+A cozy fire to keep you warm
+But most of all when snowflakes fall
+I wish you love
 */
 }
 </file>
@@ -9744,12 +11299,29 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I'll be around no matter how you treat me now
+I'll be around from now on
+Your latest love can never last
+And when it's past, I'll be around when he's gone
+Goodbye again and if you find a love like mine
+Just now and then drop a line
+To say you're feeling fine
+And when things go wrong
+Perhaps you'll see you're meant for me
+So, I'll be around when he's gone
+Goodbye again
+Now and then 
+Drop a line 
+To say that you're feeling fine
+And when things go wrong
+Perhaps you'll see you're meant for me
+So, I'll be around when he's gone
 */
 }
 </file>
@@ -9787,7 +11359,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -9825,7 +11397,7 @@ Progression
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -9859,12 +11431,30 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I'll be seeing you
+In all the old familiar places
+That this heart of mine embraces
+All day and through
+In that small cafe
+The park across the way
+The children's carousel
+The chestnut trees, the wishing well
+I'll be seeing you
+In every lovely summer's day
+In everything that's light and gay
+I'll always think of you that way
+I'll find you in the morning sun
+And when the night is new
+I'll be looking at the moon
+But I'll be seeing you
+I'll be seeing you
+In every…
 */
 }
 </file>
@@ -9897,12 +11487,46 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Heaven sends 
+A song through its doors 
+Just as if it seems to know 
+I'm exclusively yours 
+Knowing this 
+I feel but one way 
+You will understand too 
+In these words that I say 
+I'll close my eyes 
+To everyone but you 
+And when I do 
+I'll see you standing there 
+Mmh, I'll lock my heart 
+To any other caress 
+I'll never say yes 
+To a new love affair 
+I'll close my eyes 
+To everything that's gay 
+If you're not there 
+To share each lovely day 
+And through the years 
+Those moments 
+When we're far apart 
+I close my eyes 
+Mmh, and see you with my heart
+I'll close my eyes
+To everything that's gay 
+But if you're not there 
+To share each lovely day 
+And through the years 
+Those moments 
+When we're far apart 
+I'll close my eyes 
+Oh, and see you with my heart
 */
 }
 </file>
@@ -9969,12 +11593,31 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+This lovely day will lengthen into evening, 
+We'll sigh good-bye to all we've ever had, 
+Alone where we have walked together, 
+I'll remember April and be glad
+I'll be content, you loved me once in April, 
+Your lips were warm, and love an' spring were new, 
+But I'm not afraid of autumn, and her sorrow, 
+For I'll remember, (I'll remember) 
+April and you! (I'll remember)
+The fire will dwindle into glowing ashes, 
+For flames and love live such a little while
+I won't forget, but I won't be lonely, (Oh, no) 
+I'll remember April, and I'll smile
+The fire will dwindle into glowing ashes, 
+For flames and love live such a little while (a little while)
+I won't forget, but I won't be lonely (I won't be lonely) 
+I'll remember April, and I'll smile
+I won't forget but I won't be lonely, no
+I'll remember April, and I'll smile!
 */
 }
 </file>
@@ -10019,12 +11662,31 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I'll take romance
+While my heart is young and eager to fly
+I'll give my heart a try
+I'll take romance
+I'll take romance
+While my arms are strong and eager for you
+I'll give my arms that cue
+I'll take romance
+So my lover when you want me call me
+In the hush of the evening
+When you call me in the hush of the evening
+I'll rush to my first real romance
+While my heart is young and eager and gay
+I'll give my heart away
+I'll take romance
+I'll take romance
+I'll take a chance
+I'll take romance!
+Romance
 */
 }
 </file>
@@ -10056,12 +11718,31 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I'm a fool to want you
+I'm a fool to want you
+To want a love that can't be true
+A love that's there for others too
+I'm a fool to hold you
+Such a fool to hold you
+To seek a kiss not mine alone
+To share a kiss the Devil has known
+Time and time again I said I'd leave you
+Time and time again I went away
+But then would come the time when I would need you
+And once again these words I'll have to say
+I'm a fool to want you
+Pity me, I need you
+I know it's wrong, it must be wrong
+But right or wrong I can't get along
+Without you
+I can't get along
+Without you
 */
 }
 </file>
@@ -10099,12 +11780,34 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I'm all smiles, darlin'
+You'd be too
+If you knew, darlin'
+All of the smiles were for you
+I'm all chills, darlin'
+Through and through
+But my cold hands, darlin'
+Warm to the touch of you
+Rain hasn't fallen for days now
+But rainbows are fillin' the skies
+My heart must have painted those rainbows
+Shinin' before my eyes
+Can't you tell that I'm in love, darlin'?
+Deep and true, with guess who, darlin'
+Someone I die for
+Beg steal or lie for
+Eat humble pie for
+Someone to fly
+To the sun, moon and sky for
+Someone to live for
+To love with and cry for
+And that someone is you
 */
 }
 </file>
@@ -10138,12 +11841,28 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I never cared much for moonlit skies
+I never wink back at fireflies
+But now that the stars are in your eyes
+I'm beginning to see the light
+I never went in for afterglow
+Or candlelight on the mistletoe
+But now when you turn the lamp down low
+I'm beginning to see the light
+Used to ramble through the park
+Shadowboxing in the dark
+Then you came and caused a spark
+That's a four-alarm fire now
+I never made love by lantern-shine
+I never saw rainbows in my wine
+But now that your lips are burning mine
+I'm beginning to see the light
 */
 }
 </file>
@@ -10173,7 +11892,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -10224,12 +11943,27 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Never thought I'd fall,
+But now I hear love call,
+I'm getting sentimental over you
+Things you say and do,
+Just thrill me through and through,
+I'm getting sentimental over you.
+I thought I was happy,
+I could live without love
+Now I must admit,
+Love is all I'm thinking of
+Won't you please be kind,
+And just make up your mind
+That you'll be sweet & gentle,
+Be gentle with me
+Because I'm sentimental over you
 */
 }
 </file>
@@ -10274,12 +12008,65 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Said I many times
+Love is allusion
+A feeling result of confusion
+With knowing smile
+And blase sigh
+A cynical so-and-so was I
+I feel so sure
+So positive
+So utterly unchangingly certain
+That I never was aware
+Of loving you
+'Til suddenly I realized
+There was love and you
+And I
+In this world
+Of ordinary people
+Extraordinary people
+I'm glad there is you
+In this world
+Of overrated pleasures
+Of underrated treasures
+I'm glad there is you
+I live to love
+I love to live with you
+Beside me
+Beside me
+Beside me
+This role so new
+I'll muddle through
+With you to guide me
+In this world
+Where many, many,
+Play at love
+And hardly any
+Stay in love
+I'm glad there is you
+More than ever
+I'm glad there is you
+I live to love
+I love to live
+With you beside me
+This role so new
+I'll muddle through
+With you to guide me
+In this world
+Where many, many
+Play at love
+Play at love
+And hardly any
+Stay in love
+I'm glad there is you
+More than ever
+I'm glad there is you
 */
 }
 </file>
@@ -10315,12 +12102,28 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I'm in the mood for love
+Simply because you're near me.
+Funny, but when you're near me
+I'm in the mood for love.
+Heaven is in your eyes
+Bright as the stars we're under
+Oh! Is it any wonder
+I'm in the mood for love?
+Why stop to think of whether
+This little dream might fade?
+We've put our hearts together
+Now we are one, I'm not afraid!
+If there's a cloud above
+If it should rain we'll let it
+But for tonight, forget it!
+I'm in the mood for love
 */
 }
 </file>
@@ -10366,6 +12169,25 @@ Link
 Lyrics
 {
 /*
+I am not such a clever one about the latest fads
+I admit I was never one adored by local lads
+Not that I ever tried to be a saint
+I'm the type that they classify as quaint
+I'm old fashioned, I love the moonlight
+I love the old fashioned things
+The sound of rain upon a window pane
+The starry song that April sings
+This years fancies are passing fancies
+But sighing sighs, holding hands
+These my heart understands
+I'm old fashioned but I don't mind it
+That's how I want to be
+As long as you agree
+To stay old fashioned with me.
+I'm old fashioned but I don't mind it
+That's how I want to be
+As long as you agree
+To stay old fashioned with me.
 */
 }
 </file>
@@ -10389,7 +12211,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -10424,7 +12246,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -10459,12 +12281,30 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I've got the world on a string, sittin' on a rainbow
+Got the string around my finger
+What a world, what a life, I'm in love!
+I've got a song that I sing
+I can make the rain go, anytime I move my finger
+Lucky me, can't you see, I'm in love
+Life is a beautiful thing, as long as I hold the string
+I'd be a silly so and so, if I should ever let go
+I've got the world on a string, sittin' on a rainbow
+Got the string around my finger
+What a world, what a life, I'm in love
+Life is a beautiful thing, as long as I hold the string
+I'd be a silly so and so, if I should ever let go
+I've got the world on a string, sittin' on a rainbow
+Got the string around my finger
+What a world
+Man this is the life 
+And now I'm so in love!
 */
 }
 </file>
@@ -10510,6 +12350,36 @@ Link
 Lyrics
 {
 /*
+I've got you under my skin
+I've got you deep in the heart of me
+So deep in my heart that you're really a part of me
+I've got you under my skin
+I'd tried so not to give in
+I said to myself this affair never will go so well
+But why should I try to resist when baby I know so well
+I've got you under my skin
+I'd sacrifice anything come what might
+For the sake of having you near
+In spite of a warning voice that comes in the night
+And repeats, repeats in my ear
+Don't you know little fool
+You never can win
+Use your mentality, wake up to reality
+But each time I do just the thought of you
+Makes me stop before I begin
+Because I've got you under my skin
+I would sacrifice anything come what might
+For the sake of having you near
+In spite of the warning voice that comes in the night
+And repeats how it yells in my ear
+Don't you know little fool
+You never can win
+Why not use your mentality
+Step up, wake up to reality
+And each time I do just the thought of you
+Makes me stop just before I begin
+Because I've got you under my skin
+Yes I got you under my skin
 */
 }
 </file>
@@ -10535,12 +12405,28 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I've grown accustomed to her face
+She almost makes the day begin
+I've grown accustomed to the tune
+She whistles night and noon
+Her smiles, her frowns
+Her ups, her downs
+Are second nature to me now
+Like breathing out and breathing in
+I was serenely independent and content before we met
+Surely I could always be that way again and yet
+I've grown accustomed to her look
+Accustomed to her voice, accustomed to her face
+I'm very grateful she's a woman and so easy to forget
+Rather like a habit one can always break and yet
+I've grown accustomed to the trace of something in the air
+Accustomed to her face
 */
 }
 </file>
@@ -10570,12 +12456,32 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I've never been in love before
+Now all at once it's you
+It's you forever more
+I've never been in love before
+I thought my heart was safe
+I thought I knew the score
+But this is wine
+It's all too strange and strong
+I'm full of foolish song
+And out my song must pour
+So please forgive this helpless haze I'm in
+I've really never been
+In love before
+But this is wine
+It's all too strange and strong
+I'm full of foolish song
+And out my song must pour
+So please forgive this helpless haze I'm in
+I've really never been
+In love before
 */
 }
 </file>
@@ -10611,7 +12517,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -10658,7 +12564,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -10694,12 +12600,38 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+If I loved you,
+Time and again I would try to say
+All I'd want you to know.
+If I loved you,
+Words wouldn't come in an easy way
+Round in circles I'd go!
+Longin' to tell you,
+But afraid and shy,
+I'd let my golden chances pass me by!
+Soon you'd leave me,
+Off you would go in the mist of day,
+Never, never to know how I loved you
+If I loved you.
+If I loved you,
+Time and again I would try to say
+All I'd want you to know.
+If I loved you,
+Words wouldn't come in an easy way
+Round in circles I'd go!
+Longin' to tell you,
+But afraid and shy,
+I'd let my golden chances pass me by!
+Soon you'd leave me,
+Off you would go in the mist of day,
+Never, never to know how I loved you
+If I loved you.
 */
 }
 </file>
@@ -10732,12 +12664,28 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+If I should lose you
+The stars would fall from the skies
+If I should lose you
+The leaves would wither and die
+The birds in May time
+Would sing a lonely refrain
+And I would wander around
+Hating the sound of rain
+With you beside me
+No wind in winter would blow
+With you beside me
+A rose would bloom in the snow
+I gave you my love
+But I was living a dream
+And living would seem in vain
+If I lost you
 */
 }
 </file>
@@ -10770,12 +12718,46 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/wfUHXNGOJbg"
 }
 
 Lyrics
 {
 /*
+Ask me how do I feel,
+Now that we're cosy and clinging,
+Well sir, all I can say is
+If I were a bell I'd be ringing!
+From the moment we kissed goodnight,
+That's the way I just gotta behave,
+And if I were a lamp I'd light,
+Or if I were a banner I'd wave!
+Ask me how do I feel,
+Little me with my quiet upbringing,
+Well sir, all I can say is
+If I were a gate I'd be swinging!
+And if I were a watch,
+I'd start popping my spring,
+Oh, and if I were a bell
+I'd go "Ding dong ding dong ding!".
+Ask me how do I feel
+From this chemistry lesson I'm learning,
+Well sir, all I can say is
+If I were a bridge I'd be burning!
+Well, I knew my moral would crack
+From the wonderful way you looked,
+Boy, if I were a duck I'd quack,
+Or if I were a goose I'd be cooked!
+Ask me how do I feel
+Now that we're fondly caressing,
+And if I were a salad,
+I know I'd be splashing my dressing!
+Or if I were a season,
+I'd surely be Spring,
+Yes, and if I were a bell,
+Say, if I were a bell,
+If I were a bell
+I'd go "Ding dong ding dong ding!".
 */
 }
 </file>
@@ -10805,12 +12787,26 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+If you could see me now, you'd know how blue I've been
+One look is all you'd need to see the mood I'm in
+Perhaps then you'd realize I'm still in love with you
+If you could see me now, you'd find me being brave
+And trying awfully hard to make my tears behave
+But that's quite impossible, I'm still in love with you
+You'll happen my way on some mem'rable day
+And the month will be May for a while
+I'll try to smile but can I play the part
+Without my heart behind the smile?
+The way I feel for you I never could disguise
+The look of love is written plainly in your eyes
+I think you'd be mine again if you could see me now
+You would be mine if you could see me now
 */
 }
 </file>
@@ -10834,12 +12830,27 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+There's no use of a moonlight glow
+Or the peaks where winter snows
+Whats the use of the waves that break in the cool of the evening
+What is the evening without you
+Its nothing
+It may be you will never come
+If you never come to me
+Whats the use of my wonderful dreams
+And why would they need me
+Where would they lead me without you
+To nowhere
+Whats the use of my wonderful dreams
+And why would they need me
+Where would they lead me without you
+To nowhere
 */
 }
 </file>
@@ -10868,12 +12879,39 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Blow, ill wind, blow away
+Let me rest today
+You're blowin' me no good
+No good
+Go, ill wind, go away
+Skies are oh so gray
+Around my neighborhood
+And that's no good
+You're only misleading
+The sunshine I'm needing
+Ain't that a shame
+It's so hard to keep up
+With troubles that creep up
+From out of nowhere
+When love's to blame
+So, ill wind, blow away
+Let me rest today
+You're blowin' me no good
+No good
+You're only misleading
+The sunshine I'm needing
+Ain't that a shame
+It's so hard to keep up
+With troubles that creep up
+From out of nowhere
+When love's to blame
+I'll wind
 */
 }
 </file>
@@ -10910,12 +12948,36 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Imagination is funny
+It makes the cloudy day sunny
+Makes the bee think of honey
+Just as I think of you
+
+Imagination is crazy
+Your whole perspective gets hazy
+Starts you asking a daisy
+What to do, what to do
+
+Have you ever felt the gentle touch
+And then a kiss, and then, and then
+Find it's only your imagination again
+Oh, well
+
+Imagination is silly
+You go around willy-nilly
+For example, I go around wanting you
+And yet I can't imagine that you want me too
+
+Imagination is silly
+You go around willy-nilly
+For example, I go around wanting you
+And yet I can't imagine that you want me too
 */
 }
 </file>
@@ -11018,12 +13080,35 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Imagine there's no heaven
+It's easy if you try
+No hell below us
+Above us only sky
+Imagine all the people living for today
+Imagine there's no countries
+It isn't hard to do
+Nothing to kill or die for
+And no religion too
+Imagine all the people living life in peace, you
+You may say I'm a dreamer
+But I'm not the only one
+I hope some day you'll join us
+And the world will be as one
+Imagine no possessions
+I wonder if you can
+No need for greed or hunger
+A brotherhood of man
+Imagine all the people sharing all the world, you
+You may say I'm a dreamer
+But I'm not the only one
+I hope some day you'll join us
+And the world will be as one
 */
 }
 </file>
@@ -11062,7 +13147,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11129,7 +13214,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=In A Sentimental Mood>
@@ -11164,12 +13249,44 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+In a Sentimental Mood I can see
+The stars come through my room
+While your loving attitude is
+Like a flame that lights the gloom
+On the wings of ev'ry kiss
+Drift a melody so strange and sweet
+In this sentimental bliss you make
+My Paradise complete
+Rose pearls seem to fall
+It's all like a dream to call you mine
+My heart's lighter thing since you
+Made me this night a thing divine
+In A Sentimental Mood
+I'm within a world so heavenly
+For I never dreamt that you'd be
+Loving sentimental me
+In A Sentimental Mood I can see
+The stars come through my room
+While your loving attitude is
+Like a flame that lights the gloom
+On the wings of ev'ry kiss
+Drift a melody so strange and sweet
+In this sentimental bliss you make
+My Paradise complete
+Rose pearls seem to fall
+It's all like a dream to call you mine
+My heart's lighter thing since you
+Made me this night a thing divine
+In A Sentimental Mood
+I'm within a world so heavenly
+For I never dreamt that you'd be
+Loving sentimental me
 */
 }
 </file>
@@ -11200,7 +13317,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11236,7 +13353,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11270,7 +13387,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11304,7 +13421,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11341,12 +13458,48 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Who's the lovin' daddy with the beautiful eyes
+What a pair o' lips, I'd like to try 'em for size
+I'll just tell him, "Baby, won't you swing it with me"
+Hope he tells me maybe, what a wing it will be
+So, I said politely "Darlin' may I intrude"
+He said "Don't keep me waitin' when I'm in the mood"
+First I held him lightly and we started to dance
+Then I held him tightly what a dreamy romance
+And I said "Hey, baby, it's a quarter to three
+There's a mess of moonlight, won't-cha share it with me"
+"Well" he answered "Baby, don't-cha know that it's rude
+To keep my two lips waitin' when they're in the mood"
+In the mood, that's what he told me
+In the mood, and when he told me
+In the mood, my heart was skippin'
+It didn't take me long to say "I'm in the mood now"
+In the mood for all his kissin'
+In the mood his crazy lovin'
+In the mood what I was missin'
+It didn't take me long to say "I'm in the mood now"
+So, I said politely "Darlin' may I intrude"
+He said "Don't keep me waitin' when I'm in the mood"
+"Well" he answered "Baby, don't-cha know that it's rude
+To keep my two lips waitin' when they're in the mood"
+Who's the lovin' daddy with the beautiful eyes
+What a pair o' lips, I'd like to try 'em for size
+I'll just tell him, "Baby, won't you swing it with me"
+Hope he tells me maybe, what a wing it will be
+So, I said politely "Darlin' may I intrude"
+He said "Don't keep me waitin' when I'm in the mood"
+First I held him lightly and we started to dance
+Then I held him tightly what a dreamy romance
+And I said "Hey, baby, it's a quarter to three
+It's a mess of moonlight, won't-cha share it with me"
+"Well" he answered "Baby, don't-cha know that it's rude
+To keep my two lips waitin' when they're in the mood"
 */
 }
 </file>
@@ -11384,12 +13537,25 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+In the still of the night
+As I gaze from my window
+At the Moon in its flight
+My thoughts all stray to you
+In the still of the night
+While the world is in slumber
+Oh, the times without number
+Darling, when I say to you
+Do you love me as I love you
+Are you my life to be, my dream come true
+Or will this dream of mine fade out of sight
+Like the Moon growing dim on the rim of the hill
+In the chill, still of the night
 */
 }
 </file>
@@ -11423,7 +13589,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11467,7 +13633,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11498,7 +13664,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11538,7 +13704,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11587,12 +13753,22 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Summer, you old Indian Summer
+You're the tear that comes after June-time's laughter
+You see so many dreams that don't come true
+Dreams we fashioned when Summertime was new
+
+You are here to watch over
+Some heart that is broken by a word that somebody left unspoken
+You're the ghost of a romance in June going astray
+Fading too soon, that's why I say
+"Farewell to you, Indian Summer"
 */
 }
 </file>
@@ -11655,7 +13831,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Inner Urge>
@@ -11682,7 +13858,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11710,7 +13886,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11748,7 +13924,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11787,7 +13963,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11832,7 +14008,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11863,7 +14039,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11899,7 +14075,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11931,7 +14107,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -11975,12 +14151,33 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Isn't it romantic?
+Music in the night
+A dream that can be heard
+Isn't it romantic?
+Moving shadows write the oldest magic word
+I hear the breezes playing in the trees above
+While all the world is saying you were meant for love
+Isn't it romantic?
+Merely to be young on such a night like this?
+Isn't it romantic?
+Every note that's sung is like a lover's kiss
+Sweet symbols in the moonlight
+Do you mean that I will fall in love perchance?
+Isn't it romantic?
+Isn't it romantic?
+Merely to be young on such a night like this?
+Isn't it romantic?
+Every note that's sung is like a lover's kiss
+Sweet symbols in the moonlight
+Do you mean that I will fall in love perchance?
+Isn't it romantic?
 */
 }
 </file>
@@ -12010,12 +14207,34 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Isn't she lovely?
+Isn't she wonderful?
+Isn't she precious?
+Less than one minute old
+I never thought through love we'd be
+Makin' one as lovely as she
+But isn't she lovely, made from love?
+Isn't she pretty?
+Truly the angels' best
+Boy, I'm so happy
+We have been heaven-blessed
+I can't believe what God has done
+Through us he's given life to one
+But isn't she lovely, made from love?
+Isn't she lovely?
+Life and love are the same
+Life is Aisha
+The meaning of her name
+Londie, it could have not been done
+Without you who conceived the one
+That's so very lovely, made from love
+Ow!
 */
 }
 </file>
@@ -12042,7 +14261,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12081,7 +14300,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12146,7 +14365,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=It Don't Mean A Thing (If It Ain't Got That Swing)>
@@ -12201,7 +14420,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=It Happened on the Boat>
@@ -12227,7 +14446,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12270,12 +14489,34 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I'm as restless as a willow in a windstorm
+I'm as jumpy as puppet on a string
+I'd say that I had spring fever
+But I know it isn't spring
+I am starry eyed and vaguely discontented
+Like a nightingale without a song to sing
+O why should I have spring fever
+When it isn't even spring
+I keep I were someone else
+Walking down a strange new street
+And hearing words that I've never head
+From a girl I've yet to meet
+I'm as busy as spider spinning daydreams
+Spinning spinning daydreams
+I'm as giggy as a baby on a swing
+I haven't seen a crocus or a rosebud
+Or a robin on the wing
+But I feel so gay in a melancholy way
+That it might as well be spring
+It might as
+Well be
+Spring
 */
 }
 </file>
@@ -12290,7 +14531,7 @@ Chord
   F F+ | F6 F+ | Fmaj7 Gm7 | Am7 Gm7 |
   Fmaj7 Gm7 | Am7 D7 | Gm7 | Cm7 F7 .
 
-  Bbmaj7 Am7 | Gm7 C7 | Fmaj7 C9sus4 | Fmaj7 C9sus4 |
+  Bbmaj7 Am7 | Gm7 C7 | Fmaj7 Csus9 | Fmaj7 Csus9 |
   Fmaj7 Gm7 | Am7 Bm7b5 E7 | Am7 D7 | Gm7 C7 .
 
   Fmaj7 F+ | F6 F+ | Fmaj7 Gm7 | Am7 Gm7 |
@@ -12307,12 +14548,27 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Once I laughed when I heard you saying
+That I'd be playing solitaire
+Uneasy in my easy chair
+It never entered my mind
+Once you told me I was mistaken
+That I'd awaken with the sun
+And ordered orange juice for one
+It never entered my mind
+You had what I lack, myself
+Now I even have to scratch my back myself
+Once you warned me that if you scorned me
+I'd say a lonely prayer again
+And wish that you were there again
+To get into my hair again
+It never entered my mind
 */
 }
 </file>
@@ -12357,12 +14613,29 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+It's the wrong time and the wrong place
+Though your face is charming it's the wrong face
+It's not her face but it's such a charming face
+That it's alright with me
+It's the wrong song in the wrong style
+Though your smile is lovely it's the wrong smile
+It's not her smile but it's such a lovely smile
+That it's alright with me
+You can't know how happy i am that we met
+I'm strangely attracted to you
+There's someone i'm trying so hard to forget
+Don't you want to forget someone too
+It's the wrong game with the wrong chips
+Though your lips are tempting they're the wrong lips
+They're not her lips but they're such tempting lips
+That if some night you're free
+It's alright with me
 */
 }
 </file>
@@ -12410,7 +14683,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=It's You Or No One>
@@ -12445,6 +14718,24 @@ Link
 Lyrics
 {
 /*
+How did I know that the warmth of the glow would last?
+How did I guess that the long loneliness was past?
+I merely looked at you and I knew that I knew
+It's you or no one for me
+I'm sure of this each time we kiss
+Now and forever and when forever's done
+You'll find that you are still the one
+Please, don't say no to my plea
+'Cause if you do, then I'm all through
+There's this about you
+My world's an empty world without you
+It's you or no one for me
+Please, don't say no to my plea
+'Cause if you do, then I'm all through
+There's this about you
+My world's an empty world without you
+It's you or no one for me
+For me
 */
 }
 </file>
@@ -12467,7 +14758,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12516,12 +14807,66 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Last time
+Last time I saw Jeannine
+She looked just like a royal queen
+And she cruised by
+With some wealthy guy
+In a Cadillac limousine
+Last time
+Last time I saw Jeannine
+
+Last time
+Last time I saw Jeannine
+Recall when we were seventeen
+I was a beau
+'Twas not so long ago
+But too short
+Of that long lost dream
+To satisfy Jeannine
+
+Now she's gone from me
+Moved away from the old neighborhood
+And I'm certain
+She's gone for good
+
+Last time
+Last time I saw Jeannine
+The dollar signs stood in between
+It was a love lost to the rising cost
+But since then, I have never seen
+I have never seen Jeannine
+
+Now she's gone from me
+Moved away from the old neighborhood
+And I'm certain
+She's gone for good
+
+Last time
+Last time I saw Jeannine
+The dollar signs stood in between
+It was a love lost to the rising cost
+But since then, I have never seen
+I have never seen Jeannine
+
+Last time
+Last time I saw Jeannine
+Last time
+Last time I saw Jeannine
+
+Hey cats - are you ready?
+Oh Jeannine (Jeannine)
+Jeannine (Jeannine)
+
+Last time
+Last time I saw Jeannine --
+Last time I saw Jeannine --
 */
 }
 </file>
@@ -12545,7 +14890,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12581,7 +14926,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12628,7 +14973,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12666,12 +15011,26 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+The night is getting on, the band is getting show
+The crowd is almost gone and here we are still dancin'
+Nothing to do but waltz
+Our feet can barely move, my legs are yellin'"Whoa"
+But we're in such a groove that love is still advancin'
+Nothing to do but waltz
+You can't suggest that we could go on Jitterbuggin'
+We've nothing left for moves more strenuous than huggin'
+But we don't need much room to gently cut a rug in we two
+I'm tired and out of juice and yet from head to toe 
+My body's feeling loose and warm and kind of supple
+Nothing to do but waltz
+The minutes slip away, my arms just won't let go
+I think I'd…
 */
 }
 </file>
@@ -12704,7 +15063,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12732,7 +15091,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12765,7 +15124,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12796,7 +15155,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12856,7 +15215,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12894,7 +15253,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12927,7 +15286,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -12973,7 +15332,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -13001,7 +15360,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -13036,7 +15395,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -13073,12 +15432,49 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+I don't go out walking
+I ain't for no talking
+My baby's done left me
+Just a sittin' and a rockin'
+If I had been scheming
+Instead of just dreaming
+He'd never have left me
+Just a sittin' and a rockin'
+Sittin all day without holding my baby
+Makes me so blue and sad
+If he don't hurry and come back
+It's a cinch to drive me mad
+Now if I don't find him
+I hope you'll remind him
+That I'm staying where he left me
+Just a sittin' and a rockin'
+All day
+Don't go out a walking
+And I for no talking
+My baby's done left me
+Just a sittin' and a rockin'
+All day
+If I had been scheming
+Instead of just dreaming
+He'd never have left me
+Just a sittin' and a rockin'
+Sittin all day without holding my baby
+I miss my lonely papa
+If he don't hurry and come back
+It's a cinch to, I'll blow my toppa
+Now if I don't find him
+I hope you'll remind him
+That I'm staying where he left me
+Just a sittin' and a rockin'
+Rockin' and a sittin'
+Sittin' and a rockin'
+All day
 */
 }
 </file>
@@ -13135,7 +15531,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Just In Time>
@@ -13183,7 +15579,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Just Squeeze Me>
@@ -13246,7 +15642,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Just The Way You Are>
@@ -13388,7 +15784,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 </file>
 <file name=Just You, Just Me>
@@ -13433,7 +15829,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -13465,7 +15861,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -13503,7 +15899,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -13531,7 +15927,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -13567,7 +15963,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -13600,7 +15996,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -13664,7 +16060,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -13707,12 +16103,28 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Para bailar la bamba
+Para bailar la bamba se necesita una poca de gracia
+Una poca de gracia pa' mi pa' ti y arriba y arriba
+Ah y arriba y arriba por ti seré, por ti seré, por ti seré
+Yo no soy marinero
+Yo no soy marinero, soy capitán,
+Soy capitán, soy capitán
+Bamba bamba
+Para bailar la bamba
+Para bailar la bamba se necesita una poca de gracia
+Una poca de gracia pa' mi pa' ti ah y arriba y arriba
+Para bailar la bamba
+Para bailar la bamba se necesita una poca de gracia
+Una poca de gracia pa' mi pa' ti ah y arriba y arriba
+Ah y arriba y arriba por ti seré, por ti seré, por ti seré
+Bamba bamba
 */
 }
 </file>
@@ -13744,12 +16156,40 @@ Misc
 
 Link
 {
-	""
+  "https://youtu.be/lMDVthcII-c"
 }
 
 Lyrics
 {
 /*
+She gets too hungry for dinner at eight 
+She likes the theatre and never comes late 
+She never bothers with people she'd hate 
+That's why the lady is a tramp
+Doesn't like crap games with barons or earls 
+Won't go to Harlem in ermine and pearls 
+Won't dish the dirt with the rest of the girls 
+That's why the lady is a tramp
+She likes the free, fresh wind in her hair 
+Life without care 
+She's broke, and it's ok
+Hates California, it's cold and it's damp 
+That's why the lady is a tramp
+She gets too hungry to wait for dinner at eight 
+She loves the theatre but never comes late 
+She'd never bother with people she'd hate 
+That's why the lady is a tramp
+She'll have no crap games with sharpies and frauds 
+And she won't go to Harlem in Lincolns or Fords 
+And she won't dish the dirt with the rest of the broads 
+That's why the lady is a tramp
+She'd love the free, fresh wind in her hair 
+Life without care 
+She's broke, but it's ok
+Hates California, it's so cold and so damp 
+That's why the lady 
+That's why the lady
+That's why the lady is a tramp
 */
 }
 </file>
@@ -13784,7 +16224,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -13820,7 +16260,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -13848,7 +16288,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -13896,12 +16336,40 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Lately, I have had the strangest feeling
+With no vivid reason here to find
+Yet the thought of losing you's been hanging
+'Round my mind
+Far more frequently you're wearing perfume
+With you say no special place to go
+But when I ask will you be coming back soon
+You don't know, never know
+Well, I'm a man of many wishes, hope my premonition misses
+But what I really feel my eyes won't let me hide
+'Cause they always start to cry
+'Cause this time could mean goodbye
+Lately I've been staring in the mirror
+Very slowly picking me apart
+Trying to tell myself I have no reason
+With your heart
+Just the other night while you were sleeping
+I vaguely heard you whisper someone's name
+But when I ask you of the thoughts you're keeping
+You just say nothing's changed
+Well, I'm a man of many wishes, I hope my premonition misses
+But what I really feel my eyes won't let me hide
+'Cause they always start to cry
+'Cause this time could mean goodbye, goodbye
+Oh, I'm a man of many wishes, I hope my premonition misses
+But what I really feel my eyes won't let me hide
+'Cause they always start to cry
+'Cause this time could mean goodbye
 */
 }
 </file>
@@ -13934,12 +16402,23 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Laura is the face in the misty lights
+Footsteps that you hear down the hall
+The (love) that floats on a summer night
+That you can never quite recall
+And you see laura on a train that is passing through
+Those eyes how familiar they seem
+She gave your very first kiss to you
+That was laura but she's only a dream
+She gave your very first kiss to you
+That was laura
+But she's only a dream
 */
 }
 </file>
@@ -13971,12 +16450,30 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+It's a lazy afternoon
+And the beetle bugs are zooming
+And the tulip trees are blooming
+And there's not another human in view,
+But us two
+It's a lazy afternoon
+And the farmer leaves his reaping
+In the meadow cows are sleeping
+And the speckled trout stop leaping up stream
+As we dream
+A fat pink cloud hangs over the hill
+Unfolding like a rose
+If you hold my hand and sit real still,
+You can hear the grass as it grows
+It's a hazy afternoon
+And I know a place that's quiet, except for daisies running riot
+And there's no one passing by it to see
+Come spend this lazy afternoon with me
 */
 }
 </file>
@@ -14014,7 +16511,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14054,7 +16551,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14088,7 +16585,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14122,7 +16619,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14197,7 +16694,7 @@ Lyrics
 
 Link
 {
-	""
+  "https://youtu.be/vRDQ6CED2ZE"
 }
 
 Lyrics
@@ -14230,7 +16727,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14277,7 +16774,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14322,7 +16819,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14400,7 +16897,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14433,7 +16930,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14464,7 +16961,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14498,7 +16995,7 @@ Misc
 
 Link
 {
-	""
+  "https://youtu.be/ELdvu6XNYDg"
 }
 
 Lyrics
@@ -14549,7 +17046,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14593,7 +17090,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14630,7 +17127,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14665,7 +17162,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14701,7 +17198,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14737,7 +17234,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14770,7 +17267,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14807,7 +17304,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14838,7 +17335,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14873,7 +17370,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14922,7 +17419,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14955,7 +17452,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -14991,7 +17488,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15020,7 +17517,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15055,7 +17552,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15100,7 +17597,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15143,7 +17640,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15181,7 +17678,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15213,7 +17710,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15249,7 +17746,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15299,7 +17796,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15337,7 +17834,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15378,7 +17875,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15413,7 +17910,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15456,7 +17953,7 @@ Misc
 
 Link
 {
-	""
+  "https://youtu.be/0izjSUqCcSQ"
 }
 
 Lyrics
@@ -15497,7 +17994,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15532,7 +18029,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15571,7 +18068,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15604,7 +18101,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15637,7 +18134,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15680,7 +18177,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/gQNFCRom7c0"
 }
 
 Lyrics
@@ -15726,7 +18223,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15777,7 +18274,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15828,7 +18325,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15864,7 +18361,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15906,7 +18403,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -15965,7 +18462,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16030,7 +18527,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16079,7 +18576,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16118,7 +18615,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16150,7 +18647,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16191,7 +18688,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16233,7 +18730,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16266,7 +18763,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16305,7 +18802,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16338,7 +18835,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16391,7 +18888,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16427,7 +18924,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16463,7 +18960,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16507,7 +19004,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16542,7 +19039,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16575,7 +19072,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16604,7 +19101,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16652,7 +19149,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16686,7 +19183,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16727,7 +19224,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16768,7 +19265,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16813,7 +19310,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16849,7 +19346,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16884,7 +19381,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16948,7 +19445,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -16978,7 +19475,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17015,7 +19512,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17054,7 +19551,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17093,7 +19590,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17135,7 +19632,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17162,7 +19659,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17204,7 +19701,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17240,7 +19737,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17284,7 +19781,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17333,7 +19830,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17384,7 +19881,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/NDw7Assb2mM"
 }
 
 Lyrics
@@ -17420,7 +19917,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17456,7 +19953,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17489,7 +19986,7 @@ Misc
 
 Link
 {
-	""
+  "https://youtu.be/a4tG7929O3I"
 }
 
 Lyrics
@@ -17515,7 +20012,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17545,7 +20042,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17573,7 +20070,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17617,7 +20114,7 @@ Misc
 
 Link
 {
-	""
+  "https://youtu.be/qWG2dsXV5HI"
 }
 
 Lyrics
@@ -17659,7 +20156,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/a2LFVWBmoiw"
 }
 
 Lyrics
@@ -17727,7 +20224,7 @@ Progression
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17765,7 +20262,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17801,7 +20298,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17837,7 +20334,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17874,7 +20371,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17920,7 +20417,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17955,7 +20452,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -17996,7 +20493,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18045,7 +20542,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/ecrE80rnjhw"
 }
 
 Lyrics
@@ -18092,7 +20589,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18127,7 +20624,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18160,7 +20657,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18198,7 +20695,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18242,7 +20739,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18293,7 +20790,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18326,7 +20823,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18373,7 +20870,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18402,7 +20899,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18435,7 +20932,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18466,7 +20963,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18510,7 +21007,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18562,7 +21059,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18593,7 +21090,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18638,7 +21135,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18713,7 +21210,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18744,7 +21241,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18781,7 +21278,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18814,7 +21311,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18866,7 +21363,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/Ofg8vUDGWQI"
 }
 
 Lyrics
@@ -18901,7 +21398,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -18959,7 +21456,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/q0UWu_xchHU"
 }
 
 Lyrics
@@ -18993,7 +21490,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19033,7 +21530,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19083,7 +21580,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19111,7 +21608,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19139,7 +21636,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19173,7 +21670,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19234,7 +21731,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19267,7 +21764,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19316,7 +21813,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19357,7 +21854,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19403,7 +21900,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19477,7 +21974,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19507,7 +22004,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19576,7 +22073,7 @@ Lyrics
 
 Link
 {
-	""
+  "https://youtu.be/8wwxaJ80nCg"
 }
 
 Lyrics
@@ -19617,7 +22114,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19653,7 +22150,7 @@ Misc
 
 Link
 {
-	""
+  "https://youtu.be/H0grl8rKUiw"
 }
 
 Lyrics
@@ -19688,12 +22185,32 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
 {
 /*
+Once I loved,
+And I gave so much love to this love,
+It was the world to me.
+Once I cried,
+At the thought I was foolish and proud,
+And let you say goodbye.
+Then one day,
+From my infinite sadness you came,
+And brought me love again.
+Now I know,
+That no matter whatever befalls,
+I'll never let you go.
+I will hold you close,
+Make you stay.
+Because love,
+Is the saddest thing,
+When it goes away.
+Because love,
+Is the saddest thing,
+When it goes away.
 */
 }
 </file>
@@ -19724,7 +22241,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19757,7 +22274,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19787,7 +22304,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19822,7 +22339,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19870,7 +22387,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19909,7 +22426,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19936,7 +22453,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -19979,7 +22496,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20007,7 +22524,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20039,7 +22556,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20082,7 +22599,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20109,7 +22626,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20193,7 +22710,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20230,7 +22747,7 @@ Chord
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20261,7 +22778,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20299,7 +22816,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20336,7 +22853,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20375,7 +22892,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/27mrgqXm4q0"
 }
 
 Lyrics
@@ -20427,7 +22944,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/_a1LogyX9Uw"
 }
 
 Lyrics
@@ -20458,7 +22975,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20491,7 +23008,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20526,7 +23043,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20559,7 +23076,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20595,7 +23112,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20634,7 +23151,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20662,7 +23179,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20699,7 +23216,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20738,7 +23255,7 @@ Misc
 
 Link
 {
-	""
+  "https://youtu.be/pGrFNtrxRjw"
 }
 
 Lyrics
@@ -20767,7 +23284,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20807,7 +23324,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20844,7 +23361,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20886,7 +23403,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20917,7 +23434,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -20966,7 +23483,7 @@ Misc
 
 Link
 {
-	""
+  "https://youtu.be/XChPb7d6vh8"
 }
 
 Lyrics
@@ -20994,7 +23511,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21027,7 +23544,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21063,7 +23580,7 @@ Misc
 
 Link
 {
-	""
+  "https://youtu.be/ec2L1E4p1lU"
 }
 
 Lyrics
@@ -21093,7 +23610,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21140,7 +23657,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21178,7 +23695,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21219,7 +23736,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/4NTxWQfMSsA"
 }
 
 Lyrics
@@ -21255,7 +23772,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21291,7 +23808,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21323,7 +23840,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21364,7 +23881,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21398,7 +23915,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21428,7 +23945,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21501,7 +24018,7 @@ Progression
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21533,7 +24050,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21565,7 +24082,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21595,7 +24112,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21637,7 +24154,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21685,7 +24202,7 @@ Progression
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21722,7 +24239,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21751,7 +24268,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21805,7 +24322,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21845,7 +24362,7 @@ Misc
 
 Link
 {
-	""
+  "https://youtu.be/XM4mBonEcIA"
 }
 
 Lyrics
@@ -21893,7 +24410,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21923,7 +24440,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21956,7 +24473,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -21990,7 +24507,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22034,7 +24551,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22069,7 +24586,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22113,7 +24630,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22148,7 +24665,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22189,7 +24706,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22224,7 +24741,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22270,7 +24787,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22341,7 +24858,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22376,7 +24893,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22422,7 +24939,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/PQ9x01ytWMU"
 }
 
 Lyrics
@@ -22466,7 +24983,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22493,7 +25010,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22529,7 +25046,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22574,7 +25091,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22602,7 +25119,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22652,7 +25169,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22698,7 +25215,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22759,7 +25276,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22795,7 +25312,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22849,7 +25366,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22888,7 +25405,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22929,7 +25446,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22963,7 +25480,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -22996,7 +25513,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23029,7 +25546,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23069,7 +25586,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23099,7 +25616,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23130,7 +25647,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23168,7 +25685,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23213,7 +25730,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23246,7 +25763,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23299,7 +25816,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23332,7 +25849,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23362,7 +25879,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23392,7 +25909,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23425,7 +25942,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23474,7 +25991,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23515,7 +26032,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23552,7 +26069,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23592,7 +26109,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23631,7 +26148,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23665,7 +26182,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23737,7 +26254,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23779,7 +26296,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23824,7 +26341,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23863,7 +26380,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23912,7 +26429,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23953,7 +26470,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -23992,7 +26509,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24033,7 +26550,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24078,7 +26595,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24106,7 +26623,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24142,7 +26659,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24177,7 +26694,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24212,7 +26729,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24255,7 +26772,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24296,7 +26813,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24332,7 +26849,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24365,7 +26882,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24395,7 +26912,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24458,7 +26975,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24497,7 +27014,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24529,7 +27046,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24565,7 +27082,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24600,7 +27117,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24638,7 +27155,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24680,7 +27197,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24717,7 +27234,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24754,7 +27271,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24794,7 +27311,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24831,7 +27348,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24871,7 +27388,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24900,7 +27417,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24936,7 +27453,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -24990,7 +27507,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25023,7 +27540,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25075,7 +27592,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25111,7 +27628,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25150,7 +27667,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25178,7 +27695,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25212,7 +27729,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25248,7 +27765,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25285,7 +27802,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25318,7 +27835,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25355,7 +27872,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25395,7 +27912,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25426,7 +27943,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25461,7 +27978,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25497,7 +28014,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25532,7 +28049,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25572,7 +28089,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25606,7 +28123,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25639,7 +28156,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25674,7 +28191,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25765,7 +28282,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25804,7 +28321,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25840,7 +28357,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25882,7 +28399,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25910,7 +28427,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25939,7 +28456,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -25976,7 +28493,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26012,7 +28529,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26048,7 +28565,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26084,7 +28601,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26112,7 +28629,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26160,7 +28677,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26203,7 +28720,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26243,7 +28760,7 @@ Link
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26289,7 +28806,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26337,7 +28854,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26367,7 +28884,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26407,7 +28924,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26447,7 +28964,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26498,7 +29015,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26526,7 +29043,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26567,7 +29084,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26607,7 +29124,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26635,7 +29152,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26676,7 +29193,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26724,7 +29241,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26758,7 +29275,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26803,7 +29320,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26852,7 +29369,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26892,7 +29409,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -26938,7 +29455,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/mshV7ug8cdE"
 }
 
 Lyrics
@@ -26986,7 +29503,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27022,7 +29539,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27050,7 +29567,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27086,7 +29603,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27120,7 +29637,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27156,7 +29673,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27192,7 +29709,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27253,7 +29770,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27294,7 +29811,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27329,7 +29846,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27361,7 +29878,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27389,7 +29906,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27424,7 +29941,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27473,7 +29990,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27505,7 +30022,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27548,7 +30065,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27583,7 +30100,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27621,7 +30138,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27659,7 +30176,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27699,7 +30216,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27735,7 +30252,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27772,7 +30289,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27803,7 +30320,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27840,7 +30357,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27868,7 +30385,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27917,7 +30434,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27954,7 +30471,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -27993,7 +30510,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28029,7 +30546,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28072,7 +30589,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28114,7 +30631,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28149,7 +30666,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28187,7 +30704,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28230,7 +30747,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28266,7 +30783,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28300,7 +30817,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28335,7 +30852,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28375,7 +30892,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28410,7 +30927,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28445,7 +30962,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28498,7 +31015,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/dH3GSrCmzC8"
 }
 
 Lyrics
@@ -28537,7 +31054,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28566,7 +31083,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28608,7 +31125,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28711,7 +31228,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28760,7 +31277,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28795,7 +31312,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28833,7 +31350,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28866,7 +31383,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28896,7 +31413,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28930,7 +31447,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -28965,7 +31482,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29002,7 +31519,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29044,7 +31561,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29083,7 +31600,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29121,7 +31638,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29157,7 +31674,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29193,7 +31710,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29229,7 +31746,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29265,7 +31782,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29308,7 +31825,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29346,7 +31863,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29382,7 +31899,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29421,7 +31938,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29467,7 +31984,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29505,7 +32022,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29564,7 +32081,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29597,7 +32114,7 @@ Chord
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29647,7 +32164,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29682,7 +32199,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29718,7 +32235,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29756,7 +32273,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29794,7 +32311,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29870,7 +32387,7 @@ Link
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -29921,7 +32438,7 @@ Note
 
 Link
 {
-	""
+  "https://youtu.be/aGa7LaMturk"
 }
 
 Lyrics
@@ -29952,7 +32469,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30041,7 +32558,7 @@ Lyrics
 
 Link
 {
-	""
+  "https://youtu.be/oFmNgiEgPoQ"
 }
 
 Lyrics
@@ -30076,7 +32593,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30113,7 +32630,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30146,7 +32663,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30175,7 +32692,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30211,7 +32728,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30247,7 +32764,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30299,7 +32816,7 @@ Lyrics
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30333,7 +32850,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30366,7 +32883,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30396,7 +32913,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30434,7 +32951,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30477,7 +32994,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30519,7 +33036,7 @@ Note
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30598,7 +33115,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30621,7 +33138,7 @@ Chord
   Bbmaj7 Bo7 | Cm7 F7 | Bbmaj7 Bo7 | Fm7 on C F7 |
   Bb9 | Ebmaj7 Ebm6 | Dm7 G7b9 | Cm7 F7 |
   Dm7 G7b9 | Cm7 F7 | D7#5 Ab9#11 | G9 G7b9 |
-  Cm7 | F9sus4 F7b9 | Bb6 (G7b9#5 | Cm7 F7b9) ..
+  Cm7 | F7b9 | Bb6 (G7b9#5 | Cm7 F7b9) ..
 }
 
 Misc
@@ -30633,7 +33150,7 @@ Misc
 
 Link
 {
-	""
+  "https://youtu.be/TZNIKZdoehE"
 }
 
 Lyrics
@@ -30666,7 +33183,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30702,7 +33219,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30738,7 +33255,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30791,7 +33308,7 @@ Chord
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30834,7 +33351,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30870,7 +33387,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30906,7 +33423,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -30941,7 +33458,7 @@ Misc
 
 Link
 {
-	""
+  "https://youtu.be/rLZKf6CR2dw"
 }
 
 Lyrics
@@ -30990,7 +33507,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -31023,7 +33540,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
@@ -31056,7 +33573,7 @@ Misc
 
 Link
 {
-	""
+  ""
 }
 
 Lyrics
