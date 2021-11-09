@@ -26518,6 +26518,102 @@ Lyrics
 */
 }
 </file>
+<file name=Solfeggietto>
+Key { Cm }
+
+Rhythm { Swing }
+
+Chord
+{
+  Cm, G7, Cm, ,
+  Cm, G7, Cm, ,
+
+  Cm, Fm7, Bb7, Eb,
+  Am7b5, , D7, .
+
+  Gm6, D7, Gm6, ,
+  Gm6, D7, Gm6, ,
+
+  Gm6, G7, Cm, G7,
+  Cm, C7, Fm6, C7.
+
+  Fm6, C7, Fm6, ,
+  Fm6, C7, Fm6, ,
+
+  Fm6, , Db7, ,
+  C7, , G7 on B, ,
+  Cm Fm6, G7.
+
+  Cm, G7, C7, F7,
+  Bb7, Eb7, Ab7, Gbdim,
+  Cm, Cm G7.
+
+  Cm, G7, Cm, ,
+  Cm, G7, Cm, ,
+  Dm7b5, G7, , ..
+
+/*
+  Cm, G7, Cm, C7,
+  Fm, , Cm, ,
+  Dm7b5, G7, Cm, G7.
+
+  Cm, G7, Cm, C7,
+  Fm, , Cm, ,
+  Dm7b5, G7, Cm, G7.
+
+  Cm, G7, Cm, C7,
+  Fm, , Cm, ,
+  Dm7b5, G7, Cm, G7..
+*/
+}
+
+Note
+{
+  Eb3o C Eb G C4 Eb D C, B3 G B D4 G F Eb D, Eb C Eb G C5 Eb D C, D C B4 A G F Eb D,
+  Eb4o C Eb G C5 Eb D C, B4 G B D5 G F Eb D, Eb C Eb G C6 Eb D C, D C B5 A G F Eb D,
+
+  Eb5 C G4 Eb C C6 G5 Eb, Ab F3 Ab C4 Eb Ab C5 Eb, D Bb4 F D Bb3 Bb5 F D, G Eb3 G Bb Eb4 G Bb D5,
+  C5 A4 G# A C5 A4 G# A, Eb5 C G4 A Eb5 C G4 A, D5 C F#4 A A5 C F#4 A, F#5 C D4 A C5 A4 F# D,
+
+  Bb4 G3 Bb D4 G Bb A G, F# D F# A D5 C Bb4 A, Bb G4 Bb D5 G Bb A G, A G F# E D C Bb4 A,
+  Bb4 G Bb D5 G Bb A G, F# D F# A D6 C Bb5 A, Bb G5 Bb D6 G Bb A G, A G F# E D C Bb5 A,
+
+  Bb4 G Bb D5 G D Bb4 G, r G5 D B4 G B D5 G, C G4 G5 G4 C G4 G5 G4, B G F5 G4 B G F5 G4,
+  Eb5 C Eb G C6 G5 Eb C, r C6 G5 E C E G Bb, F C C6 C5 F C C6 C5, E C Bb C E C Bb C,
+
+  Ab5 F4 Ab C5 F4 Ab G F, E C E G C5 Bb4 Ab G, Ab F Ab C5 F Ab G F, G F E D C Bb4 Ab G,
+  Ab4 F Ab C5 F Ab G F, E C E G C6 Bb5 Ab G, Ab F Ab C6 F Ab G F, G F E D C Bb5 Ab G,
+
+  Ab5 F6 C Ab5 F C6 Ab5 F, C Ab F C Ab4 F5 C Ab4, Db5w, Ab5o F E F Ab5 F E F,
+  C5w, Ab5o F E F Ab5 F E F, B4w, D6o F5 G Ab G F Eb D,
+  Eb5 G C6 G5 Bb Ab G F, Ebh Dq Co D,
+
+  C5 G4 G5 G4 C5 G4 G5 G4, B G F5 G4 B G F5 G4, Bb G E5 G4 Bb G E5 G4, A Eb5 C6 Eb5 A4 Eb5 C6 Eb5,
+  Ab4 F D5 F4 Ab F D5 F4, G Db5 Bb Db G4 Db5 Bb Db, Gb4 Eb C5 Eb4 Gb Eb C5 Eb4, Eb4 C5 C6 C5 Eb4 C5 C6 C5,
+  Eb4 C5 Eb G C6 G5 Eb C, G Eb C G4 F5 D B4 F,
+
+  Eb4o C3 Eb G C4 Eb D C, B3 G B D4 G F Eb D, Eb C Eb G C5 Eb D C, D C B4 A G F Eb D,
+  Eb4o C Eb G C5 Eb D C, B4 G B D5 G F Eb D, Eb C Eb G C6 Eb D B5, C6q G5 Eb C,
+  Dh Eb, F G, Abw,
+}
+
+Lyrics
+{
+  
+}
+
+Misc
+{
+  Tempo = 300;
+  Repeat = 2;
+  MusicBy = "";
+  WordsBy = "";
+}
+
+Link
+{
+}
+</file>
 <file name=Solitude>
 Misc
 {
