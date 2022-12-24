@@ -1,0 +1,48 @@
+<file name = "Portrait in Jazz">
+artist = "Bill Evans";
+{
+  name     = "Come Rain Or Come Shine";
+  tempo    = 89;
+  keyshift = 2;
+}
+{
+  name     = "Autumn Leaves";
+  tempo    = 221;
+  keyshift = 0;
+}
+{
+  name     = "Witchcraft";
+  tempo    = 204;
+  keyshift = 0;
+}
+{
+  name     = "When I Fall in Love";
+  tempo    = 71;
+  keyshift = 0;
+}
+{
+  name     = "Peri's Scope";
+  tempo    = 182;
+  keyshift = 0;
+}
+{
+  name     = "What Is This Thing Called Love";
+  tempo    = 204;
+  keyshift = 0;
+}
+{
+  name     = "Spring Is Here";
+  tempo    = 59;
+  keyshift = 0;
+}
+{
+  name     = "Someday My Prince Will Come";
+  tempo    = 205;
+  keyshift = 0;
+}
+{
+  name     = "Blue In Green";
+  tempo    = 63;
+  keyshift = 0;
+}
+</file>

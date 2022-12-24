@@ -6335,16 +6335,16 @@ Spiritual journey begun long ago
 Eons of changes, illusion of some progress
 Fearfulness leading us further from the soul power
 Known in early ages
-When nature’s heartbeat rang loud on the earth
+When nature's heartbeat rang loud on the earth
 
 The key to our freedom lies not just in our thinking
-The ancient intuition that’s buried deep within us
+The ancient intuition that's buried deep within us
 Is waiting to be set free
-The creator’s gift to her children must flow
+The creator's gift to her children must flow
 
 We call on the past now to show us where to go
-We’re closer to then than we may want to show
-We’re closer to then than we may really know
+We're closer to then than we may want to show
+We're closer to then than we may really know
 Footprints, ancient footprints
 */
 }
@@ -7830,7 +7830,12 @@ Lyrics
 */
 }
 </file>
-<file name=Got A Match?>
+<file name=Got A Match>
+title
+{
+  Got A Match?
+}
+
 Key { Dm }
 
 Chord
@@ -8637,10 +8642,10 @@ I'll sing a Harlem nocturne
 */
 }
 </file>
-<file name=Have You Met Miss Jones?>
+<file name=Have You Met Miss Jones>
 Title
 {
-  Have You Met Miss Jones
+  Have You Met Miss Jones?
 }
 
 Lyrics
@@ -14116,10 +14121,10 @@ Lyrics
 */
 }
 </file>
-<file name=Isn't It Romantic?>
+<file name=Isn't It Romantic>
 Title
 {
-  Isn't It Romantic ?
+  Isn't It Romantic?
 }
 
 Misc
@@ -31552,7 +31557,12 @@ Lyrics
 */
 }
 </file>
-<file name=What Am I Here For?>
+<file name=What Am I Here For>
+title
+{
+  What Am I Here For?
+}
+
 Key { F }
 
 Chord
@@ -31587,7 +31597,12 @@ Lyrics
 */
 }
 </file>
-<file name=What Are You Doing The Rest Of Your Life?>
+<file name=What Are You Doing The Rest Of Your Life>
+title
+{
+  What Are You Doing The Rest Of Your Life?
+}
+
 Key { Am }
 
 Chord
@@ -31622,6 +31637,48 @@ Lyrics
 {
 /*
 */
+}
+</file>
+<file name=What Is This Thing Called Love>
+Key { C }
+
+Rhythm { Swing }
+
+Chord
+{
+  Gm7b5  | C+7    | Fm6    |        |
+  Dm7b5  | G+7    | Cmaj7  |        ||
+
+  Gm7b5  | C+7    | Fm6    |        |
+  Dm7b5  | G+7    | Cmaj7  |        ||
+
+  Cm7    | F7     | Bbmaj7 |        |
+  Ab7    |        | Dm7    | G+7    ||
+
+  Gm7b5  | C+7    | Fm6    |        |
+  Dm7b5  | G+7    | Cmaj7  |        |||
+}
+
+Note
+{
+  
+}
+
+Lyrics
+{
+  
+}
+
+Misc
+{
+  Tempo = 190;
+  Repeat = 2;
+  MusicBy = "Cole Porter";
+  WordsBy = "";
+}
+
+Link
+{
 }
 </file>
 <file name=What Was>
@@ -31666,7 +31723,12 @@ Lyrics
 */
 }
 </file>
-<file name=What'll I Do?>
+<file name=What'll I Do>
+title
+{
+  What'll I Do?
+}
+
 Key{f}
 
 TimeSignature{3/4}
@@ -31705,7 +31767,12 @@ Lyrics
 */
 }
 </file>
-<file name=What's New?>
+<file name=What's New>
+title
+{
+  What's New?
+}
+
 Key{c}
 
 Misc
@@ -31968,7 +32035,12 @@ Lyrics
 */
 }
 </file>
-<file name=Where Are You?>
+<file name=Where Are You>
+title
+{
+  Where Are You?
+}
+
 Key { G }
 
 Chord
@@ -32269,7 +32341,12 @@ Lyrics
 */
 }
 </file>
-<file name=Why Did I Choose You?>
+<file name=Why Did I Choose You>
+title
+{
+  Why Did I Choose You?
+}
+
 Key { Bb }
 
 Chord
